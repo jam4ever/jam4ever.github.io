@@ -1,0 +1,949 @@
+<!doctype html>
+
+
+
+  
+
+
+<html class="theme-next mist use-motion">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/vendors/font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.0.1" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="Hexo, NexT, ios, jimmypeng" />
+
+
+
+
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.0.1" />
+
+
+
+
+
+
+<meta name="description" content="一. CoreData 是什么?
+Core Data 是 iOS SDK 里的一个很强大的框架,允许程序员以面向对象的方式储存和管理数据。使用 Core Data 框架,程序员可以很轻松有效地通过面向对象的接口管理数据
+Core Data 是一个模型层的技术。帮助建立代表程序状态的模型层,Core Data 也是一种 持久化技术,能将模型对象的状态持久化到磁盘,但它最重要的特点是:  Core D">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Coredata">
+<meta property="og:url" content="http://jimmypeng.cn/2016/01/11/coredata/index.html">
+<meta property="og:site_name" content="J&M">
+<meta property="og:description" content="一. CoreData 是什么?
+Core Data 是 iOS SDK 里的一个很强大的框架,允许程序员以面向对象的方式储存和管理数据。使用 Core Data 框架,程序员可以很轻松有效地通过面向对象的接口管理数据
+Core Data 是一个模型层的技术。帮助建立代表程序状态的模型层,Core Data 也是一种 持久化技术,能将模型对象的状态持久化到磁盘,但它最重要的特点是:  Core D">
+<meta property="og:image" content="http://upload-images.jianshu.io/upload_images/1115674-3cebf6f0c3b5e52f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+<meta property="og:image" content="http://upload-images.jianshu.io/upload_images/1115674-6f67652a5b79322e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+<meta property="og:image" content="http://upload-images.jianshu.io/upload_images/1115674-44d722eecf63d855.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+<meta property="og:image" content="http://upload-images.jianshu.io/upload_images/1115674-f7f81e014bd2e3d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+<meta property="og:image" content="http://upload-images.jianshu.io/upload_images/1115674-45d75517f3ba3970.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+<meta property="og:image" content="http://upload-images.jianshu.io/upload_images/1115674-7f84be1adcaa5ddd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+<meta property="og:updated_time" content="2016-09-22T14:45:48.000Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Coredata">
+<meta name="twitter:description" content="一. CoreData 是什么?
+Core Data 是 iOS SDK 里的一个很强大的框架,允许程序员以面向对象的方式储存和管理数据。使用 Core Data 框架,程序员可以很轻松有效地通过面向对象的接口管理数据
+Core Data 是一个模型层的技术。帮助建立代表程序状态的模型层,Core Data 也是一种 持久化技术,能将模型对象的状态持久化到磁盘,但它最重要的特点是:  Core D">
+<meta name="twitter:image" content="http://upload-images.jianshu.io/upload_images/1115674-3cebf6f0c3b5e52f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+
+
+
+<script type="text/javascript" id="hexo.configuration">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    scheme: 'Mist',
+    sidebar: {"position":"right","display":"always"},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: 6333177780112459000,
+      author: 'Jimmy'
+    }
+  };
+</script>
+
+
+
+
+  <link rel="canonical" href="http://jimmypeng.cn/2016/01/11/coredata/"/>
+
+  <title> Coredata | J&M </title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans,en,default">
+
+  
+
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?15ff92f78d963406ab1037852d725472";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container one-collumn sidebar-position-right page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-meta ">
+  
+
+  <div class="custom-logo-site-title">
+    <a href="/"  class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <span class="site-title">J&M</span>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+  <p class="site-subtitle">一个不会做实验的程序猿不是一个好厨子</p>
+</div>
+
+<div class="site-nav-toggle">
+  <button>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+  </button>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th-list"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-jm">
+          <a href="/jm" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heart"></i> <br />
+            
+            J&M
+          </a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            搜索
+          </a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup">
+ <span class="search-icon fa fa-search"></span>
+ <input type="text" id="local-search-input">
+ <div id="local-search-result"></div>
+ <span class="popup-btn-close">close</span>
+</div>
+
+
+    </div>
+  
+</nav>
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                Coredata
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-01-11T23:07:29+08:00" content="2016-01-11">
+              2016-01-11
+            </time>
+          </span>
+
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/categories/iOS/" itemprop="url" rel="index">
+                    <span itemprop="name">iOS</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2016/01/11/coredata/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2016/01/11/coredata/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+              &nbsp; | &nbsp;
+              <span class="page-pv"><i class="fa fa-file-o"></i>
+              <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>
+              </span>
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h3 id="一-CoreData-是什么"><a href="#一-CoreData-是什么" class="headerlink" title="一. CoreData 是什么?"></a>一. CoreData 是什么?</h3><ul>
+<li>Core Data 是 iOS SDK 里的一个很强大的<strong>框架</strong>,允许程序员以<strong>面向对象的方式储存和管理数据</strong>。使用 Core Data 框架,程序员可以很轻松有效地通过面向对象的接口管理数据</li>
+<li><strong>Core Data 是一个模型层的技术</strong>。帮助建立代表程序状态的模型层,Core Data 也是一种 持久化技术,能将模型对象的状态持久化到磁盘,但它最重要的特点是: <strong> Core Data 不仅是一个加载、保存数据的框架,它还能和内存中的数据很好的共事</strong></li>
+<li>在数据操作过程中, <strong>无需编写任何SQL语句</strong></li>
+<li>Core Data 使用包括<strong>实体</strong>和<strong>实体间</strong>关系,以及查找符合某些条件实体的请求等内容</li>
+<li>开发者可以在<strong>纯对象层</strong>上查找与管理这些数据,而不必担心存储和查找的实现细节</li>
+<li>Core Data 框架最早出现在 Mac OS X 10.4 Tiger 与 iOS 3.0 系统,经过成千上万的应用程序以及数以百万用户的反复的验证,Core Data 确实已经是一套非常成熟的框架</li>
+<li>CoreData利用了Objective-C语言和运行时,巧妙地集成了CoreFoundation框架。是 一个易于使用的框架,不仅可以优雅地<strong>管理对象图</strong>,而且在<strong>内存管理方面表现异常优异</strong></li>
+</ul>
+<h2 id=""><a href="#" class="headerlink" title=""></a><a id="more"></a></h2><p>###二. 怎么学习CoreData</p>
+<ul>
+<li>第一眼看到 Core Data 令人生畏的<strong>复杂</strong>架构关系,很多人都会有无从下手的感觉. </li>
+<li>可是, 一旦理解了架构图中各个<strong>部件的组成</strong>及<strong>相互之间的关系</strong>,就能体会到 Core Data API 的简洁和直观了</li>
+<li><strong>Core Data stack(堆栈</strong>):如果能够理解 Core Data stack 中的<strong>各个成员所扮演的角色</strong>,那么再使用Core Data 就不会感觉到困难了</li>
+<li>误区:<strong>Core Data 不是一个数据库,不要用数据库的眼光去看待 Core Data</strong></li>
+<li>Core Data 不是应用程序的数据库,也不是将数据持久化保存到数据库的 API。<strong>Core Data 是一个用于管理对象图的框架</strong>。Core Data 可以把<strong>对象图写入磁盘</strong>从而持久化保存,但是这不是框架的主要目标.</li>
+</ul>
+<hr>
+<p>###三. Core Data stack<br>Core Data stack 是 Core Data 的核心,由一组 Core Data 核心对象组成</p>
+<ul>
+<li><strong>NSManagedObjectContext</strong> 对象管理上下文: 负责管理模型的对象的集合</li>
+<li><strong>NSManagedObjectModel</strong> 被管理的对象模型: 负责管理对象模型</li>
+<li><strong>NSPersistentStoreCoordinator</strong> 存储调度器: 负责将数据保存到磁盘的</li>
+</ul>
+<p>三者之间关系示意图:</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-3cebf6f0c3b5e52f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="关系图"></p>
+<p>分为两部分:</p>
+<ul>
+<li>对象图管理</li>
+<li>数据持久化<br>在这两部分的中间,即堆栈中间,是持久化存储协调器(Persistent Store Coordinator, PSC)。通过它将对象图管理部分和持久化部分绑在一起。当这两部分中的一部分需要和另一部分交互,将通过 PSC 来调节</li>
+</ul>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-6f67652a5b79322e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="对象图"></p>
+<p>常见的使用解决方案:</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-44d722eecf63d855.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="解决方案"></p>
+<hr>
+<p>###四. 创建CoreDataStack<br>根据 CoreDataStack 示意图,将关系以代码的形式组织起来 !<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">// 实例化数据模型 </div><div class="line">NSURL *modelURL = [[NSBundle mainBundle] URLForResource:modelNamewithExtension:@&quot;momd&quot;];</div><div class="line">NSManagedObjectModel *model = [[NSManagedObjectModel alloc]initWithContentsOfURL:modelURL];</div><div class="line"></div><div class="line">// 实例化持久化储存</div><div class="line"> NSPersistentStoreCoordinator *psc = [[NSPersistentStoreCoordinator alloc] initWithManagedObjectModel:model];</div><div class="line"></div><div class="line">NSURL *dbURL = [[[NSFileManager defaultManager]URLsForDirectory:NSDocumentDirectory inDomains:NSUserDomainMask]lastObject];</div><div class="line"></div><div class="line">dbURL = [dbURL URLByAppendingPathComponent:dbName];[psc addPersistentStoreWithType:NSSQLiteStoreType configuration:nil</div><div class="line">URL:dbURL options:nil error:NULL];</div><div class="line"></div><div class="line">//  实例化上下文</div><div class="line">_managedObjectContext = [[NSManagedObjectContext alloc]initWithConcurrencyType:NSMainQueueConcurrencyType];</div><div class="line"></div><div class="line">[_managedObjectContext setPersistentStoreCoordinator:psc];</div></pre></td></tr></table></figure></p>
+<hr>
+<p>###[ 一些提示 ]</p>
+<blockquote>
+<p>use scalar properties for primitive data type</p>
+</blockquote>
+<p>在 iOS5 和 OS X10.7 之前,scalar 不能自动生成,程序员必须自己添加 setter 和 getter 的实现</p>
+<blockquote>
+<p>@dynamic</p>
+</blockquote>
+<p>在 Objective-C 中,如果将某个属性实现为@dynamic,意味着告诉编译器不会在编译时确定这个属性的行为实现,因此不需要在编译期间对这个属性的 getter、setter 做检查.</p>
+<hr>
+<p>###五. CoreData 常见操作</p>
+<p>####5.1 新增记录:<br>使用 NSEntityDescription 来创建对象,赋值后使用相应的 context 保存即可</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-f7f81e014bd2e3d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="新增"></p>
+<p>####5.2 删除记录:<br>使用 context 的 deleteObject:删除被管理的模型对象后保存即可</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-45d75517f3ba3970.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="删除记录"></p>
+<p>####5.3 修改记录:<br>直接修改模型对象保存即可</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-7f84be1adcaa5ddd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="修改记录"></p>
+<p>####5.4 查询记录<br>对使用 CoreData 进行存储的数据进行一定条件的查询后取出来使用</p>
+<p>#####5.4.1 谓词(is)—NSPredicate<br>作用:判断条件表达式的求值返回真或假的过程</p>
+<p>使用步骤:</p>
+<ul>
+<li>定义 NSPredicate 对象并指定条件</li>
+<li>调用谓词的 evaluateWithObject 方法判断指定条件是否满足示例:<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">NSPredicate *predicate = [NSPredicate predicateWithFormat:@&quot;self CONTAINS &apos;1&apos;&quot;];</div><div class="line">NSString *text = @&quot;1234&quot;;</div><div class="line">NSLog(@&quot;%d&quot;, [predicate evaluateWithObject:text]);</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<p>案例:</p>
+<ol>
+<li>创建 Person 的对象数组</li>
+<li>查询判断姓名和年龄的过滤方法</li>
+</ol>
+<ul>
+<li>传统方法</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">NSMutableArray *result = [NSMutableArray arrayWithCapacity:personList.count];</div><div class="line"></div><div class="line">for (NSInteger i = 0; i &lt; personList.count; i++)</div><div class="line"> &#123;</div><div class="line">    Person *person = personList[i];</div><div class="line">//  用户年龄小于5同时用户姓名中包含&quot;1&quot;字符串</div><div class="line">    if (person.age &lt; 5 &amp;&amp; NSNotFound != [person.name rangeOfString:@&quot;1&quot;].location)</div><div class="line">       &#123;</div><div class="line">           [result addObject:person];</div><div class="line">       &#125;</div><div class="line">  &#125;</div><div class="line">return result;</div></pre></td></tr></table></figure>
+<ul>
+<li>谓词方法</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">NSPredicate *predicate = [NSPredicate predicateWithFormat:@&quot;name CONTAINS &apos;1&apos; &amp;&amp; %K BETWEEN &#123;%d, %d&#125;&quot;,@&quot;age&quot;, 5, 15];</div><div class="line"></div><div class="line">NSArray *result = [personList filteredArrayUsingPredicate:predicate];</div></pre></td></tr></table></figure>
+<h4 id="谓词的条件指令"><a href="#谓词的条件指令" class="headerlink" title="谓词的条件指令"></a>谓词的条件指令</h4><ol>
+<li><p><code>&gt;  &lt;  ==  &gt;=  &lt;=  !=</code><br>例如:<br><code>@&quot;number &gt;= 99&quot;</code></p>
+</li>
+<li><p>范围运算符<code>IN  BETWEEN</code><br>例如:<br><code>@&quot;number BETWEEN {1,5}&quot;</code><br><code>@&quot;address IN {&#39;shanghai&#39;,&#39;nanjing&#39;}&quot;</code></p>
+</li>
+<li><p>字符串本身<code>:SELF</code><br>例如:<br><code>@&quot;SELF == &#39;APPLE&#39;&quot;</code></p>
+</li>
+<li><p>字符串相关: <code>BEGINSWITH ENDSWITH CONTAINS</code></p>
+<p>例如:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">@&quot;name CONTAIN[cd] &apos;ang&apos;&quot; //包含某个字符串</div><div class="line">@&quot;name BEGINSWITH[c] &apos;sh&apos;&quot; //以某个字符串开头</div><div class="line">@&quot;name ENDSWITH[d] &apos;ang&apos;&quot; //以某个字符串结尾</div></pre></td></tr></table></figure>
+</li>
+<li><p>通配符:<code>LIKE</code><br>例如:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">@&quot;name LIKE[cd] &apos;*er*&apos;&quot; //* 代表通配符,Like 代表接受 [cd].</div><div class="line">@&quot;name LIKE[cd] &apos;???er*&apos;&quot;</div><div class="line"></div><div class="line"> 注:  星号&quot;*&quot; : 代表0或多个字符</div><div class="line">        问号&quot;?&quot; : 代表一个字符</div></pre></td></tr></table></figure>
+</li>
+<li><p>正则表达式:MATCHES<br>例如:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">NSString *regex = @&quot;^A.+e$&quot;; //以A开头, e结尾</div><div class="line">@&quot;name MATCHES %@&quot;,regex</div><div class="line">注:[c]不区分大小写,[d]不区分发音符号即没有重音符号,[cd]既不区分大小写,也不区分发音符号.</div></pre></td></tr></table></figure>
+</li>
+<li><p>合计操作<br>ANY SOME: 指定下列表达式中的任意元素<br>例如 <code>ANY children.age &lt; 18</code><br>ALL: 指定下列表达式中的所有元素<br>例如 <code>ALL children.age &lt; 18</code><br>NONE: 指定下列表达式中没有的元素<br>例如 <code>NONE children.age &lt; 18</code><br>在逻辑上等于NOT(ANY …)<br>IN:等于 SQL的<code>IN</code>操作,左边的表达必须出现在与右边指定的集合中<br>例如:<code>name IN { &#39;Ben&#39;,&#39;Melissa&#39;, &#39;Nick&#39; }</code></p>
+</li>
+</ol>
+<p>####提示 :</p>
+<ol>
+<li>谓词中的匹配指令关键字通常使用大写字母</li>
+<li>谓词中可以使用格式字符串</li>
+<li>如果通过对象的<code>key path</code> 指定匹配条件,需要使用 %K</li>
+</ol>
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2015/11/27/fmdb/" rel="next" title="SQLite数据库框架--FMDB">
+                <i class="fa fa-chevron-left"></i> SQLite数据库框架--FMDB
+              </a>
+            
+          </div>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2016/09/22/Runtimebase/" rel="prev" title="Runtime基本介绍">
+                Runtime基本介绍 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+      <div class="ds-thread" data-thread-key="2016/01/11/coredata/"
+           data-title="Coredata" data-url="http://jimmypeng.cn/2016/01/11/coredata/">
+      </div>
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel ">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="http://upload.jianshu.io/users/upload_avatars/1115674/6322d5678682.jpg"
+               alt="Jimmy Peng" />
+          <p class="site-author-name" itemprop="name">Jimmy Peng</p>
+          <p class="site-description motion-element" itemprop="description">JimmyPeng | iOS Blog | html5</p>
+        </div>
+        <nav class="site-state motion-element">
+          <div class="site-state-item site-state-posts">
+            <a href="/archives">
+              <span class="site-state-item-count">5</span>
+              <span class="site-state-item-name">日志</span>
+            </a>
+          </div>
+
+          
+            <div class="site-state-item site-state-categories">
+              <a href="/categories">
+                <span class="site-state-item-count">2</span>
+                <span class="site-state-item-name">分类</span>
+              </a>
+            </div>
+          
+
+          
+
+        </nav>
+
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/JimmyPeng4iOS" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.weibo.com/JimmyPeng4iOS" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  Weibo
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.jianshu.com/users/53845c6b43dc/top_articles" target="_blank" title="简书">
+                  
+                    <i class="fa fa-fw fa-twitter"></i>
+                  
+                  简书
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+
+      </section>
+
+      
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+            
+              
+            
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一-CoreData-是什么"><span class="nav-number">1.</span> <span class="nav-text">一. CoreData 是什么?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#"><span class="nav-number"></span> <span class="nav-text"></span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#谓词的条件指令"><span class="nav-number">0.1.</span> <span class="nav-text">谓词的条件指令</span></a></li></ol></li></ol></div>
+            
+          </div>
+        </section>
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy;  2010 - 
+  <span itemprop="copyrightYear">2016</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Jimmy Peng</span>
+</div>
+
+<div class="powered-by">
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
+</div>
+
+<div class="theme-info">
+  主题 -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Mist
+  </a>
+
+
+        
+
+<div class="busuanzi-count">
+
+  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  
+    <span class="site-uv"><i class="fa fa-user"></i><span class="busuanzi-value" id="busuanzi_value_site_uv"></span></span>
+  
+
+  
+    <span class="site-pv"><i class="fa fa-eye"></i><span class="busuanzi-value" id="busuanzi_value_site_pv"></span></span>
+  
+  
+</div>
+
+
+
+        
+      </div>
+    </footer>
+
+    <div class="back-to-top">
+      <i class="fa fa-arrow-up"></i>
+    </div>
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <script type="text/javascript" src="/vendors/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/vendors/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/vendors/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/vendors/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/vendors/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.0.1"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.0.1"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.0.1"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.0.1"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.0.1"></script>
+
+
+
+  
+
+  
+    
+  
+
+  <script type="text/javascript">
+    var duoshuoQuery = {short_name:"jimmyp"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.id = 'duoshuo-script';
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+
+  
+    
+    <script src="/vendors/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
+    <script src="/js/src/hook-duoshuo.js"></script>
+  
+
+
+
+
+
+
+  
+  
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length == 0) {
+       search_path = "search.xml";
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    function proceedsearch() {
+      $("body").append('<div class="popoverlay">').css('overflow', 'hidden');
+      $('.popup').toggle();
+
+    }
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+    'use strict';
+    $.ajax({
+        url: path,
+        dataType: "xml",
+        async: true,
+        success: function( xmlResponse ) {
+            // get the contents from search data
+            isfetched = true;
+            $('.popup').detach().appendTo('.header-inner');
+            var datas = $( "entry", xmlResponse ).map(function() {
+                return {
+                    title: $( "title", this ).text(),
+                    content: $("content",this).text(),
+                    url: $( "url" , this).text()
+                };
+            }).get();
+            var $input = document.getElementById(search_id);
+            var $resultContent = document.getElementById(content_id);
+            $input.addEventListener('input', function(){
+                var matchcounts = 0;
+                var str='<ul class=\"search-result-list\">';
+                var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
+                $resultContent.innerHTML = "";
+                if (this.value.trim().length > 1) {
+                // perform local searching
+                datas.forEach(function(data) {
+                    var isMatch = true;
+                    var content_index = [];
+                    var data_title = data.title.trim().toLowerCase();
+                    var data_content = data.content.trim().replace(/<[^>]+>/g,"").toLowerCase();
+                    var data_url = data.url;
+                    var index_title = -1;
+                    var index_content = -1;
+                    var first_occur = -1;
+                    // only match artiles with not empty titles and contents
+                    if(data_title != '' && data_content != '') {
+                        keywords.forEach(function(keyword, i) {
+                            index_title = data_title.indexOf(keyword);
+                            index_content = data_content.indexOf(keyword);
+                            if( index_title < 0 && index_content < 0 ){
+                                isMatch = false;
+                            } else {
+                                if (index_content < 0) {
+                                    index_content = 0;
+                                }
+                                if (i == 0) {
+                                    first_occur = index_content;
+                                }
+                            }
+                        });
+                    }
+                    // show search results
+                    if (isMatch) {
+                        matchcounts += 1;
+                        str += "<li><a href='"+ data_url +"' class='search-result-title'>"+ data_title +"</a>";
+                        var content = data.content.trim().replace(/<[^>]+>/g,"");
+                        if (first_occur >= 0) {
+                            // cut out 100 characters
+                            var start = first_occur - 20;
+                            var end = first_occur + 80;
+                            if(start < 0){
+                                start = 0;
+                            }
+                            if(start == 0){
+                                end = 50;
+                            }
+                            if(end > content.length){
+                                end = content.length;
+                            }
+                            var match_content = content.substring(start, end);
+                            // highlight all keywords
+                            keywords.forEach(function(keyword){
+                                var regS = new RegExp(keyword, "gi");
+                                match_content = match_content.replace(regS, "<b class=\"search-keyword\">"+keyword+"</b>");
+                            });
+
+                            str += "<p class=\"search-result\">" + match_content +"...</p>"
+                        }
+                        str += "</li>";
+                    }
+                })};
+                str += "</ul>";
+                if (matchcounts == 0) { str = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>' }
+                if (keywords == "") { str = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>' }
+                $resultContent.innerHTML = str;
+            });
+            proceedsearch();
+        }
+    });}
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched == false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+
+    });
+
+    $('.popup-btn-close').click(function(e){
+      $('.popup').hide();
+      $(".popoverlay").remove();
+      $('body').css('overflow', '');
+    });
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+  </script>
+
+
+  
+
+  
+
+  
+
+</body>
+</html>

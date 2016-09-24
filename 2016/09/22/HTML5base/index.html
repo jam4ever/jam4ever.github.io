@@ -1,0 +1,1092 @@
+<!doctype html>
+
+
+
+  
+
+
+<html class="theme-next mist use-motion">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/vendors/font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.0.1" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="Hexo, NexT, ios, jimmypeng" />
+
+
+
+
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.0.1" />
+
+
+
+
+
+
+<meta name="description" content="HTML5 肯定不是多了一些标签就完事了HTML5 根酷炫没什么关系，更多的职责是功能，而不是外观
+
+
+概要WEB技术阶段
+Web 1.0 内容为主，主要流行HTML和CSS
+Web 2.0 动态网页，流行AJAX/JavaScript/DOM
+HTML5 时代，WEB开发回归富客户端
+
+什么是HTML5
+是HTML的超集，不仅仅是HTML，更多的是JavaScript API和CSS的提升，">
+<meta property="og:type" content="article">
+<meta property="og:title" content="HTML5基础介绍">
+<meta property="og:url" content="http://jimmypeng.cn/2016/09/22/HTML5base/index.html">
+<meta property="og:site_name" content="J&M">
+<meta property="og:description" content="HTML5 肯定不是多了一些标签就完事了HTML5 根酷炫没什么关系，更多的职责是功能，而不是外观
+
+
+概要WEB技术阶段
+Web 1.0 内容为主，主要流行HTML和CSS
+Web 2.0 动态网页，流行AJAX/JavaScript/DOM
+HTML5 时代，WEB开发回归富客户端
+
+什么是HTML5
+是HTML的超集，不仅仅是HTML，更多的是JavaScript API和CSS的提升，">
+<meta property="og:image" content="http://7xpbws.com1.z0.glb.clouddn.com/html5logo.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/800">
+<meta property="og:updated_time" content="2016-09-22T15:36:26.000Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="HTML5基础介绍">
+<meta name="twitter:description" content="HTML5 肯定不是多了一些标签就完事了HTML5 根酷炫没什么关系，更多的职责是功能，而不是外观
+
+
+概要WEB技术阶段
+Web 1.0 内容为主，主要流行HTML和CSS
+Web 2.0 动态网页，流行AJAX/JavaScript/DOM
+HTML5 时代，WEB开发回归富客户端
+
+什么是HTML5
+是HTML的超集，不仅仅是HTML，更多的是JavaScript API和CSS的提升，">
+<meta name="twitter:image" content="http://7xpbws.com1.z0.glb.clouddn.com/html5logo.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/800">
+
+
+
+<script type="text/javascript" id="hexo.configuration">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    scheme: 'Mist',
+    sidebar: {"position":"right","display":"always"},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: 6333177780112459000,
+      author: 'Jimmy'
+    }
+  };
+</script>
+
+
+
+
+  <link rel="canonical" href="http://jimmypeng.cn/2016/09/22/HTML5base/"/>
+
+  <title> HTML5基础介绍 | J&M </title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans,en,default">
+
+  
+
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?15ff92f78d963406ab1037852d725472";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container one-collumn sidebar-position-right page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-meta ">
+  
+
+  <div class="custom-logo-site-title">
+    <a href="/"  class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <span class="site-title">J&M</span>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+  <p class="site-subtitle">一个不会做实验的程序猿不是一个好厨子</p>
+</div>
+
+<div class="site-nav-toggle">
+  <button>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+  </button>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th-list"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-jm">
+          <a href="/jm" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-heart"></i> <br />
+            
+            J&M
+          </a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            搜索
+          </a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup">
+ <span class="search-icon fa fa-search"></span>
+ <input type="text" id="local-search-input">
+ <div id="local-search-result"></div>
+ <span class="popup-btn-close">close</span>
+</div>
+
+
+    </div>
+  
+</nav>
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                HTML5基础介绍
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-09-22T16:07:29+08:00" content="2016-09-22">
+              2016-09-22
+            </time>
+          </span>
+
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/categories/web前端/" itemprop="url" rel="index">
+                    <span itemprop="name">web前端</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2016/09/22/HTML5base/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2016/09/22/HTML5base/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+              &nbsp; | &nbsp;
+              <span class="page-pv"><i class="fa fa-file-o"></i>
+              <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>
+              </span>
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p><img src="http://7xpbws.com1.z0.glb.clouddn.com/html5logo.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/800" alt=""></p>
+<blockquote>
+<p>HTML5 肯定不是多了一些标签就完事了<br>HTML5 根酷炫没什么关系，更多的职责是功能，而不是外观</p>
+</blockquote>
+<hr>
+<h3 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h3><h4 id="WEB技术阶段"><a href="#WEB技术阶段" class="headerlink" title="WEB技术阶段"></a>WEB技术阶段</h4><ol>
+<li>Web 1.0 内容为主，主要流行HTML和CSS</li>
+<li>Web 2.0 动态网页，流行AJAX/JavaScript/DOM</li>
+<li>HTML5 时代，WEB开发回归富客户端</li>
+</ol>
+<h4 id="什么是HTML5"><a href="#什么是HTML5" class="headerlink" title="什么是HTML5"></a>什么是HTML5</h4><ul>
+<li>是HTML的超集，不仅仅是HTML，更多的是JavaScript API和CSS的提升，</li>
+<li>构建 Web 应用程序整体解决方案</li>
+</ul>
+<blockquote>
+<p>API的概念就是我们编程时所依赖的东西的总称</p>
+</blockquote>
+<a id="more"></a>
+<h4 id="什么是Web-Application"><a href="#什么是Web-Application" class="headerlink" title="什么是Web Application"></a>什么是Web Application</h4><ul>
+<li>HTML5 前身，由WHATWG组织提出</li>
+<li>推出的目的主要是提高Web应用程序的功能</li>
+<li>2007年提交到W3C组织，成了现在我们看到的HTML5</li>
+</ul>
+<h4 id="HTML5应用场景"><a href="#HTML5应用场景" class="headerlink" title="HTML5应用场景"></a>HTML5应用场景</h4><ul>
+<li>极具表现力的网页<ul>
+<li>案例非常多</li>
+</ul>
+</li>
+<li>网页应用程序<ul>
+<li>PC端：iCloud、百度脑图、Office 365···</li>
+<li>APP端：淘宝、京东、美团···</li>
+<li>WeChat端：淘宝、京东、美团···</li>
+</ul>
+</li>
+<li>混合式本地应用<ul>
+<li>PC端：网易云音乐、有道词典···</li>
+<li>APP端：淘宝、京东、美团···</li>
+</ul>
+</li>
+<li>简单的游戏</li>
+</ul>
+<h4 id="H5新特性概要"><a href="#H5新特性概要" class="headerlink" title="H5新特性概要"></a>H5新特性概要</h4><h5 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h5><ul>
+<li>标签<ul>
+<li>更语义化标签</li>
+</ul>
+</li>
+<li>智能表单<ul>
+<li>新的表单类型，如：email,url,number</li>
+<li>新增表单功能属性，如：autocomplete，autofocus</li>
+<li>虚拟键盘适配，通过表单的类型决定移动端弹出的键盘类型</li>
+</ul>
+</li>
+<li>网页多媒体，我们可以在网页中直接通过原生方式播放视频音频<ul>
+<li>音频</li>
+<li>视频</li>
+<li>字幕</li>
+</ul>
+</li>
+<li>属性，语义化属性<ul>
+<li>链接关系描述</li>
+<li>结构数据标记</li>
+<li>ARIA</li>
+<li>自定义属性</li>
+</ul>
+</li>
+<li>Canvas，提供网页绘图的可能，后面在Canvas课程会专门去学习<ul>
+<li>2D 绘图</li>
+<li>3D (WebGL)</li>
+</ul>
+</li>
+<li>SVG</li>
+</ul>
+<h5 id="JavaScript-API"><a href="#JavaScript-API" class="headerlink" title="JavaScript API"></a>JavaScript API</h5><ul>
+<li>核心平台提升，JS在DOM和BOM两个方向上都新增了很多api，便于开发应用程序<ul>
+<li>新的选择器</li>
+<li>Element.classList</li>
+<li>访问历史API</li>
+<li>全屏API</li>
+</ul>
+</li>
+<li>网页存储，提供网页中操作客户端本地存储的API<ul>
+<li>Application Cache</li>
+<li>localStorage</li>
+<li>sessionStorage</li>
+<li>WebSQL</li>
+<li>IndexedDB</li>
+</ul>
+</li>
+<li>设备信息访问，JS可以访问硬件的一些信息，我们在移动手机APP的课程中再看<ul>
+<li>网络状态</li>
+<li>硬件访问</li>
+<li>设备方向</li>
+<li>地理围栏</li>
+</ul>
+</li>
+<li>拖放操作<ul>
+<li>网页内拖放</li>
+<li>桌面拖入</li>
+</ul>
+</li>
+<li>文件<ul>
+<li>文件系统API</li>
+<li>FileReader</li>
+</ul>
+</li>
+<li>网络访问<ul>
+<li>XMLHttpRequest</li>
+<li>fetch</li>
+<li>WebSocket</li>
+</ul>
+</li>
+<li>多线程</li>
+<li>桌面通知，</li>
+</ul>
+<h5 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h5><ul>
+<li>后面详细讨论</li>
+</ul>
+<hr>
+<h3 id="HTML5-骨架"><a href="#HTML5-骨架" class="headerlink" title="HTML5 骨架"></a>HTML5 骨架</h3><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line"><span class="comment">&lt;!-- HTML5的DOCTYPE声明做了最大简化 --&gt;</span></div><div class="line"><span class="meta">&lt;!DOCTYPE html&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">lang</span>=<span class="string">"en"</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">"UTF-8"</span>&gt;</span></div><div class="line">    <span class="comment">&lt;!-- 在标准的HTML5骨架中charset是直接在meta中设置charset --&gt;</span></div><div class="line">    <span class="comment">&lt;!-- 字符编码的设置一定是在head中的第一行 --&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>页面标题<span class="tag">&lt;/<span class="name">title</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></div><div class="line">    </div><div class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></div></pre></td></tr></table></figure>
+<ul>
+<li>HTML5的DOCTYPE声明做了最大简化</li>
+<li>在标准的HTML5骨架中charset是直接在meta中设置charset</li>
+<li>字符编码的设置一定是在head中的第一行，再晚就来不及了</li>
+</ul>
+<h3 id="语义化标签"><a href="#语义化标签" class="headerlink" title="语义化标签"></a>语义化标签</h3><h4 id="什么是语义化标签"><a href="#什么是语义化标签" class="headerlink" title="什么是语义化标签"></a>什么是语义化标签</h4><ul>
+<li>HTML5中制定了一系列语义化标签：<ul>
+<li>section：独立的内容节块，一般包含标题和内容</li>
+<li>article：一种特殊的section，定义文档中的具体的文章内容</li>
+<li>nav：页面导航的链接组</li>
+<li>aside：标签用来装载非正文的内容，此标签中的文字权重低</li>
+<li>header：定义文档的页眉，不仅仅是文档的页头可以使用header，一个独立块的头部也应该使用header</li>
+<li>footer：定义section或document的页脚</li>
+</ul>
+</li>
+<li>我们应该根据内容的性质决定使用特定的标签</li>
+<li><p>h1一定只能出现一个，不是HTML的约定，页面中最重要的内容</p>
+</li>
+<li><p>time标签专门用于时间，</p>
+<ul>
+<li>datetime应该是一个标准时间格式，</li>
+<li>pubdate指的是当前时间为article的发布时间 </li>
+</ul>
+</li>
+<li><p>在H5中，主体结构标签默认和DIV都是相同的块级效果，</p>
+</li>
+<li>但是DIV没有语义，而以上标签有特定语义</li>
+</ul>
+<h4 id="为什么要有语义化标签"><a href="#为什么要有语义化标签" class="headerlink" title="为什么要有语义化标签"></a>为什么要有语义化标签</h4><ul>
+<li>能够便于开发者阅读和写出更优雅的代码，代码如诗</li>
+<li>同时让浏览器或是网络爬虫可以很好地解析，从而更好分析其中的内容</li>
+<li>使用语义化标签会具有更好地搜索引擎优化</li>
+</ul>
+<h5 id="切记"><a href="#切记" class="headerlink" title="切记"></a>切记</h5><ul>
+<li>HTML的职责是描述一块内容是什么（或其意义）</li>
+<li>而不是它长的什么样子，它的外观应该由CSS来决定。</li>
+</ul>
+<hr>
+<h3 id="智能表单"><a href="#智能表单" class="headerlink" title="智能表单"></a>智能表单</h3><h4 id="新的表单类型"><a href="#新的表单类型" class="headerlink" title="新的表单类型"></a>新的表单类型</h4><ul>
+<li>email - 限定输入内容为邮箱地址，表单提交时会校验格式</li>
+<li>url - 限定输入内容为URL，表单提交时会校验格式</li>
+<li>number - 限定输入内容为数字，表单提交时会校验格式</li>
+<li>range - 数值范围选择器</li>
+<li>Date Pickers - 日期时间选择器<ul>
+<li>样式不能修改，移动端用的比较多，因为移动端显示的是系统的时间或日期选择器</li>
+<li>date - 选取日、月、年</li>
+<li>month - 选取月、年</li>
+<li>week - 选取周和年</li>
+<li>time - 选取时间（小时和分钟）</li>
+<li>datetime - 选取时间、日、月、年，浏览器兼容性不好，效果等同于datetime-local</li>
+<li>datetime-local - 选取本地时间、日、月、年</li>
+</ul>
+</li>
+<li>search - 搜索域，语义化，表示定义搜索框</li>
+</ul>
+<h4 id="新的表单属性"><a href="#新的表单属性" class="headerlink" title="新的表单属性"></a>新的表单属性</h4><ul>
+<li><p>form</p>
+<ul>
+<li>autocomplete 设置整个表单是否开启自动完成 on|off</li>
+<li>novalidate 设置H5的表单校验是否工作 true 不工作  不加该属性代表校验</li>
+</ul>
+</li>
+<li><p>input:</p>
+<ul>
+<li>autocomplete 单独设置每个文本框的自动完成</li>
+<li>autofocus 设置当前文本域页面加载完了过后自动得到焦点</li>
+<li>form 属性是让表单外的表单元素也可以跟随表单一起提交</li>
+<li>form overrides<ul>
+<li>formaction 在submit上重写表单的特定属性，当点击当前submit时会以当前值使用</li>
+<li>formenctype,</li>
+<li>formmethod,</li>
+<li>formnovalidate,</li>
+<li>formtarget</li>
+</ul>
+</li>
+<li>list 作用就是指定当前文本框的自动完成列表的数据 datalist 在界面上是看不见的，只是用于定义数据列表的</li>
+<li>min / max / step<ul>
+<li>min max 限制值的范围，但是不会再输入时限制，提交时校验，</li>
+<li>step设置的是每次加减的增量</li>
+<li>主要使用在number range datepicker上</li>
+</ul>
+</li>
+<li>multiple<ul>
+<li>文本域的多选</li>
+</ul>
+</li>
+<li>pattern<ul>
+<li>设置文本框的匹配格式（正则）</li>
+</ul>
+</li>
+<li>placeholder<ul>
+<li>文本框占位符</li>
+</ul>
+</li>
+<li>required<ul>
+<li>限制当前input为必须的</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="虚拟键盘适配"><a href="#虚拟键盘适配" class="headerlink" title="虚拟键盘适配"></a>虚拟键盘适配</h4><ul>
+<li>在移动端中，我们可以通过不同的表单类型控制弹出的键盘类型</li>
+</ul>
+<h4 id="关于什么时候使用H5的新特性，能不能使用新特性的问题"><a href="#关于什么时候使用H5的新特性，能不能使用新特性的问题" class="headerlink" title="关于什么时候使用H5的新特性，能不能使用新特性的问题"></a>关于什么时候使用H5的新特性，能不能使用新特性的问题</h4><ul>
+<li>无伤大雅的地方直接用<ul>
+<li>比如一个文本框，加上placeholder就具备占位文本提示功能，浏览器不支持也不会报错，那就可以直接使用</li>
+<li>再比如<code>&lt;input type=&quot;email&quot;&gt;</code>，如果浏览器不支持，默认会显示文本框，那也可以直接用。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="网页多媒体"><a href="#网页多媒体" class="headerlink" title="网页多媒体"></a>网页多媒体</h3><h4 id="音频"><a href="#音频" class="headerlink" title="音频"></a>音频</h4><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><h4 id="多媒体标签属性"><a href="#多媒体标签属性" class="headerlink" title="多媒体标签属性"></a>多媒体标签属性</h4><h4 id="自定义播放器外观"><a href="#自定义播放器外观" class="headerlink" title="自定义播放器外观"></a>自定义播放器外观</h4><h4 id="全屏-API"><a href="#全屏-API" class="headerlink" title="全屏 API"></a>全屏 API</h4><h4 id="SVG"><a href="#SVG" class="headerlink" title="SVG *"></a>SVG *</h4><hr>
+<h2 id="JS-基础-API"><a href="#JS-基础-API" class="headerlink" title="JS 基础 API"></a>JS 基础 API</h2><h3 id="新选择器"><a href="#新选择器" class="headerlink" title="新选择器"></a>新选择器</h3><h3 id="Element-classList"><a href="#Element-classList" class="headerlink" title="Element.classList"></a>Element.classList</h3><h3 id="自定义属性-DATA"><a href="#自定义属性-DATA" class="headerlink" title="自定义属性 DATA-* !"></a>自定义属性 DATA-* !</h3><h3 id="访问历史API"><a href="#访问历史API" class="headerlink" title="访问历史API *"></a>访问历史API *</h3>
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2016/09/22/Runtimebase/" rel="next" title="Runtime基本介绍">
+                <i class="fa fa-chevron-left"></i> Runtime基本介绍
+              </a>
+            
+          </div>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+      <div class="ds-thread" data-thread-key="2016/09/22/HTML5base/"
+           data-title="HTML5基础介绍" data-url="http://jimmypeng.cn/2016/09/22/HTML5base/">
+      </div>
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel ">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="http://upload.jianshu.io/users/upload_avatars/1115674/6322d5678682.jpg"
+               alt="Jimmy Peng" />
+          <p class="site-author-name" itemprop="name">Jimmy Peng</p>
+          <p class="site-description motion-element" itemprop="description">JimmyPeng | iOS Blog | html5</p>
+        </div>
+        <nav class="site-state motion-element">
+          <div class="site-state-item site-state-posts">
+            <a href="/archives">
+              <span class="site-state-item-count">5</span>
+              <span class="site-state-item-name">日志</span>
+            </a>
+          </div>
+
+          
+            <div class="site-state-item site-state-categories">
+              <a href="/categories">
+                <span class="site-state-item-count">2</span>
+                <span class="site-state-item-name">分类</span>
+              </a>
+            </div>
+          
+
+          
+
+        </nav>
+
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/JimmyPeng4iOS" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.weibo.com/JimmyPeng4iOS" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  Weibo
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.jianshu.com/users/53845c6b43dc/top_articles" target="_blank" title="简书">
+                  
+                    <i class="fa fa-fw fa-twitter"></i>
+                  
+                  简书
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+
+      </section>
+
+      
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+            
+              
+            
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#概要"><span class="nav-number">1.</span> <span class="nav-text">概要</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#WEB技术阶段"><span class="nav-number">1.1.</span> <span class="nav-text">WEB技术阶段</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#什么是HTML5"><span class="nav-number">1.2.</span> <span class="nav-text">什么是HTML5</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#什么是Web-Application"><span class="nav-number">1.3.</span> <span class="nav-text">什么是Web Application</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#HTML5应用场景"><span class="nav-number">1.4.</span> <span class="nav-text">HTML5应用场景</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#H5新特性概要"><span class="nav-number">1.5.</span> <span class="nav-text">H5新特性概要</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#HTML"><span class="nav-number">1.5.1.</span> <span class="nav-text">HTML</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#JavaScript-API"><span class="nav-number">1.5.2.</span> <span class="nav-text">JavaScript API</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#CSS"><span class="nav-number">1.5.3.</span> <span class="nav-text">CSS</span></a></li></ol></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#HTML5-骨架"><span class="nav-number">2.</span> <span class="nav-text">HTML5 骨架</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#语义化标签"><span class="nav-number">3.</span> <span class="nav-text">语义化标签</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#什么是语义化标签"><span class="nav-number">3.1.</span> <span class="nav-text">什么是语义化标签</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#为什么要有语义化标签"><span class="nav-number">3.2.</span> <span class="nav-text">为什么要有语义化标签</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#切记"><span class="nav-number">3.2.1.</span> <span class="nav-text">切记</span></a></li></ol></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#智能表单"><span class="nav-number">4.</span> <span class="nav-text">智能表单</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#新的表单类型"><span class="nav-number">4.1.</span> <span class="nav-text">新的表单类型</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#新的表单属性"><span class="nav-number">4.2.</span> <span class="nav-text">新的表单属性</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#虚拟键盘适配"><span class="nav-number">4.3.</span> <span class="nav-text">虚拟键盘适配</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#关于什么时候使用H5的新特性，能不能使用新特性的问题"><span class="nav-number">4.4.</span> <span class="nav-text">关于什么时候使用H5的新特性，能不能使用新特性的问题</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#网页多媒体"><span class="nav-number">5.</span> <span class="nav-text">网页多媒体</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#音频"><span class="nav-number">5.1.</span> <span class="nav-text">音频</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#视频"><span class="nav-number">5.2.</span> <span class="nav-text">视频</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#多媒体标签属性"><span class="nav-number">5.3.</span> <span class="nav-text">多媒体标签属性</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#自定义播放器外观"><span class="nav-number">5.4.</span> <span class="nav-text">自定义播放器外观</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#全屏-API"><span class="nav-number">5.5.</span> <span class="nav-text">全屏 API</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#SVG"><span class="nav-number">5.6.</span> <span class="nav-text">SVG *</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#JS-基础-API"><span class="nav-number"></span> <span class="nav-text">JS 基础 API</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#新选择器"><span class="nav-number">1.</span> <span class="nav-text">新选择器</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Element-classList"><span class="nav-number">2.</span> <span class="nav-text">Element.classList</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#自定义属性-DATA"><span class="nav-number">3.</span> <span class="nav-text">自定义属性 DATA-* !</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#访问历史API"><span class="nav-number">4.</span> <span class="nav-text">访问历史API *</span></a></li></ol></div>
+            
+          </div>
+        </section>
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy;  2010 - 
+  <span itemprop="copyrightYear">2016</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Jimmy Peng</span>
+</div>
+
+<div class="powered-by">
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
+</div>
+
+<div class="theme-info">
+  主题 -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Mist
+  </a>
+
+
+        
+
+<div class="busuanzi-count">
+
+  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  
+    <span class="site-uv"><i class="fa fa-user"></i><span class="busuanzi-value" id="busuanzi_value_site_uv"></span></span>
+  
+
+  
+    <span class="site-pv"><i class="fa fa-eye"></i><span class="busuanzi-value" id="busuanzi_value_site_pv"></span></span>
+  
+  
+</div>
+
+
+
+        
+      </div>
+    </footer>
+
+    <div class="back-to-top">
+      <i class="fa fa-arrow-up"></i>
+    </div>
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <script type="text/javascript" src="/vendors/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/vendors/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/vendors/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/vendors/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/vendors/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.0.1"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.0.1"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.0.1"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.0.1"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.0.1"></script>
+
+
+
+  
+
+  
+    
+  
+
+  <script type="text/javascript">
+    var duoshuoQuery = {short_name:"jimmyp"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.id = 'duoshuo-script';
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+
+  
+    
+    <script src="/vendors/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
+    <script src="/js/src/hook-duoshuo.js"></script>
+  
+
+
+
+
+
+
+  
+  
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length == 0) {
+       search_path = "search.xml";
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    function proceedsearch() {
+      $("body").append('<div class="popoverlay">').css('overflow', 'hidden');
+      $('.popup').toggle();
+
+    }
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+    'use strict';
+    $.ajax({
+        url: path,
+        dataType: "xml",
+        async: true,
+        success: function( xmlResponse ) {
+            // get the contents from search data
+            isfetched = true;
+            $('.popup').detach().appendTo('.header-inner');
+            var datas = $( "entry", xmlResponse ).map(function() {
+                return {
+                    title: $( "title", this ).text(),
+                    content: $("content",this).text(),
+                    url: $( "url" , this).text()
+                };
+            }).get();
+            var $input = document.getElementById(search_id);
+            var $resultContent = document.getElementById(content_id);
+            $input.addEventListener('input', function(){
+                var matchcounts = 0;
+                var str='<ul class=\"search-result-list\">';
+                var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
+                $resultContent.innerHTML = "";
+                if (this.value.trim().length > 1) {
+                // perform local searching
+                datas.forEach(function(data) {
+                    var isMatch = true;
+                    var content_index = [];
+                    var data_title = data.title.trim().toLowerCase();
+                    var data_content = data.content.trim().replace(/<[^>]+>/g,"").toLowerCase();
+                    var data_url = data.url;
+                    var index_title = -1;
+                    var index_content = -1;
+                    var first_occur = -1;
+                    // only match artiles with not empty titles and contents
+                    if(data_title != '' && data_content != '') {
+                        keywords.forEach(function(keyword, i) {
+                            index_title = data_title.indexOf(keyword);
+                            index_content = data_content.indexOf(keyword);
+                            if( index_title < 0 && index_content < 0 ){
+                                isMatch = false;
+                            } else {
+                                if (index_content < 0) {
+                                    index_content = 0;
+                                }
+                                if (i == 0) {
+                                    first_occur = index_content;
+                                }
+                            }
+                        });
+                    }
+                    // show search results
+                    if (isMatch) {
+                        matchcounts += 1;
+                        str += "<li><a href='"+ data_url +"' class='search-result-title'>"+ data_title +"</a>";
+                        var content = data.content.trim().replace(/<[^>]+>/g,"");
+                        if (first_occur >= 0) {
+                            // cut out 100 characters
+                            var start = first_occur - 20;
+                            var end = first_occur + 80;
+                            if(start < 0){
+                                start = 0;
+                            }
+                            if(start == 0){
+                                end = 50;
+                            }
+                            if(end > content.length){
+                                end = content.length;
+                            }
+                            var match_content = content.substring(start, end);
+                            // highlight all keywords
+                            keywords.forEach(function(keyword){
+                                var regS = new RegExp(keyword, "gi");
+                                match_content = match_content.replace(regS, "<b class=\"search-keyword\">"+keyword+"</b>");
+                            });
+
+                            str += "<p class=\"search-result\">" + match_content +"...</p>"
+                        }
+                        str += "</li>";
+                    }
+                })};
+                str += "</ul>";
+                if (matchcounts == 0) { str = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>' }
+                if (keywords == "") { str = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>' }
+                $resultContent.innerHTML = str;
+            });
+            proceedsearch();
+        }
+    });}
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched == false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+
+    });
+
+    $('.popup-btn-close').click(function(e){
+      $('.popup').hide();
+      $(".popoverlay").remove();
+      $('body').css('overflow', '');
+    });
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+  </script>
+
+
+  
+
+  
+
+  
+
+</body>
+</html>

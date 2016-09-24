@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[HTML5基础介绍]]></title>
+      <url>http://jimmypeng.cn/2016/09/22/HTML5base/</url>
+      <content type="html"><![CDATA[<p><img src="http://7xpbws.com1.z0.glb.clouddn.com/html5logo.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/800" alt=""></p>
+<blockquote>
+<p>HTML5 肯定不是多了一些标签就完事了<br>HTML5 根酷炫没什么关系，更多的职责是功能，而不是外观</p>
+</blockquote>
+<hr>
+<h3 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h3><h4 id="WEB技术阶段"><a href="#WEB技术阶段" class="headerlink" title="WEB技术阶段"></a>WEB技术阶段</h4><ol>
+<li>Web 1.0 内容为主，主要流行HTML和CSS</li>
+<li>Web 2.0 动态网页，流行AJAX/JavaScript/DOM</li>
+<li>HTML5 时代，WEB开发回归富客户端</li>
+</ol>
+<h4 id="什么是HTML5"><a href="#什么是HTML5" class="headerlink" title="什么是HTML5"></a>什么是HTML5</h4><ul>
+<li>是HTML的超集，不仅仅是HTML，更多的是JavaScript API和CSS的提升，</li>
+<li>构建 Web 应用程序整体解决方案</li>
+</ul>
+<blockquote>
+<p>API的概念就是我们编程时所依赖的东西的总称</p>
+</blockquote>
+<a id="more"></a>
+<h4 id="什么是Web-Application"><a href="#什么是Web-Application" class="headerlink" title="什么是Web Application"></a>什么是Web Application</h4><ul>
+<li>HTML5 前身，由WHATWG组织提出</li>
+<li>推出的目的主要是提高Web应用程序的功能</li>
+<li>2007年提交到W3C组织，成了现在我们看到的HTML5</li>
+</ul>
+<h4 id="HTML5应用场景"><a href="#HTML5应用场景" class="headerlink" title="HTML5应用场景"></a>HTML5应用场景</h4><ul>
+<li>极具表现力的网页<ul>
+<li>案例非常多</li>
+</ul>
+</li>
+<li>网页应用程序<ul>
+<li>PC端：iCloud、百度脑图、Office 365···</li>
+<li>APP端：淘宝、京东、美团···</li>
+<li>WeChat端：淘宝、京东、美团···</li>
+</ul>
+</li>
+<li>混合式本地应用<ul>
+<li>PC端：网易云音乐、有道词典···</li>
+<li>APP端：淘宝、京东、美团···</li>
+</ul>
+</li>
+<li>简单的游戏</li>
+</ul>
+<h4 id="H5新特性概要"><a href="#H5新特性概要" class="headerlink" title="H5新特性概要"></a>H5新特性概要</h4><h5 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h5><ul>
+<li>标签<ul>
+<li>更语义化标签</li>
+</ul>
+</li>
+<li>智能表单<ul>
+<li>新的表单类型，如：email,url,number</li>
+<li>新增表单功能属性，如：autocomplete，autofocus</li>
+<li>虚拟键盘适配，通过表单的类型决定移动端弹出的键盘类型</li>
+</ul>
+</li>
+<li>网页多媒体，我们可以在网页中直接通过原生方式播放视频音频<ul>
+<li>音频</li>
+<li>视频</li>
+<li>字幕</li>
+</ul>
+</li>
+<li>属性，语义化属性<ul>
+<li>链接关系描述</li>
+<li>结构数据标记</li>
+<li>ARIA</li>
+<li>自定义属性</li>
+</ul>
+</li>
+<li>Canvas，提供网页绘图的可能，后面在Canvas课程会专门去学习<ul>
+<li>2D 绘图</li>
+<li>3D (WebGL)</li>
+</ul>
+</li>
+<li>SVG</li>
+</ul>
+<h5 id="JavaScript-API"><a href="#JavaScript-API" class="headerlink" title="JavaScript API"></a>JavaScript API</h5><ul>
+<li>核心平台提升，JS在DOM和BOM两个方向上都新增了很多api，便于开发应用程序<ul>
+<li>新的选择器</li>
+<li>Element.classList</li>
+<li>访问历史API</li>
+<li>全屏API</li>
+</ul>
+</li>
+<li>网页存储，提供网页中操作客户端本地存储的API<ul>
+<li>Application Cache</li>
+<li>localStorage</li>
+<li>sessionStorage</li>
+<li>WebSQL</li>
+<li>IndexedDB</li>
+</ul>
+</li>
+<li>设备信息访问，JS可以访问硬件的一些信息，我们在移动手机APP的课程中再看<ul>
+<li>网络状态</li>
+<li>硬件访问</li>
+<li>设备方向</li>
+<li>地理围栏</li>
+</ul>
+</li>
+<li>拖放操作<ul>
+<li>网页内拖放</li>
+<li>桌面拖入</li>
+</ul>
+</li>
+<li>文件<ul>
+<li>文件系统API</li>
+<li>FileReader</li>
+</ul>
+</li>
+<li>网络访问<ul>
+<li>XMLHttpRequest</li>
+<li>fetch</li>
+<li>WebSocket</li>
+</ul>
+</li>
+<li>多线程</li>
+<li>桌面通知，</li>
+</ul>
+<h5 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h5><ul>
+<li>后面详细讨论</li>
+</ul>
+<hr>
+<h3 id="HTML5-骨架"><a href="#HTML5-骨架" class="headerlink" title="HTML5 骨架"></a>HTML5 骨架</h3><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line"><span class="comment">&lt;!-- HTML5的DOCTYPE声明做了最大简化 --&gt;</span></div><div class="line"><span class="meta">&lt;!DOCTYPE html&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">lang</span>=<span class="string">"en"</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">"UTF-8"</span>&gt;</span></div><div class="line">    <span class="comment">&lt;!-- 在标准的HTML5骨架中charset是直接在meta中设置charset --&gt;</span></div><div class="line">    <span class="comment">&lt;!-- 字符编码的设置一定是在head中的第一行 --&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>页面标题<span class="tag">&lt;/<span class="name">title</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></div><div class="line">    </div><div class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></div></pre></td></tr></table></figure>
+<ul>
+<li>HTML5的DOCTYPE声明做了最大简化</li>
+<li>在标准的HTML5骨架中charset是直接在meta中设置charset</li>
+<li>字符编码的设置一定是在head中的第一行，再晚就来不及了</li>
+</ul>
+<h3 id="语义化标签"><a href="#语义化标签" class="headerlink" title="语义化标签"></a>语义化标签</h3><h4 id="什么是语义化标签"><a href="#什么是语义化标签" class="headerlink" title="什么是语义化标签"></a>什么是语义化标签</h4><ul>
+<li>HTML5中制定了一系列语义化标签：<ul>
+<li>section：独立的内容节块，一般包含标题和内容</li>
+<li>article：一种特殊的section，定义文档中的具体的文章内容</li>
+<li>nav：页面导航的链接组</li>
+<li>aside：标签用来装载非正文的内容，此标签中的文字权重低</li>
+<li>header：定义文档的页眉，不仅仅是文档的页头可以使用header，一个独立块的头部也应该使用header</li>
+<li>footer：定义section或document的页脚</li>
+</ul>
+</li>
+<li>我们应该根据内容的性质决定使用特定的标签</li>
+<li><p>h1一定只能出现一个，不是HTML的约定，页面中最重要的内容</p>
+</li>
+<li><p>time标签专门用于时间，</p>
+<ul>
+<li>datetime应该是一个标准时间格式，</li>
+<li>pubdate指的是当前时间为article的发布时间 </li>
+</ul>
+</li>
+<li><p>在H5中，主体结构标签默认和DIV都是相同的块级效果，</p>
+</li>
+<li>但是DIV没有语义，而以上标签有特定语义</li>
+</ul>
+<h4 id="为什么要有语义化标签"><a href="#为什么要有语义化标签" class="headerlink" title="为什么要有语义化标签"></a>为什么要有语义化标签</h4><ul>
+<li>能够便于开发者阅读和写出更优雅的代码，代码如诗</li>
+<li>同时让浏览器或是网络爬虫可以很好地解析，从而更好分析其中的内容</li>
+<li>使用语义化标签会具有更好地搜索引擎优化</li>
+</ul>
+<h5 id="切记"><a href="#切记" class="headerlink" title="切记"></a>切记</h5><ul>
+<li>HTML的职责是描述一块内容是什么（或其意义）</li>
+<li>而不是它长的什么样子，它的外观应该由CSS来决定。</li>
+</ul>
+<hr>
+<h3 id="智能表单"><a href="#智能表单" class="headerlink" title="智能表单"></a>智能表单</h3><h4 id="新的表单类型"><a href="#新的表单类型" class="headerlink" title="新的表单类型"></a>新的表单类型</h4><ul>
+<li>email - 限定输入内容为邮箱地址，表单提交时会校验格式</li>
+<li>url - 限定输入内容为URL，表单提交时会校验格式</li>
+<li>number - 限定输入内容为数字，表单提交时会校验格式</li>
+<li>range - 数值范围选择器</li>
+<li>Date Pickers - 日期时间选择器<ul>
+<li>样式不能修改，移动端用的比较多，因为移动端显示的是系统的时间或日期选择器</li>
+<li>date - 选取日、月、年</li>
+<li>month - 选取月、年</li>
+<li>week - 选取周和年</li>
+<li>time - 选取时间（小时和分钟）</li>
+<li>datetime - 选取时间、日、月、年，浏览器兼容性不好，效果等同于datetime-local</li>
+<li>datetime-local - 选取本地时间、日、月、年</li>
+</ul>
+</li>
+<li>search - 搜索域，语义化，表示定义搜索框</li>
+</ul>
+<h4 id="新的表单属性"><a href="#新的表单属性" class="headerlink" title="新的表单属性"></a>新的表单属性</h4><ul>
+<li><p>form</p>
+<ul>
+<li>autocomplete 设置整个表单是否开启自动完成 on|off</li>
+<li>novalidate 设置H5的表单校验是否工作 true 不工作  不加该属性代表校验</li>
+</ul>
+</li>
+<li><p>input:</p>
+<ul>
+<li>autocomplete 单独设置每个文本框的自动完成</li>
+<li>autofocus 设置当前文本域页面加载完了过后自动得到焦点</li>
+<li>form 属性是让表单外的表单元素也可以跟随表单一起提交</li>
+<li>form overrides<ul>
+<li>formaction 在submit上重写表单的特定属性，当点击当前submit时会以当前值使用</li>
+<li>formenctype,</li>
+<li>formmethod,</li>
+<li>formnovalidate,</li>
+<li>formtarget</li>
+</ul>
+</li>
+<li>list 作用就是指定当前文本框的自动完成列表的数据 datalist 在界面上是看不见的，只是用于定义数据列表的</li>
+<li>min / max / step<ul>
+<li>min max 限制值的范围，但是不会再输入时限制，提交时校验，</li>
+<li>step设置的是每次加减的增量</li>
+<li>主要使用在number range datepicker上</li>
+</ul>
+</li>
+<li>multiple<ul>
+<li>文本域的多选</li>
+</ul>
+</li>
+<li>pattern<ul>
+<li>设置文本框的匹配格式（正则）</li>
+</ul>
+</li>
+<li>placeholder<ul>
+<li>文本框占位符</li>
+</ul>
+</li>
+<li>required<ul>
+<li>限制当前input为必须的</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="虚拟键盘适配"><a href="#虚拟键盘适配" class="headerlink" title="虚拟键盘适配"></a>虚拟键盘适配</h4><ul>
+<li>在移动端中，我们可以通过不同的表单类型控制弹出的键盘类型</li>
+</ul>
+<h4 id="关于什么时候使用H5的新特性，能不能使用新特性的问题"><a href="#关于什么时候使用H5的新特性，能不能使用新特性的问题" class="headerlink" title="关于什么时候使用H5的新特性，能不能使用新特性的问题"></a>关于什么时候使用H5的新特性，能不能使用新特性的问题</h4><ul>
+<li>无伤大雅的地方直接用<ul>
+<li>比如一个文本框，加上placeholder就具备占位文本提示功能，浏览器不支持也不会报错，那就可以直接使用</li>
+<li>再比如<code>&lt;input type=&quot;email&quot;&gt;</code>，如果浏览器不支持，默认会显示文本框，那也可以直接用。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="网页多媒体"><a href="#网页多媒体" class="headerlink" title="网页多媒体"></a>网页多媒体</h3><h4 id="音频"><a href="#音频" class="headerlink" title="音频"></a>音频</h4><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><h4 id="多媒体标签属性"><a href="#多媒体标签属性" class="headerlink" title="多媒体标签属性"></a>多媒体标签属性</h4><h4 id="自定义播放器外观"><a href="#自定义播放器外观" class="headerlink" title="自定义播放器外观"></a>自定义播放器外观</h4><h4 id="全屏-API"><a href="#全屏-API" class="headerlink" title="全屏 API"></a>全屏 API</h4><h4 id="SVG"><a href="#SVG" class="headerlink" title="SVG *"></a>SVG *</h4><hr>
+<h2 id="JS-基础-API"><a href="#JS-基础-API" class="headerlink" title="JS 基础 API"></a>JS 基础 API</h2><h3 id="新选择器"><a href="#新选择器" class="headerlink" title="新选择器"></a>新选择器</h3><h3 id="Element-classList"><a href="#Element-classList" class="headerlink" title="Element.classList"></a>Element.classList</h3><h3 id="自定义属性-DATA"><a href="#自定义属性-DATA" class="headerlink" title="自定义属性 DATA-* !"></a>自定义属性 DATA-* !</h3><h3 id="访问历史API"><a href="#访问历史API" class="headerlink" title="访问历史API *"></a>访问历史API *</h3>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Runtime基本介绍]]></title>
+      <url>http://jimmypeng.cn/2016/09/22/Runtimebase/</url>
+      <content type="html"><![CDATA[<p><code>Objective-C</code>语言是一门动态语言，它将很多静态语言在编译和链接时期做的事放到了运行时来处理。这种动态语言的优势在于：我们写代码时更具灵活性，如我们可以把消息转发给我们想要的对象，或者随意交换一个方法的实现等。</p>
+<p>这种特性意味着<code>Objective-C</code>不仅需要一个编译器，还需要一个运行时系统来执行编译的代码。对于<code>Objective-C</code>来说，这个运行时系统就像一个操作系统一样：它让所有的工作可以正常的运行。这个运行时系统即Objc <code>Runtime</code>。Objc <code>Runtime</code>其实是一个<code>Runtime</code>库，它基本上是用C和汇编写的，这个库使得C语言有了面向对象的能力。<br><a id="more"></a></p>
+<p><strong>Runtime库主要做下面几件事：</strong><br><strong>封装</strong>：在这个库中，对象可以用C语言中的结构体表示，而方法可以用C函数来实现，另外再加上了一些额外的特性。这些结构体和函数被<code>runtime</code>函数封装后，我们就可以在程序运行时创建，检查，修改类、对象和它们的方法了。</p>
+<p><strong>找出方法的最终执行代码</strong>：当程序执行<code>[object doSomething]</code>时，会向消息接收者(object)发送一条消息(doSomething)，<code>runtime</code>会根据消息接收者是否能响应该消息而做出不同的反应。</p>
+<h3 id="基本解释"><a href="#基本解释" class="headerlink" title="基本解释"></a>基本解释</h3><ul>
+<li>Runtime 是一套比较底层的纯C语言API, 它是OC的幕后工作者</li>
+<li>我们平时写的OC代码在运行时都会编译器转为runtime的C语言代码</li>
+<li>其中最主要的是消息机制OC的函数调用成为消息发送 属于动态调用过程 在编译的时候并不能决定真正调用哪个函数</li>
+<li>事实证明, 在编译阶段，OC可以调用任何函数，即使这个函数并未实现，只要申明过就不会报错</li>
+<li>而C语言在编译阶段就会报错 只有在真正运行的时候才会根据函数的名称找到对应的函数来调用。</li>
+</ul>
+<h2 id="实际用法"><a href="#实际用法" class="headerlink" title="实际用法"></a>实际用法</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div><div class="line">94</div><div class="line">95</div><div class="line">96</div><div class="line">97</div><div class="line">98</div><div class="line">99</div><div class="line">100</div><div class="line">101</div><div class="line">102</div><div class="line">103</div><div class="line">104</div><div class="line">105</div><div class="line">106</div><div class="line">107</div><div class="line">108</div><div class="line">109</div><div class="line">110</div><div class="line">111</div><div class="line">112</div><div class="line">113</div><div class="line">114</div><div class="line">115</div><div class="line">116</div><div class="line">117</div><div class="line">118</div><div class="line">119</div><div class="line">120</div><div class="line">121</div><div class="line">122</div><div class="line">123</div><div class="line">124</div></pre></td><td class="code"><pre><div class="line">#import &quot;ViewController.h&quot;</div><div class="line">#import &lt;objc/runtime.h&gt;</div><div class="line">#import &lt;objc/message.h&gt;</div><div class="line">#import &quot;Person.h&quot;</div><div class="line">#import &quot;NSObject+my.h&quot;</div><div class="line"></div><div class="line"></div><div class="line">@interface ViewController ()</div><div class="line">@property (weak, nonatomic) IBOutlet UIImageView *phoneImg;</div><div class="line"></div><div class="line"></div><div class="line">@end</div><div class="line"></div><div class="line">@implementation ViewController</div><div class="line"></div><div class="line">- (void)viewDidLoad &#123;</div><div class="line">    [super viewDidLoad];</div><div class="line">    </div><div class="line">    /******************1.消息发送*******************/</div><div class="line">    </div><div class="line">    Person *p = [Person new];</div><div class="line">//    [p run];</div><div class="line">    objc_msgSend(p,@selector(run));</div><div class="line">    </div><div class="line">    objc_msgSend([Person class], @selector(run));</div><div class="line"></div><div class="line">    /******************2.方法交换*******************/</div><div class="line">    self.phoneImg.image = [UIImage imageNamed:@&quot;banner&quot;];</div><div class="line">    </div><div class="line">    /******************3.获取实例变量*******************/</div><div class="line">    </div><div class="line">    //参数1:你要获取的类,参数2:数量指针</div><div class="line">    </div><div class="line">    unsigned int iVarCount;</div><div class="line">    </div><div class="line">    Ivar *iVarList = class_copyIvarList([Person class], &amp;iVarCount);</div><div class="line">    </div><div class="line">    for (int i = 0; i &lt; iVarCount; i++) &#123;</div><div class="line">        </div><div class="line">        Ivar aVar = iVarList[i];</div><div class="line">        </div><div class="line">        NSLog(@&quot;%s&quot;,ivar_getName(aVar));</div><div class="line">    &#125;</div><div class="line">    /******************4.获取对象方法*******************/</div><div class="line">    unsigned int methodCount;</div><div class="line">    </div><div class="line">    Method *methodList = class_copyMethodList([Person class], &amp;methodCount);</div><div class="line">    </div><div class="line">    for (int i = 0; i &lt; methodCount; i++) &#123;</div><div class="line">        </div><div class="line">        Method aMethod = methodList[i];</div><div class="line">        </div><div class="line">        SEL methodSel = method_getName(aMethod);</div><div class="line">        </div><div class="line">        NSLog(@&quot;%@&quot;,NSStringFromSelector(methodSel));</div><div class="line"></div><div class="line">    &#125;</div><div class="line">    </div><div class="line">    /******************5.动态创建类,添加实例变量*******************/</div><div class="line">    </div><div class="line">    //创建一个类 参数1:父类 参数2:你要创建的类名 参数3:</div><div class="line">     Class MyClass = objc_allocateClassPair([Person class], &quot;MyClass&quot;, 0);</div><div class="line">    </div><div class="line">    </div><div class="line">    //添加实例变量  参数1:要往哪个类添加, 参数2:变量名 参数3:变量大小 参数4:对齐方式-传0 参数5:类型编码(要去文档查看)</div><div class="line">    </div><div class="line">    </div><div class="line">    if (class_addIvar(MyClass, &quot;_city&quot;, sizeof(NSString *), 0, &quot;@&quot;)) &#123;</div><div class="line">        NSLog(@&quot;变量添加成功&quot;);</div><div class="line">        </div><div class="line">        </div><div class="line">        id myP = [[MyClass alloc]init];//使用id类型来接收</div><div class="line">        </div><div class="line">        //赋值</div><div class="line">        [myP setValue:@&quot;广州&quot; forKey:@&quot;_city&quot;];</div><div class="line">        </div><div class="line">        //取出</div><div class="line">        NSLog(@&quot;%@&quot;,[myP valueForKey:@&quot;_city&quot;]);</div><div class="line">        </div><div class="line">    &#125;</div><div class="line">    </div><div class="line">    /******************6.动态创建类,添加对象方法*******************/</div><div class="line">    </div><div class="line">    //添加对象方法  参数1:要往哪个类添加, 参数2:方法选择器 参数3:实现 参数4:实现的函数类型编码(要去文档查看)</div><div class="line">    </div><div class="line">    if (class_addMethod(MyClass, @selector(aMethod:), (IMP)aMethod_IMP, &quot;v@:@&quot;)) &#123;</div><div class="line">        </div><div class="line">        NSLog(@&quot;方法添加成功&quot;);</div><div class="line">        </div><div class="line">        id myP = [[MyClass alloc]init];//使用id类型来接收</div><div class="line">        </div><div class="line">        [myP aMethod:@&quot;哈哈&quot;];</div><div class="line">        </div><div class="line">        </div><div class="line">    &#125;</div><div class="line">    </div><div class="line">    /******************7.分类添加属性*******************/</div><div class="line">    </div><div class="line">    NSObject *obj = [NSObject new];</div><div class="line"></div><div class="line">    obj.myName = @&quot;aNema&quot;;</div><div class="line">    </div><div class="line">    NSLog(@&quot;%@&quot;,obj.myName);</div><div class="line">    </div><div class="line">    </div><div class="line"></div><div class="line">&#125;</div><div class="line"></div><div class="line">//方法实现</div><div class="line">void aMethod_IMP(id self,SEL _cmd,NSString * str)&#123;</div><div class="line"></div><div class="line">    NSLog(@&quot;%s = %@&quot;,__func__,str);</div><div class="line"></div><div class="line">&#125;</div><div class="line"></div><div class="line">//OC里的方法</div><div class="line">- (void)aMethod:(NSString *)str&#123;</div><div class="line">    </div><div class="line">    NSLog(@&quot;%s&quot;,__func__);</div><div class="line">    </div><div class="line">&#125;</div><div class="line"></div><div class="line"></div><div class="line">@end</div></pre></td></tr></table></figure>
+<p>###UIImage分类<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div></pre></td><td class="code"><pre><div class="line">//</div><div class="line">//  UIImage+my.m</div><div class="line">//  01-runtime</div><div class="line">//</div><div class="line">//  Created by iOS on 15/12/24.</div><div class="line">//  Copyright © 2015年 iOS. All rights reserved.</div><div class="line">//</div><div class="line"></div><div class="line">#import &quot;UIImage+my.h&quot;</div><div class="line">#import &lt;objc/runtime.h&gt;</div><div class="line"></div><div class="line">@implementation UIImage (my)</div><div class="line"></div><div class="line">+ (void)load&#123;</div><div class="line">    </div><div class="line">    //1.获取旧方法</div><div class="line">    </div><div class="line">    Method imageNameM = class_getClassMethod(self, @selector(imageNamed:));</div><div class="line">    </div><div class="line">    //2.获取新方法</div><div class="line">    Method imageWithNameM = class_getClassMethod(self, @selector(imageWithName:));</div><div class="line">    </div><div class="line">    //3.交换</div><div class="line">    </div><div class="line">    method_exchangeImplementations(imageNameM, imageWithNameM);</div><div class="line">    </div><div class="line">    </div><div class="line">    </div><div class="line">&#125;</div><div class="line"></div><div class="line"></div><div class="line">//+ (UIImage *)imageNamed:(NSString *)name&#123;</div><div class="line">//    </div><div class="line">//&#125;</div><div class="line"></div><div class="line"></div><div class="line">+ (UIImage *)imageWithName:(NSString *)name&#123;</div><div class="line">    </div><div class="line">    NSLog(@&quot;%s&quot;,__func__);</div><div class="line">    </div><div class="line">    if ([UIDevice currentDevice].userInterfaceIdiom == UIUserInterfaceIdiomPad) &#123;</div><div class="line">        </div><div class="line">        name = [name stringByAppendingString:@&quot;_iPad&quot;];</div><div class="line">        </div><div class="line">    &#125;else &#123;</div><div class="line">        name = [name stringByAppendingString:@&quot;_iPhone&quot;];</div><div class="line">    &#125;</div><div class="line">    </div><div class="line"></div><div class="line">    return [self imageWithName:name];</div><div class="line">&#125;</div><div class="line"></div><div class="line">@end</div></pre></td></tr></table></figure></p>
+<p>###NSObject分类<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div></pre></td><td class="code"><pre><div class="line">//</div><div class="line">//  NSObject+my.m</div><div class="line">//  01-runtime</div><div class="line">//</div><div class="line">//  Created by iOS on 15/12/24.</div><div class="line">//  Copyright © 2015年 iOS. All rights reserved.</div><div class="line">//</div><div class="line"></div><div class="line">#import &quot;NSObject+my.h&quot;</div><div class="line">#import &lt;objc/runtime.h&gt;</div><div class="line"></div><div class="line">@implementation NSObject (my)</div><div class="line"></div><div class="line">static const void *myNameKey = &quot;myNameKey&quot;;</div><div class="line"></div><div class="line">- (void)setMyName:(NSString *)myName&#123;</div><div class="line">    </div><div class="line">//    [self setValue:myName forKey:@&quot;myName&quot;];</div><div class="line">    </div><div class="line">    //设置关联  参数1:要关联的对象 参数2:绑定的key 参数3:这个key要关联的值 参数4:要使用的策略</div><div class="line">    objc_setAssociatedObject(self, myNameKey, myName, OBJC_ASSOCIATION_COPY_NONATOMIC);</div><div class="line">    </div><div class="line">&#125;</div><div class="line"></div><div class="line">- (NSString *)myName&#123;</div><div class="line">    </div><div class="line">//    return [self valueForKey:@&quot;myName&quot;];</div><div class="line">    return objc_getAssociatedObject(self, myNameKey);</div><div class="line">&#125;</div><div class="line"></div><div class="line">@end</div></pre></td></tr></table></figure></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Coredata]]></title>
+      <url>http://jimmypeng.cn/2016/01/11/coredata/</url>
+      <content type="html"><![CDATA[<h3 id="一-CoreData-是什么"><a href="#一-CoreData-是什么" class="headerlink" title="一. CoreData 是什么?"></a>一. CoreData 是什么?</h3><ul>
+<li>Core Data 是 iOS SDK 里的一个很强大的<strong>框架</strong>,允许程序员以<strong>面向对象的方式储存和管理数据</strong>。使用 Core Data 框架,程序员可以很轻松有效地通过面向对象的接口管理数据</li>
+<li><strong>Core Data 是一个模型层的技术</strong>。帮助建立代表程序状态的模型层,Core Data 也是一种 持久化技术,能将模型对象的状态持久化到磁盘,但它最重要的特点是: <strong> Core Data 不仅是一个加载、保存数据的框架,它还能和内存中的数据很好的共事</strong></li>
+<li>在数据操作过程中, <strong>无需编写任何SQL语句</strong></li>
+<li>Core Data 使用包括<strong>实体</strong>和<strong>实体间</strong>关系,以及查找符合某些条件实体的请求等内容</li>
+<li>开发者可以在<strong>纯对象层</strong>上查找与管理这些数据,而不必担心存储和查找的实现细节</li>
+<li>Core Data 框架最早出现在 Mac OS X 10.4 Tiger 与 iOS 3.0 系统,经过成千上万的应用程序以及数以百万用户的反复的验证,Core Data 确实已经是一套非常成熟的框架</li>
+<li>CoreData利用了Objective-C语言和运行时,巧妙地集成了CoreFoundation框架。是 一个易于使用的框架,不仅可以优雅地<strong>管理对象图</strong>,而且在<strong>内存管理方面表现异常优异</strong></li>
+</ul>
+<h2 id=""><a href="#" class="headerlink" title=""></a><a id="more"></a></h2><p>###二. 怎么学习CoreData</p>
+<ul>
+<li>第一眼看到 Core Data 令人生畏的<strong>复杂</strong>架构关系,很多人都会有无从下手的感觉. </li>
+<li>可是, 一旦理解了架构图中各个<strong>部件的组成</strong>及<strong>相互之间的关系</strong>,就能体会到 Core Data API 的简洁和直观了</li>
+<li><strong>Core Data stack(堆栈</strong>):如果能够理解 Core Data stack 中的<strong>各个成员所扮演的角色</strong>,那么再使用Core Data 就不会感觉到困难了</li>
+<li>误区:<strong>Core Data 不是一个数据库,不要用数据库的眼光去看待 Core Data</strong></li>
+<li>Core Data 不是应用程序的数据库,也不是将数据持久化保存到数据库的 API。<strong>Core Data 是一个用于管理对象图的框架</strong>。Core Data 可以把<strong>对象图写入磁盘</strong>从而持久化保存,但是这不是框架的主要目标.</li>
+</ul>
+<hr>
+<p>###三. Core Data stack<br>Core Data stack 是 Core Data 的核心,由一组 Core Data 核心对象组成</p>
+<ul>
+<li><strong>NSManagedObjectContext</strong> 对象管理上下文: 负责管理模型的对象的集合</li>
+<li><strong>NSManagedObjectModel</strong> 被管理的对象模型: 负责管理对象模型</li>
+<li><strong>NSPersistentStoreCoordinator</strong> 存储调度器: 负责将数据保存到磁盘的</li>
+</ul>
+<p>三者之间关系示意图:</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-3cebf6f0c3b5e52f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="关系图"></p>
+<p>分为两部分:</p>
+<ul>
+<li>对象图管理</li>
+<li>数据持久化<br>在这两部分的中间,即堆栈中间,是持久化存储协调器(Persistent Store Coordinator, PSC)。通过它将对象图管理部分和持久化部分绑在一起。当这两部分中的一部分需要和另一部分交互,将通过 PSC 来调节</li>
+</ul>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-6f67652a5b79322e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="对象图"></p>
+<p>常见的使用解决方案:</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-44d722eecf63d855.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="解决方案"></p>
+<hr>
+<p>###四. 创建CoreDataStack<br>根据 CoreDataStack 示意图,将关系以代码的形式组织起来 !<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">// 实例化数据模型 </div><div class="line">NSURL *modelURL = [[NSBundle mainBundle] URLForResource:modelNamewithExtension:@&quot;momd&quot;];</div><div class="line">NSManagedObjectModel *model = [[NSManagedObjectModel alloc]initWithContentsOfURL:modelURL];</div><div class="line"></div><div class="line">// 实例化持久化储存</div><div class="line"> NSPersistentStoreCoordinator *psc = [[NSPersistentStoreCoordinator alloc] initWithManagedObjectModel:model];</div><div class="line"></div><div class="line">NSURL *dbURL = [[[NSFileManager defaultManager]URLsForDirectory:NSDocumentDirectory inDomains:NSUserDomainMask]lastObject];</div><div class="line"></div><div class="line">dbURL = [dbURL URLByAppendingPathComponent:dbName];[psc addPersistentStoreWithType:NSSQLiteStoreType configuration:nil</div><div class="line">URL:dbURL options:nil error:NULL];</div><div class="line"></div><div class="line">//  实例化上下文</div><div class="line">_managedObjectContext = [[NSManagedObjectContext alloc]initWithConcurrencyType:NSMainQueueConcurrencyType];</div><div class="line"></div><div class="line">[_managedObjectContext setPersistentStoreCoordinator:psc];</div></pre></td></tr></table></figure></p>
+<hr>
+<p>###[ 一些提示 ]</p>
+<blockquote>
+<p>use scalar properties for primitive data type</p>
+</blockquote>
+<p>在 iOS5 和 OS X10.7 之前,scalar 不能自动生成,程序员必须自己添加 setter 和 getter 的实现</p>
+<blockquote>
+<p>@dynamic</p>
+</blockquote>
+<p>在 Objective-C 中,如果将某个属性实现为@dynamic,意味着告诉编译器不会在编译时确定这个属性的行为实现,因此不需要在编译期间对这个属性的 getter、setter 做检查.</p>
+<hr>
+<p>###五. CoreData 常见操作</p>
+<p>####5.1 新增记录:<br>使用 NSEntityDescription 来创建对象,赋值后使用相应的 context 保存即可</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-f7f81e014bd2e3d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="新增"></p>
+<p>####5.2 删除记录:<br>使用 context 的 deleteObject:删除被管理的模型对象后保存即可</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-45d75517f3ba3970.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="删除记录"></p>
+<p>####5.3 修改记录:<br>直接修改模型对象保存即可</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-7f84be1adcaa5ddd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="修改记录"></p>
+<p>####5.4 查询记录<br>对使用 CoreData 进行存储的数据进行一定条件的查询后取出来使用</p>
+<p>#####5.4.1 谓词(is)—NSPredicate<br>作用:判断条件表达式的求值返回真或假的过程</p>
+<p>使用步骤:</p>
+<ul>
+<li>定义 NSPredicate 对象并指定条件</li>
+<li>调用谓词的 evaluateWithObject 方法判断指定条件是否满足示例:<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">NSPredicate *predicate = [NSPredicate predicateWithFormat:@&quot;self CONTAINS &apos;1&apos;&quot;];</div><div class="line">NSString *text = @&quot;1234&quot;;</div><div class="line">NSLog(@&quot;%d&quot;, [predicate evaluateWithObject:text]);</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<p>案例:</p>
+<ol>
+<li>创建 Person 的对象数组</li>
+<li>查询判断姓名和年龄的过滤方法</li>
+</ol>
+<ul>
+<li>传统方法</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">NSMutableArray *result = [NSMutableArray arrayWithCapacity:personList.count];</div><div class="line"></div><div class="line">for (NSInteger i = 0; i &lt; personList.count; i++)</div><div class="line"> &#123;</div><div class="line">    Person *person = personList[i];</div><div class="line">//  用户年龄小于5同时用户姓名中包含&quot;1&quot;字符串</div><div class="line">    if (person.age &lt; 5 &amp;&amp; NSNotFound != [person.name rangeOfString:@&quot;1&quot;].location)</div><div class="line">       &#123;</div><div class="line">           [result addObject:person];</div><div class="line">       &#125;</div><div class="line">  &#125;</div><div class="line">return result;</div></pre></td></tr></table></figure>
+<ul>
+<li>谓词方法</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">NSPredicate *predicate = [NSPredicate predicateWithFormat:@&quot;name CONTAINS &apos;1&apos; &amp;&amp; %K BETWEEN &#123;%d, %d&#125;&quot;,@&quot;age&quot;, 5, 15];</div><div class="line"></div><div class="line">NSArray *result = [personList filteredArrayUsingPredicate:predicate];</div></pre></td></tr></table></figure>
+<h4 id="谓词的条件指令"><a href="#谓词的条件指令" class="headerlink" title="谓词的条件指令"></a>谓词的条件指令</h4><ol>
+<li><p><code>&gt;  &lt;  ==  &gt;=  &lt;=  !=</code><br>例如:<br><code>@&quot;number &gt;= 99&quot;</code></p>
+</li>
+<li><p>范围运算符<code>IN  BETWEEN</code><br>例如:<br><code>@&quot;number BETWEEN {1,5}&quot;</code><br><code>@&quot;address IN {&#39;shanghai&#39;,&#39;nanjing&#39;}&quot;</code></p>
+</li>
+<li><p>字符串本身<code>:SELF</code><br>例如:<br><code>@&quot;SELF == &#39;APPLE&#39;&quot;</code></p>
+</li>
+<li><p>字符串相关: <code>BEGINSWITH ENDSWITH CONTAINS</code></p>
+<p>例如:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">@&quot;name CONTAIN[cd] &apos;ang&apos;&quot; //包含某个字符串</div><div class="line">@&quot;name BEGINSWITH[c] &apos;sh&apos;&quot; //以某个字符串开头</div><div class="line">@&quot;name ENDSWITH[d] &apos;ang&apos;&quot; //以某个字符串结尾</div></pre></td></tr></table></figure>
+</li>
+<li><p>通配符:<code>LIKE</code><br>例如:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">@&quot;name LIKE[cd] &apos;*er*&apos;&quot; //* 代表通配符,Like 代表接受 [cd].</div><div class="line">@&quot;name LIKE[cd] &apos;???er*&apos;&quot;</div><div class="line"></div><div class="line"> 注:  星号&quot;*&quot; : 代表0或多个字符</div><div class="line">        问号&quot;?&quot; : 代表一个字符</div></pre></td></tr></table></figure>
+</li>
+<li><p>正则表达式:MATCHES<br>例如:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">NSString *regex = @&quot;^A.+e$&quot;; //以A开头, e结尾</div><div class="line">@&quot;name MATCHES %@&quot;,regex</div><div class="line">注:[c]不区分大小写,[d]不区分发音符号即没有重音符号,[cd]既不区分大小写,也不区分发音符号.</div></pre></td></tr></table></figure>
+</li>
+<li><p>合计操作<br>ANY SOME: 指定下列表达式中的任意元素<br>例如 <code>ANY children.age &lt; 18</code><br>ALL: 指定下列表达式中的所有元素<br>例如 <code>ALL children.age &lt; 18</code><br>NONE: 指定下列表达式中没有的元素<br>例如 <code>NONE children.age &lt; 18</code><br>在逻辑上等于NOT(ANY …)<br>IN:等于 SQL的<code>IN</code>操作,左边的表达必须出现在与右边指定的集合中<br>例如:<code>name IN { &#39;Ben&#39;,&#39;Melissa&#39;, &#39;Nick&#39; }</code></p>
+</li>
+</ol>
+<p>####提示 :</p>
+<ol>
+<li>谓词中的匹配指令关键字通常使用大写字母</li>
+<li>谓词中可以使用格式字符串</li>
+<li>如果通过对象的<code>key path</code> 指定匹配条件,需要使用 %K</li>
+</ol>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[SQLite数据库框架--FMDB]]></title>
+      <url>http://jimmypeng.cn/2015/11/27/fmdb/</url>
+      <content type="html"><![CDATA[<h3 id="FMDB概述"><a href="#FMDB概述" class="headerlink" title="FMDB概述"></a>FMDB概述</h3><hr>
+<h4 id="什么是FMDB"><a href="#什么是FMDB" class="headerlink" title="什么是FMDB"></a>什么是FMDB</h4><ul>
+<li>FMDB是iOS平台的SQLite数据库框架</li>
+<li>FMDB以OC的方式封装了SQLite的C语言API</li>
+</ul>
+<h4 id="FMDB的优点"><a href="#FMDB的优点" class="headerlink" title="FMDB的优点"></a>FMDB的优点</h4><ul>
+<li>使用起来更加面向对象，省去了很多麻烦、冗余的C语言代码</li>
+<li>对比苹果自带的Core Data框架，更加轻量级和灵活</li>
+<li>提供了多线程安全的数据库操作方法，有效地防止数据混乱</li>
+</ul>
+<h4 id="FMDB的github地址"><a href="#FMDB的github地址" class="headerlink" title="FMDB的github地址"></a>FMDB的github地址</h4><ul>
+<li><a href="https://github.com/ccgus/fmdb" target="_blank" rel="external">https://github.com/ccgus/fmdb</a></li>
+</ul>
+<a id="more"></a>
+<h1 id="FMDB基本使用"><a href="#FMDB基本使用" class="headerlink" title="FMDB基本使用"></a>FMDB基本使用</h1><hr>
+<h3 id="FMDB有三个核心类"><a href="#FMDB有三个核心类" class="headerlink" title="FMDB有三个核心类"></a>FMDB有三个核心类</h3><p>  <strong>FMDatabase</strong></p>
+<ul>
+<li>一个FMDatabase对象就代表一个单独的SQLite数据库 用来执行SQL语句</li>
+</ul>
+<p><strong> FMResultSet</strong></p>
+<ul>
+<li>使用FMDatabase执行查询后的结果集</li>
+</ul>
+<p><strong> FMDatabaseQueue</strong></p>
+<ul>
+<li>用于在多线程中执行多个查询或更新，它是线程安全的</li>
+</ul>
+<h2 id="FMDB打开数据库"><a href="#FMDB打开数据库" class="headerlink" title="FMDB打开数据库"></a>FMDB打开数据库</h2><p><strong>通过指定SQLite数据库文件路径来创建FMDatabase对象</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">FMDatabase *db = [FMDatabase databaseWithPath:path];</div><div class="line">if (![db open]) </div><div class="line">&#123;</div><div class="line">    NSLog(@&quot;数据库打开失败！&quot;);</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<p><strong>文件路径(path)有三种情况:</strong></p>
+<ul>
+<li>具体文件路径<ul>
+<li>如果不存在会自动创建</li>
+</ul>
+</li>
+<li>空字符串@””<ul>
+<li>会在临时目录创建一个空的数据库</li>
+<li>当FMDatabase连接关闭时，数据库文件也被删除</li>
+</ul>
+</li>
+<li>nil<ul>
+<li>会创建一个内存中临时数据库</li>
+<li>当FMDatabase连接关闭时，数据库会被销毁</li>
+</ul>
+</li>
+</ul>
+<h2 id="执行更新"><a href="#执行更新" class="headerlink" title="执行更新"></a>执行更新</h2><p><strong>在FMDB中，除查询以外的所有操作，都称为“更新”create、drop、insert、update、delete等</strong></p>
+<ul>
+<li><p>使用executeUpdate:方法执行更新</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">- (BOOL)executeUpdate:(NSString*)sql, ...</div><div class="line">- (BOOL)executeUpdateWithFormat:(NSString*)format, ...</div><div class="line">- (BOOL)executeUpdate:(NSString*)sql withArgumentsInArray:(NSArray *)arguments</div></pre></td></tr></table></figure>
+</li>
+<li><p>示例</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[db executeUpdate:@&quot;UPDATE t_student SET age = ? WHERE name = ?;&quot;, @20, @&quot;Jack&quot;]</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<h2 id="执行查询"><a href="#执行查询" class="headerlink" title="执行查询"></a>执行查询</h2><p><strong>查询方法</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">- (FMResultSet *)executeQuery:(NSString*)sql, ...</div><div class="line">- (FMResultSet *)executeQueryWithFormat:(NSString*)format, ...</div><div class="line">- (FMResultSet *)executeQuery:(NSString *)sql withArgumentsInArray:(NSArray *)arguments</div></pre></td></tr></table></figure></p>
+<ul>
+<li>示例<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">// 查询数据</div><div class="line">FMResultSet *rs = [db executeQuery:@&quot;SELECT * FROM t_student&quot;];</div><div class="line"></div><div class="line">// 遍历结果集</div><div class="line">while ([rs next]) &#123;</div><div class="line">    NSString *name = [rs stringForColumn:@&quot;name&quot;];</div><div class="line">    int age = [rs intForColumn:@&quot;age&quot;];</div><div class="line">    double score = [rs doubleForColumn:@&quot;score&quot;];</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<h2 id="FMDatabaseQueue"><a href="#FMDatabaseQueue" class="headerlink" title="##FMDatabaseQueue"></a>##FMDatabaseQueue</h2><ul>
+<li><p>FMDatabase这个类是线程不安全的，如果在多个线程中同时使用一个FMDatabase实例，会造成数据混乱等问题.</p>
+</li>
+<li><p>为了保证线程安全，FMDB提供方便快捷的FMDatabaseQueue类</p>
+</li>
+<li><p>FMDatabaseQueue的创建</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">FMDatabaseQueue *queue = [FMDatabaseQueue databaseQueueWithPath:path];</div></pre></td></tr></table></figure>
+</li>
+<li><p>简单使用</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">[queue inDatabase:^(FMDatabase *db) &#123;</div><div class="line">   [db executeUpdate:@&quot;INSERT INTO t_student(name) VALUES (?)&quot;, @&quot;Jack&quot;];</div><div class="line">   [db executeUpdate:@&quot;INSERT INTO t_student(name) VALUES (?)&quot;, @&quot;Rose&quot;];</div><div class="line">   [db executeUpdate:@&quot;INSERT INTO t_student(name) VALUES (?)&quot;, @&quot;Jim&quot;];</div><div class="line"></div><div class="line">   FMResultSet *rs = [db executeQuery:@&quot;select * from t_student&quot;];</div><div class="line">   while ([rs next]) &#123;</div><div class="line">   // …</div><div class="line">   &#125;</div><div class="line">&#125;];</div></pre></td></tr></table></figure>
+</li>
+<li><p>使用事务</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">[queue inTransaction:^(FMDatabase *db, BOOL *rollback) &#123;</div><div class="line">  [db executeUpdate:@&quot;INSERT INTO t_student(name) VALUES (?)&quot;, @&quot;Jack&quot;];</div><div class="line">  [db executeUpdate:@&quot;INSERT INTO t_student(name) VALUES (?)&quot;, @&quot;Rose&quot;];</div><div class="line">  [db executeUpdate:@&quot;INSERT INTO t_student(name) VALUES (?)&quot;, @&quot;Jim&quot;];</div><div class="line"></div><div class="line">  FMResultSet *rs = [db executeQuery:@&quot;select * from t_student&quot;];</div><div class="line">  while ([rs next]) &#123;</div><div class="line">      // …</div><div class="line">  &#125;</div><div class="line">&#125;];</div></pre></td></tr></table></figure>
+</li>
+<li><p>事务回滚</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">rollback = YES;</div></pre></td></tr></table></figure></li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Xcode7 真机测试出现 "The account 'Apple ID' has no team with ID 'team ID'的解决方案]]></title>
+      <url>http://jimmypeng.cn/2015/10/28/Xcode7test/</url>
+      <content type="html"><![CDATA[<h2 id="转载请注明出处-谢谢-～-o-～-Y"><a href="#转载请注明出处-谢谢-～-o-～-Y" class="headerlink" title="转载请注明出处, 谢谢! (～ o ～)Y"></a>转载请注明出处, 谢谢! (～ o ～)Y</h2><hr>
+<h5 id="之前一段时间，周围挺多人出现了Xcode真机测试出现"><a href="#之前一段时间，周围挺多人出现了Xcode真机测试出现" class="headerlink" title="之前一段时间，周围挺多人出现了Xcode真机测试出现"></a>之前一段时间，周围挺多人出现了Xcode真机测试出现</h5><blockquote>
+<p>“The account ‘Apple ID’ has no team with ID ‘team ID’ </p>
+</blockquote>
+<p>导致无法真机测试，如图：</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-5d43defb714681f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="错误提示"></p>
+<h3 id="找了很久没有找到解决方法，最后发现应该是苹果账号中心出现问题，最后发了邮件给苹果，官方就帮我解决了，步骤如下："><a href="#找了很久没有找到解决方法，最后发现应该是苹果账号中心出现问题，最后发了邮件给苹果，官方就帮我解决了，步骤如下：" class="headerlink" title="找了很久没有找到解决方法，最后发现应该是苹果账号中心出现问题，最后发了邮件给苹果，官方就帮我解决了，步骤如下："></a>找了很久没有找到解决方法，最后发现应该是苹果账号中心出现问题，最后发了邮件给苹果，官方就帮我解决了，步骤如下：</h3><h2 id=""><a href="#" class="headerlink" title=""></a><a id="more"></a></h2><ul>
+<li><p>登陆苹果开发者官方支持<br><a href="https://developer.apple.com/cn/contact/" target="_blank" rel="external">https://developer.apple.com/cn/contact/</a></p>
+</li>
+<li><p>拖动到页面最下方，可以换成简体中文(英语专八可以忽略..)<br><img src="http://upload-images.jianshu.io/upload_images/1115674-8205557d8b150e32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="简体中文"></p>
+</li>
+<li><p>回到顶部，选择 <em>Apple Developer Program Support</em><br><img src="http://upload-images.jianshu.io/upload_images/1115674-a4b918e85c5be7b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="support"></p>
+</li>
+<li><p>这时候需要你登陆你的apple账号<br><img src="http://upload-images.jianshu.io/upload_images/1115674-fce487c70a9d4cb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="登陆"></p>
+<ul>
+<li>这时候你会发现，你的账号会提示出现问题<br><img src="http://upload-images.jianshu.io/upload_images/1115674-0aa1ce8d28c1c8fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="problem"></li>
+</ul>
+</li>
+<li><p>点击contact us , 进行上面相同的操作, 然后填写问题描述<br><img src="http://upload-images.jianshu.io/upload_images/1115674-0622bc8f087d453f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="表格"></p>
+<ul>
+<li>然后苹果收到就会给你一个回复邮件<br><img src="http://upload-images.jianshu.io/upload_images/1115674-06ff12e3114d0ab6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="mail"></li>
+</ul>
+</li>
+<li><p>po主等待一天之后, 收到苹果的解决回信<br><img src="http://upload-images.jianshu.io/upload_images/1115674-87e73090499ad210.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="解决"></p>
+</li>
+</ul>
+<p>#这时候运行,发现还不可以正常使用,出现</p>
+<blockquote>
+<p>######The identity used to sign the executeble is no longer valid.<br>Please verify that your device’s clock is properly set, and that your signing certificate is not expired.(0xE8008018)</p>
+</blockquote>
+<p> 需要把旧的证书删除, 重新生成证书</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1115674-a1f19736ab67dcff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<ul>
+<li>来到系统的钥匙串,可以看到旧的证书已过期<br><img src="http://upload-images.jianshu.io/upload_images/1115674-004cb276a1b902ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></li>
+</ul>
+<h2 id="点左边的三角形箭头-打开-选中两个一起删除-重要-不然无法删除"><a href="#点左边的三角形箭头-打开-选中两个一起删除-重要-不然无法删除" class="headerlink" title="点左边的三角形箭头, 打开,选中两个一起删除!!(重要, 不然无法删除)"></a>点左边的三角形箭头, 打开,选中两个一起删除!!(重要, 不然无法删除)</h2><p><img src="http://upload-images.jianshu.io/upload_images/1115674-cca1d6329337f4d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="重要"></p>
+<ul>
+<li>然后来到Xcode偏好设置, 重新生成证书<br><img src="http://upload-images.jianshu.io/upload_images/1115674-9e283e7d093844c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>双击<br><img src="http://upload-images.jianshu.io/upload_images/1115674-3c22e3058104f361.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>reset<br><img src="http://upload-images.jianshu.io/upload_images/1115674-093448940ba23dfc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></li>
+</ul>
+<p>之后运行就是Security状态, 这里可以参考我之前的文章, 在手机打开开发者验证<br><img src="http://upload-images.jianshu.io/upload_images/1115674-dcc4da67f13eeeeb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<hr>
+<p>#地址:<a href="http://www.jianshu.com/p/4aab37a6bd86" target="_blank" rel="external"> Xcode 7免证书真机调试–by Jimmy</a></p>
+<hr>
+<p>##然后就可以正常使用了(๑•̀ㅂ•́)و✧.. 希望可以帮助到大家，还有！求赞ಥ_ಥ！</p>
+]]></content>
+    </entry>
+    
+  
+  
+</search>
