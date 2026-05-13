@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-13T23:29:21.624690",
+  "generatedAtIso": "2026-05-13T23:37:14.559236",
   "summary": {
     "totalBeans": 964455.0,
     "billCount": 19716,
@@ -108,7 +108,7 @@
       "countryIso": "BR",
       "totalBeans": 125895.0,
       "billCount": 1497,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 16788.0,
@@ -480,7 +480,7 @@
       "countryIso": "BR",
       "totalBeans": 72319.0,
       "billCount": 1409,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 13359.0,
@@ -542,7 +542,7 @@
       "countryIso": "BR",
       "totalBeans": 62236.0,
       "billCount": 2681,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 14962.0,
@@ -666,7 +666,7 @@
       "countryIso": "BR",
       "totalBeans": 41108.0,
       "billCount": 1138,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "acct-008047",
-      "displayName": "Monique Lima（39）",
+      "displayName": "Monique Lima",
       "countryIso": "CO",
       "totalBeans": 2381.0,
       "billCount": 53,
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "acct-441636",
-      "displayName": "Aisha（38）",
+      "displayName": "Aisha",
       "countryIso": "VE",
       "totalBeans": 1563.0,
       "billCount": 53,
@@ -1530,7 +1530,7 @@
     },
     {
       "id": "acct-104532",
-      "displayName": "Nada Hatem（44）",
+      "displayName": "Nada Hatem",
       "countryIso": "PH",
       "totalBeans": 248.0,
       "billCount": 31,
@@ -1592,7 +1592,7 @@
     },
     {
       "id": "acct-531982",
-      "displayName": "Hiraly（42）",
+      "displayName": "Hiraly",
       "countryIso": "BR",
       "totalBeans": 48.0,
       "billCount": 6,
@@ -1654,7 +1654,7 @@
     },
     {
       "id": "acct-798876",
-      "displayName": "MeL（41）",
+      "displayName": "MeL",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
@@ -1716,7 +1716,7 @@
     },
     {
       "id": "acct-593105",
-      "displayName": "Lupita Cardenas（43）",
+      "displayName": "Lupita Cardenas",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
@@ -1778,7 +1778,7 @@
     },
     {
       "id": "acct-692044",
-      "displayName": "Leidy oerez（40）",
+      "displayName": "Leidy oerez",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
@@ -1840,7 +1840,7 @@
     },
     {
       "id": "acct-040418",
-      "displayName": "Alexia rodriguez（36）",
+      "displayName": "Alexia rodriguez",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
