@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-13T16:50:30.928932",
+  "generatedAtIso": "2026-05-13T17:05:25.632035",
   "summary": {
     "totalBeans": 964455.0,
     "privateCallBeans": 70704.0,
@@ -2275,7 +2275,7 @@
       "privateCallBeans": 0.0,
       "matchCallBeans": 48.0,
       "billCount": 6,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-13": {
           "totalBeans": 48.0,
