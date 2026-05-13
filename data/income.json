@@ -2,32 +2,32 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-13T17:55:45.679142",
+  "generatedAtIso": "2026-05-13T18:00:29.198499",
   "summary": {
-    "totalBeans": 902219.0,
-    "privateCallBeans": 65714.0,
-    "matchCallBeans": 779024.0,
-    "giftBeans": 34201.0,
+    "totalBeans": 964455.0,
+    "privateCallBeans": 70704.0,
+    "matchCallBeans": 835320.0,
+    "giftBeans": 34231.0,
     "messageBeans": 0.0,
-    "otherBeans": 23280.0,
-    "billCount": 17035,
-    "accountCount": 28
+    "otherBeans": 24200.0,
+    "billCount": 19716,
+    "accountCount": 29
   },
   "dailyTotals": [
     {
       "date": "2026-05-01",
-      "totalBeans": 84600.0,
-      "billCount": 1421
+      "totalBeans": 99562.0,
+      "billCount": 2037
     },
     {
       "date": "2026-05-02",
-      "totalBeans": 179402.0,
-      "billCount": 2724
+      "totalBeans": 192842.0,
+      "billCount": 3299
     },
     {
       "date": "2026-05-03",
-      "totalBeans": 143783.0,
-      "billCount": 1983
+      "totalBeans": 158819.0,
+      "billCount": 2561
     },
     {
       "date": "2026-05-04",
@@ -36,8 +36,8 @@
     },
     {
       "date": "2026-05-05",
-      "totalBeans": 18489.0,
-      "billCount": 214
+      "totalBeans": 19041.0,
+      "billCount": 229
     },
     {
       "date": "2026-05-06",
@@ -61,18 +61,18 @@
     },
     {
       "date": "2026-05-10",
-      "totalBeans": 79089.0,
-      "billCount": 1699
+      "totalBeans": 84923.0,
+      "billCount": 1952
     },
     {
       "date": "2026-05-11",
-      "totalBeans": 70614.0,
-      "billCount": 2080
+      "totalBeans": 76586.0,
+      "billCount": 2418
     },
     {
       "date": "2026-05-12",
-      "totalBeans": 131167.0,
-      "billCount": 2849
+      "totalBeans": 137607.0,
+      "billCount": 3155
     },
     {
       "date": "2026-05-13",
@@ -83,9 +83,9 @@
   "countryTotals": [
     {
       "countryIso": "BR",
-      "totalBeans": 791435.0,
-      "billCount": 14036,
-      "accountCount": 20
+      "totalBeans": 853671.0,
+      "billCount": 16717,
+      "accountCount": 21
     },
     {
       "countryIso": "CO",
@@ -728,6 +728,96 @@
           "privateCallBeans": 225.0,
           "matchCallBeans": 2228.0,
           "billCount": 128
+        },
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-105009",
+      "displayName": "Ruiva",
+      "countryIso": "BR",
+      "totalBeans": 62236.0,
+      "privateCallBeans": 4990.0,
+      "matchCallBeans": 56296.0,
+      "billCount": 2681,
+      "online": false,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 14962.0,
+          "privateCallBeans": 1950.0,
+          "matchCallBeans": 13012.0,
+          "billCount": 616
+        },
+        "2026-05-02": {
+          "totalBeans": 13440.0,
+          "privateCallBeans": 1080.0,
+          "matchCallBeans": 12360.0,
+          "billCount": 575
+        },
+        "2026-05-03": {
+          "totalBeans": 15036.0,
+          "privateCallBeans": 420.0,
+          "matchCallBeans": 14596.0,
+          "billCount": 578
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 552.0,
+          "privateCallBeans": 140.0,
+          "matchCallBeans": 412.0,
+          "billCount": 15
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 5834.0,
+          "privateCallBeans": 490.0,
+          "matchCallBeans": 5344.0,
+          "billCount": 253
+        },
+        "2026-05-12": {
+          "totalBeans": 6440.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 5540.0,
+          "billCount": 306
+        },
+        "2026-05-11": {
+          "totalBeans": 5972.0,
+          "privateCallBeans": 630.0,
+          "matchCallBeans": 5032.0,
+          "billCount": 338
         },
         "2026-05-13": {
           "totalBeans": 0.0,
