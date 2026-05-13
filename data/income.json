@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-13T22:54:59.266319",
+  "generatedAtIso": "2026-05-13T23:00:11.987619",
   "summary": {
     "totalBeans": 964455.0,
     "billCount": 19716,
@@ -1530,7 +1530,7 @@
     },
     {
       "id": "acct-104532",
-      "displayName": "Nada Hatem",
+      "displayName": "Nada Hatem（44）",
       "countryIso": "PH",
       "totalBeans": 248.0,
       "billCount": 31,
@@ -1592,7 +1592,7 @@
     },
     {
       "id": "acct-531982",
-      "displayName": "Hiraly",
+      "displayName": "Hiraly（42）",
       "countryIso": "BR",
       "totalBeans": 48.0,
       "billCount": 6,
@@ -1654,7 +1654,7 @@
     },
     {
       "id": "acct-798876",
-      "displayName": "MeL",
+      "displayName": "MeL（41）",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
@@ -1716,7 +1716,7 @@
     },
     {
       "id": "acct-593105",
-      "displayName": "Lupita Cardenas",
+      "displayName": "Lupita Cardenas（43）",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
@@ -1778,7 +1778,7 @@
     },
     {
       "id": "acct-692044",
-      "displayName": "Leidy oerez",
+      "displayName": "Leidy oerez（40）",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
