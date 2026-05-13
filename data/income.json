@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-13T22:41:11.431973",
+  "generatedAtIso": "2026-05-13T22:54:59.266319",
   "summary": {
     "totalBeans": 964455.0,
     "billCount": 19716,
@@ -480,7 +480,7 @@
       "countryIso": "BR",
       "totalBeans": 72319.0,
       "billCount": 1409,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 13359.0,
@@ -1534,7 +1534,7 @@
       "countryIso": "PH",
       "totalBeans": 248.0,
       "billCount": 31,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-13": {
           "totalBeans": 248.0,
