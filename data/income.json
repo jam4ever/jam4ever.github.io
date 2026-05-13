@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-14T01:25:28.097065",
+  "generatedAtIso": "2026-05-14T01:38:14.644407",
   "summary": {
     "totalBeans": 964455.0,
     "billCount": 19716,
-    "accountCount": 38
+    "accountCount": 39
   },
   "dailyTotals": [
     {
@@ -97,7 +97,7 @@
       "countryIso": "VE",
       "totalBeans": 31489.0,
       "billCount": 1062,
-      "accountCount": 5
+      "accountCount": 6
     },
     {
       "countryIso": "PH",
@@ -171,7 +171,7 @@
     },
     {
       "id": "acct-447836",
-      "displayName": "Flor da",
+      "displayName": "Flor da（47）",
       "countryIso": "BR",
       "totalBeans": 114025.0,
       "billCount": 1791,
@@ -1353,7 +1353,7 @@
       "countryIso": "CO",
       "totalBeans": 2381.0,
       "billCount": 53,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-13": {
           "totalBeans": 2381.0,
@@ -1481,7 +1481,7 @@
       "countryIso": "VE",
       "totalBeans": 1563.0,
       "billCount": 53,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-13": {
           "totalBeans": 1563.0,
@@ -1543,7 +1543,7 @@
       "countryIso": "PH",
       "totalBeans": 248.0,
       "billCount": 31,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-13": {
           "totalBeans": 248.0,
@@ -1666,9 +1666,9 @@
       }
     },
     {
-      "id": "acct-165195",
-      "displayName": "Juna Maglinte",
-      "countryIso": "BR",
+      "id": "acct-645685",
+      "displayName": "Isabela Rico（37）",
+      "countryIso": "VE",
       "totalBeans": 0.0,
       "billCount": 0,
       "online": false,
@@ -1722,68 +1722,6 @@
           "billCount": 0
         },
         "2026-05-13": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-798876",
-      "displayName": "MeL（41）",
-      "countryIso": "BR",
-      "totalBeans": 0.0,
-      "billCount": 0,
-      "online": false,
-      "days": {
-        "2026-05-13": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-01": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-11": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-12": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -1857,7 +1795,7 @@
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-13": {
           "totalBeans": 0.0,
@@ -2105,7 +2043,7 @@
       "countryIso": "CO",
       "totalBeans": 0.0,
       "billCount": 0,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -2167,7 +2105,7 @@
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -2229,7 +2167,7 @@
       "countryIso": "PH",
       "totalBeans": 0.0,
       "billCount": 0,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -2295,7 +2233,7 @@
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -2357,7 +2295,7 @@
       "countryIso": "PH",
       "totalBeans": 0.0,
       "billCount": 0,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -2423,6 +2361,68 @@
       "countryIso": "CO",
       "totalBeans": 0.0,
       "billCount": 0,
+      "online": true,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-165195",
+      "displayName": "Juna Maglinte（46）",
+      "countryIso": "BR",
+      "totalBeans": 0.0,
+      "billCount": 0,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -2474,6 +2474,68 @@
           "billCount": 0
         },
         "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-798876",
+      "displayName": "MeL（41）",
+      "countryIso": "BR",
+      "totalBeans": 0.0,
+      "billCount": 0,
+      "online": true,
+      "days": {
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
           "totalBeans": 0.0,
           "billCount": 0
         }
