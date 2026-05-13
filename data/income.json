@@ -2,37 +2,37 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-13T16:33:34.698638",
+  "generatedAtIso": "2026-05-13T16:42:31.255568",
   "summary": {
-    "totalBeans": 868233.0,
-    "privateCallBeans": 62534.0,
-    "matchCallBeans": 751004.0,
-    "giftBeans": 31755.0,
+    "totalBeans": 964455.0,
+    "privateCallBeans": 70704.0,
+    "matchCallBeans": 835320.0,
+    "giftBeans": 34231.0,
     "messageBeans": 0.0,
-    "otherBeans": 22940.0,
-    "billCount": 18258,
+    "otherBeans": 24200.0,
+    "billCount": 19716,
     "accountCount": 29
   },
   "dailyTotals": [
     {
       "date": "2026-05-01",
-      "totalBeans": 96658.0,
-      "billCount": 1987
+      "totalBeans": 99562.0,
+      "billCount": 2037
     },
     {
       "date": "2026-05-02",
-      "totalBeans": 171979.0,
-      "billCount": 2938
+      "totalBeans": 192842.0,
+      "billCount": 3299
     },
     {
       "date": "2026-05-03",
-      "totalBeans": 111687.0,
-      "billCount": 1943
+      "totalBeans": 158819.0,
+      "billCount": 2561
     },
     {
       "date": "2026-05-04",
-      "totalBeans": 19664.0,
-      "billCount": 208
+      "totalBeans": 30896.0,
+      "billCount": 351
     },
     {
       "date": "2026-05-05",
@@ -51,18 +51,18 @@
     },
     {
       "date": "2026-05-08",
-      "totalBeans": 23451.0,
-      "billCount": 499
+      "totalBeans": 28532.0,
+      "billCount": 587
     },
     {
       "date": "2026-05-09",
-      "totalBeans": 34583.0,
-      "billCount": 671
+      "totalBeans": 35183.0,
+      "billCount": 674
     },
     {
       "date": "2026-05-10",
-      "totalBeans": 79567.0,
-      "billCount": 1843
+      "totalBeans": 84923.0,
+      "billCount": 1952
     },
     {
       "date": "2026-05-11",
@@ -76,15 +76,15 @@
     },
     {
       "date": "2026-05-13",
-      "totalBeans": 19257.0,
-      "billCount": 518
+      "totalBeans": 22311.0,
+      "billCount": 604
     }
   ],
   "countryTotals": [
     {
       "countryIso": "BR",
-      "totalBeans": 757449.0,
-      "billCount": 15259,
+      "totalBeans": 853671.0,
+      "billCount": 16717,
       "accountCount": 21
     },
     {
@@ -120,67 +120,170 @@
         "2026-05-01": {
           "totalBeans": 16788.0,
           "privateCallBeans": 1150.0,
-          "matchCallBeans": 14688.0
+          "matchCallBeans": 14688.0,
+          "billCount": 172
         },
         "2026-05-02": {
           "totalBeans": 33129.0,
           "privateCallBeans": 2050.0,
-          "matchCallBeans": 29596.0
+          "matchCallBeans": 29596.0,
+          "billCount": 353
         },
         "2026-05-03": {
           "totalBeans": 16450.0,
           "privateCallBeans": 1350.0,
-          "matchCallBeans": 13120.0
+          "matchCallBeans": 13120.0,
+          "billCount": 171
         },
         "2026-05-04": {
           "totalBeans": 19664.0,
           "privateCallBeans": 1875.0,
-          "matchCallBeans": 17588.0
+          "matchCallBeans": 17588.0,
+          "billCount": 208
         },
         "2026-05-05": {
           "totalBeans": 6614.0,
           "privateCallBeans": 150.0,
-          "matchCallBeans": 6316.0
+          "matchCallBeans": 6316.0,
+          "billCount": 64
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 360.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 212.0
+          "matchCallBeans": 212.0,
+          "billCount": 5
         },
         "2026-05-10": {
           "totalBeans": 10874.0,
           "privateCallBeans": 600.0,
-          "matchCallBeans": 8568.0
+          "matchCallBeans": 8568.0,
+          "billCount": 142
         },
         "2026-05-12": {
           "totalBeans": 10098.0,
           "privateCallBeans": 750.0,
-          "matchCallBeans": 8728.0
+          "matchCallBeans": 8728.0,
+          "billCount": 156
         },
         "2026-05-11": {
           "totalBeans": 8834.0,
           "privateCallBeans": 300.0,
-          "matchCallBeans": 8376.0
+          "matchCallBeans": 8376.0,
+          "billCount": 166
         },
         "2026-05-13": {
           "totalBeans": 3084.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 2984.0
+          "matchCallBeans": 2984.0,
+          "billCount": 60
+        }
+      }
+    },
+    {
+      "id": "acct-447836",
+      "displayName": "Flor da",
+      "countryIso": "BR",
+      "totalBeans": 114025.0,
+      "privateCallBeans": 9370.0,
+      "matchCallBeans": 98636.0,
+      "billCount": 1791,
+      "online": false,
+      "days": {
+        "2026-05-12": {
+          "totalBeans": 13652.0,
+          "privateCallBeans": 675.0,
+          "matchCallBeans": 10588.0,
+          "billCount": 235
+        },
+        "2026-05-11": {
+          "totalBeans": 7205.0,
+          "privateCallBeans": 525.0,
+          "matchCallBeans": 5976.0,
+          "billCount": 184
+        },
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-01": {
+          "totalBeans": 2904.0,
+          "privateCallBeans": 50.0,
+          "matchCallBeans": 2844.0,
+          "billCount": 50
+        },
+        "2026-05-02": {
+          "totalBeans": 20863.0,
+          "privateCallBeans": 1000.0,
+          "matchCallBeans": 19720.0,
+          "billCount": 361
+        },
+        "2026-05-03": {
+          "totalBeans": 47132.0,
+          "privateCallBeans": 5810.0,
+          "matchCallBeans": 40440.0,
+          "billCount": 618
+        },
+        "2026-05-04": {
+          "totalBeans": 11232.0,
+          "privateCallBeans": 560.0,
+          "matchCallBeans": 9472.0,
+          "billCount": 143
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 5081.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 4548.0,
+          "billCount": 88
+        },
+        "2026-05-09": {
+          "totalBeans": 600.0,
+          "privateCallBeans": 600.0,
+          "matchCallBeans": 0.0,
+          "billCount": 3
+        },
+        "2026-05-10": {
+          "totalBeans": 5356.0,
+          "privateCallBeans": 150.0,
+          "matchCallBeans": 5048.0,
+          "billCount": 109
         }
       }
     },
@@ -197,67 +300,80 @@
         "2026-05-01": {
           "totalBeans": 17876.0,
           "privateCallBeans": 500.0,
-          "matchCallBeans": 15392.0
+          "matchCallBeans": 15392.0,
+          "billCount": 313
         },
         "2026-05-02": {
           "totalBeans": 28789.0,
           "privateCallBeans": 1050.0,
-          "matchCallBeans": 25168.0
+          "matchCallBeans": 25168.0,
+          "billCount": 479
         },
         "2026-05-03": {
           "totalBeans": 24238.0,
           "privateCallBeans": 2025.0,
-          "matchCallBeans": 19600.0
+          "matchCallBeans": 19600.0,
+          "billCount": 327
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 2066.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 1800.0
+          "matchCallBeans": 1800.0,
+          "billCount": 50
         },
         "2026-05-10": {
           "totalBeans": 8617.0,
           "privateCallBeans": 160.0,
-          "matchCallBeans": 7284.0
+          "matchCallBeans": 7284.0,
+          "billCount": 211
         },
         "2026-05-12": {
           "totalBeans": 10606.0,
           "privateCallBeans": 1040.0,
-          "matchCallBeans": 8600.0
+          "matchCallBeans": 8600.0,
+          "billCount": 234
         },
         "2026-05-11": {
           "totalBeans": 7484.0,
           "privateCallBeans": 160.0,
-          "matchCallBeans": 6668.0
+          "matchCallBeans": 6668.0,
+          "billCount": 204
         },
         "2026-05-13": {
           "totalBeans": 2728.0,
           "privateCallBeans": 160.0,
-          "matchCallBeans": 2468.0
+          "matchCallBeans": 2468.0,
+          "billCount": 79
         }
       }
     },
@@ -265,71 +381,89 @@
       "id": "acct-000707",
       "displayName": "Anacosta",
       "countryIso": "BR",
-      "totalBeans": 89591.0,
+      "totalBeans": 92645.0,
       "privateCallBeans": 7620.0,
-      "matchCallBeans": 77712.0,
-      "billCount": 1574,
+      "matchCallBeans": 79956.0,
+      "billCount": 1660,
       "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 13107.0,
           "privateCallBeans": 350.0,
-          "matchCallBeans": 12068.0
+          "matchCallBeans": 12068.0,
+          "billCount": 255
         },
         "2026-05-02": {
           "totalBeans": 25275.0,
           "privateCallBeans": 1050.0,
-          "matchCallBeans": 24032.0
+          "matchCallBeans": 24032.0,
+          "billCount": 403
         },
         "2026-05-03": {
           "totalBeans": 23296.0,
           "privateCallBeans": 3220.0,
-          "matchCallBeans": 18408.0
+          "matchCallBeans": 18408.0,
+          "billCount": 358
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 400.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 400.0
+          "matchCallBeans": 400.0,
+          "billCount": 5
         },
         "2026-05-10": {
           "totalBeans": 8597.0,
           "privateCallBeans": 675.0,
-          "matchCallBeans": 7104.0
+          "matchCallBeans": 7104.0,
+          "billCount": 120
         },
         "2026-05-12": {
           "totalBeans": 15498.0,
           "privateCallBeans": 2100.0,
-          "matchCallBeans": 12728.0
+          "matchCallBeans": 12728.0,
+          "billCount": 305
         },
         "2026-05-11": {
           "totalBeans": 3418.0,
           "privateCallBeans": 225.0,
-          "matchCallBeans": 2972.0
+          "matchCallBeans": 2972.0,
+          "billCount": 128
+        },
+        "2026-05-13": {
+          "totalBeans": 3054.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2244.0,
+          "billCount": 86
         }
       }
     },
@@ -346,67 +480,80 @@
         "2026-05-01": {
           "totalBeans": 3869.0,
           "privateCallBeans": 500.0,
-          "matchCallBeans": 2840.0
+          "matchCallBeans": 2840.0,
+          "billCount": 31
         },
         "2026-05-02": {
           "totalBeans": 29926.0,
           "privateCallBeans": 1700.0,
-          "matchCallBeans": 26720.0
+          "matchCallBeans": 26720.0,
+          "billCount": 330
         },
         "2026-05-03": {
           "totalBeans": 7095.0,
           "privateCallBeans": 900.0,
-          "matchCallBeans": 5864.0
+          "matchCallBeans": 5864.0,
+          "billCount": 85
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 4647.0,
           "privateCallBeans": 75.0,
-          "matchCallBeans": 4572.0
+          "matchCallBeans": 4572.0,
+          "billCount": 55
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 12571.0,
           "privateCallBeans": 1200.0,
-          "matchCallBeans": 10768.0
+          "matchCallBeans": 10768.0,
+          "billCount": 147
         },
         "2026-05-10": {
           "totalBeans": 9599.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 8548.0
+          "matchCallBeans": 8548.0,
+          "billCount": 129
         },
         "2026-05-12": {
           "totalBeans": 8619.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 8036.0
+          "matchCallBeans": 8036.0,
+          "billCount": 239
         },
         "2026-05-11": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -423,67 +570,80 @@
         "2026-05-01": {
           "totalBeans": 16697.0,
           "privateCallBeans": 500.0,
-          "matchCallBeans": 16092.0
+          "matchCallBeans": 16092.0,
+          "billCount": 348
         },
         "2026-05-02": {
           "totalBeans": 17144.0,
           "privateCallBeans": 300.0,
-          "matchCallBeans": 16844.0
+          "matchCallBeans": 16844.0,
+          "billCount": 344
         },
         "2026-05-03": {
           "totalBeans": 7507.0,
           "privateCallBeans": 140.0,
-          "matchCallBeans": 6996.0
+          "matchCallBeans": 6996.0,
+          "billCount": 135
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 5366.0,
           "privateCallBeans": 1120.0,
-          "matchCallBeans": 3692.0
+          "matchCallBeans": 3692.0,
+          "billCount": 75
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 8244.0,
           "privateCallBeans": 490.0,
-          "matchCallBeans": 6944.0
+          "matchCallBeans": 6944.0,
+          "billCount": 174
         },
         "2026-05-12": {
           "totalBeans": 10721.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 9988.0
+          "matchCallBeans": 9988.0,
+          "billCount": 261
         },
         "2026-05-11": {
           "totalBeans": 7330.0,
           "privateCallBeans": 280.0,
-          "matchCallBeans": 6840.0
+          "matchCallBeans": 6840.0,
+          "billCount": 335
         },
         "2026-05-13": {
           "totalBeans": 1439.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 1256.0
+          "matchCallBeans": 1256.0,
+          "billCount": 40
         }
       }
     },
@@ -500,67 +660,80 @@
         "2026-05-01": {
           "totalBeans": 13359.0,
           "privateCallBeans": 900.0,
-          "matchCallBeans": 12136.0
+          "matchCallBeans": 12136.0,
+          "billCount": 252
         },
         "2026-05-02": {
           "totalBeans": 24276.0,
           "privateCallBeans": 1120.0,
-          "matchCallBeans": 22948.0
+          "matchCallBeans": 22948.0,
+          "billCount": 454
         },
         "2026-05-03": {
           "totalBeans": 18065.0,
           "privateCallBeans": 1470.0,
-          "matchCallBeans": 16128.0
+          "matchCallBeans": 16128.0,
+          "billCount": 289
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 1862.0,
           "privateCallBeans": 150.0,
-          "matchCallBeans": 1712.0
+          "matchCallBeans": 1712.0,
+          "billCount": 20
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 2404.0,
           "privateCallBeans": 300.0,
-          "matchCallBeans": 2104.0
+          "matchCallBeans": 2104.0,
+          "billCount": 70
         },
         "2026-05-12": {
           "totalBeans": 9740.0,
           "privateCallBeans": 450.0,
-          "matchCallBeans": 8680.0
+          "matchCallBeans": 8680.0,
+          "billCount": 196
         },
         "2026-05-11": {
           "totalBeans": 2613.0,
           "privateCallBeans": 225.0,
-          "matchCallBeans": 2228.0
+          "matchCallBeans": 2228.0,
+          "billCount": 128
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -577,67 +750,80 @@
         "2026-05-01": {
           "totalBeans": 14962.0,
           "privateCallBeans": 1950.0,
-          "matchCallBeans": 13012.0
+          "matchCallBeans": 13012.0,
+          "billCount": 616
         },
         "2026-05-02": {
           "totalBeans": 13440.0,
           "privateCallBeans": 1080.0,
-          "matchCallBeans": 12360.0
+          "matchCallBeans": 12360.0,
+          "billCount": 575
         },
         "2026-05-03": {
           "totalBeans": 15036.0,
           "privateCallBeans": 420.0,
-          "matchCallBeans": 14596.0
+          "matchCallBeans": 14596.0,
+          "billCount": 578
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 552.0,
           "privateCallBeans": 140.0,
-          "matchCallBeans": 412.0
+          "matchCallBeans": 412.0,
+          "billCount": 15
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 5834.0,
           "privateCallBeans": 490.0,
-          "matchCallBeans": 5344.0
+          "matchCallBeans": 5344.0,
+          "billCount": 253
         },
         "2026-05-12": {
           "totalBeans": 6440.0,
           "privateCallBeans": 280.0,
-          "matchCallBeans": 5540.0
+          "matchCallBeans": 5540.0,
+          "billCount": 306
         },
         "2026-05-11": {
           "totalBeans": 5972.0,
           "privateCallBeans": 630.0,
-          "matchCallBeans": 5032.0
+          "matchCallBeans": 5032.0,
+          "billCount": 338
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -654,67 +840,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 9782.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 9112.0
+          "matchCallBeans": 9112.0,
+          "billCount": 145
         },
         "2026-05-09": {
           "totalBeans": 10372.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 10264.0
+          "matchCallBeans": 10264.0,
+          "billCount": 161
         },
         "2026-05-10": {
           "totalBeans": 10461.0,
           "privateCallBeans": 340.0,
-          "matchCallBeans": 10096.0
+          "matchCallBeans": 10096.0,
+          "billCount": 335
         },
         "2026-05-12": {
           "totalBeans": 6928.0,
           "privateCallBeans": 360.0,
-          "matchCallBeans": 6160.0
+          "matchCallBeans": 6160.0,
+          "billCount": 90
         },
         "2026-05-11": {
           "totalBeans": 8473.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 8448.0
+          "matchCallBeans": 8448.0,
+          "billCount": 172
         },
         "2026-05-13": {
           "totalBeans": 3122.0,
           "privateCallBeans": 180.0,
-          "matchCallBeans": 2932.0
+          "matchCallBeans": 2932.0,
+          "billCount": 62
         }
       }
     },
@@ -731,67 +930,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 5013.0,
           "privateCallBeans": 720.0,
-          "matchCallBeans": 3268.0
+          "matchCallBeans": 3268.0,
+          "billCount": 185
         },
         "2026-05-07": {
           "totalBeans": 9323.0,
           "privateCallBeans": 1440.0,
-          "matchCallBeans": 7092.0
+          "matchCallBeans": 7092.0,
+          "billCount": 223
         },
         "2026-05-08": {
           "totalBeans": 2975.0,
           "privateCallBeans": 480.0,
-          "matchCallBeans": 2420.0
+          "matchCallBeans": 2420.0,
+          "billCount": 62
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 3234.0,
           "privateCallBeans": 390.0,
-          "matchCallBeans": 2696.0
+          "matchCallBeans": 2696.0,
+          "billCount": 104
         },
         "2026-05-12": {
           "totalBeans": 11111.0,
           "privateCallBeans": 260.0,
-          "matchCallBeans": 10576.0
+          "matchCallBeans": 10576.0,
+          "billCount": 292
         },
         "2026-05-11": {
           "totalBeans": 6868.0,
           "privateCallBeans": 195.0,
-          "matchCallBeans": 6460.0
+          "matchCallBeans": 6460.0,
+          "billCount": 208
         },
         "2026-05-13": {
           "totalBeans": 2584.0,
           "privateCallBeans": 280.0,
-          "matchCallBeans": 2304.0
+          "matchCallBeans": 2304.0,
+          "billCount": 64
         }
       }
     },
@@ -808,67 +1020,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 4385.0,
           "privateCallBeans": 1800.0,
-          "matchCallBeans": 1560.0
+          "matchCallBeans": 1560.0,
+          "billCount": 86
         },
         "2026-05-07": {
           "totalBeans": 10656.0,
           "privateCallBeans": 2280.0,
-          "matchCallBeans": 7776.0
+          "matchCallBeans": 7776.0,
+          "billCount": 201
         },
         "2026-05-08": {
           "totalBeans": 308.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 308.0
+          "matchCallBeans": 308.0,
+          "billCount": 1
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 4412.0,
           "privateCallBeans": 780.0,
-          "matchCallBeans": 3632.0
+          "matchCallBeans": 3632.0,
+          "billCount": 52
         },
         "2026-05-12": {
           "totalBeans": 9616.0,
           "privateCallBeans": 1430.0,
-          "matchCallBeans": 7892.0
+          "matchCallBeans": 7892.0,
+          "billCount": 148
         },
         "2026-05-11": {
           "totalBeans": 7380.0,
           "privateCallBeans": 1430.0,
-          "matchCallBeans": 5752.0
+          "matchCallBeans": 5752.0,
+          "billCount": 191
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -885,94 +1110,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 7275.0,
           "privateCallBeans": 280.0,
-          "matchCallBeans": 6940.0
+          "matchCallBeans": 6940.0,
+          "billCount": 251
         },
         "2026-05-12": {
           "totalBeans": 7288.0,
           "privateCallBeans": 381.0,
-          "matchCallBeans": 6872.0
+          "matchCallBeans": 6872.0,
+          "billCount": 205
         },
         "2026-05-11": {
           "totalBeans": 9819.0,
           "privateCallBeans": 998.0,
-          "matchCallBeans": 8216.0
+          "matchCallBeans": 8216.0,
+          "billCount": 309
         },
         "2026-05-13": {
           "totalBeans": 1312.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 1312.0
-        }
-      }
-    },
-    {
-      "id": "acct-447836",
-      "displayName": "Flor da",
-      "countryIso": "BR",
-      "totalBeans": 20857.0,
-      "privateCallBeans": 1200.0,
-      "matchCallBeans": 16564.0,
-      "billCount": 419,
-      "online": false,
-      "days": {
-        "2026-05-12": {
-          "totalBeans": 13652.0,
-          "privateCallBeans": 675.0,
-          "matchCallBeans": 10588.0
-        },
-        "2026-05-11": {
-          "totalBeans": 7205.0,
-          "privateCallBeans": 525.0,
-          "matchCallBeans": 5976.0
-        },
-        "2026-05-13": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 1312.0,
+          "billCount": 44
         }
       }
     },
@@ -989,67 +1200,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 5280.0,
           "privateCallBeans": 520.0,
-          "matchCallBeans": 3592.0
+          "matchCallBeans": 3592.0,
+          "billCount": 173
         },
         "2026-05-07": {
           "totalBeans": 8044.0,
           "privateCallBeans": 1320.0,
-          "matchCallBeans": 6076.0
+          "matchCallBeans": 6076.0,
+          "billCount": 138
         },
         "2026-05-08": {
           "totalBeans": 5049.0,
           "privateCallBeans": 240.0,
-          "matchCallBeans": 2344.0
+          "matchCallBeans": 2344.0,
+          "billCount": 59
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-12": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-11": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1066,67 +1290,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 4802.0,
           "privateCallBeans": 620.0,
-          "matchCallBeans": 3632.0
+          "matchCallBeans": 3632.0,
+          "billCount": 224
         },
         "2026-05-09": {
           "totalBeans": 8814.0,
           "privateCallBeans": 300.0,
-          "matchCallBeans": 8196.0
+          "matchCallBeans": 8196.0,
+          "billCount": 303
         },
         "2026-05-10": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-12": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-11": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1143,67 +1380,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 3844.0,
           "privateCallBeans": 320.0,
-          "matchCallBeans": 2524.0
+          "matchCallBeans": 2524.0,
+          "billCount": 117
         },
         "2026-05-07": {
           "totalBeans": 7900.0,
           "privateCallBeans": 990.0,
-          "matchCallBeans": 6880.0
+          "matchCallBeans": 6880.0,
+          "billCount": 211
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-12": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-11": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1220,67 +1470,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 5132.0,
           "privateCallBeans": 460.0,
-          "matchCallBeans": 3672.0
+          "matchCallBeans": 3672.0,
+          "billCount": 120
         },
         "2026-05-07": {
           "totalBeans": 5836.0,
           "privateCallBeans": 960.0,
-          "matchCallBeans": 4816.0
+          "matchCallBeans": 4816.0,
+          "billCount": 160
         },
         "2026-05-08": {
           "totalBeans": 204.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 204.0
+          "matchCallBeans": 204.0,
+          "billCount": 3
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-12": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-11": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1297,67 +1560,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-12": {
           "totalBeans": 10364.0,
           "privateCallBeans": 285.0,
-          "matchCallBeans": 9760.0
+          "matchCallBeans": 9760.0,
+          "billCount": 312
         },
         "2026-05-11": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1374,67 +1650,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 9232.0,
           "privateCallBeans": 850.0,
-          "matchCallBeans": 6988.0
+          "matchCallBeans": 6988.0,
+          "billCount": 98
         },
         "2026-05-08": {
           "totalBeans": 331.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 256.0
+          "matchCallBeans": 256.0,
+          "billCount": 5
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-12": {
           "totalBeans": 550.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 5
         },
         "2026-05-11": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1451,67 +1740,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-12": {
           "totalBeans": 5198.0,
           "privateCallBeans": 615.0,
-          "matchCallBeans": 3988.0
+          "matchCallBeans": 3988.0,
+          "billCount": 144
         },
         "2026-05-11": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-13": {
           "totalBeans": 748.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 748.0
+          "matchCallBeans": 748.0,
+          "billCount": 26
         }
       }
     },
@@ -1528,67 +1830,80 @@
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 1812.0,
           "privateCallBeans": 100.0,
-          "matchCallBeans": 712.0
+          "matchCallBeans": 712.0,
+          "billCount": 76
         },
         "2026-05-07": {
           "totalBeans": 1696.0,
           "privateCallBeans": 1100.0,
-          "matchCallBeans": 448.0
+          "matchCallBeans": 448.0,
+          "billCount": 61
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-12": {
           "totalBeans": 550.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 5
         },
         "2026-05-11": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1605,7 +1920,80 @@
         "2026-05-13": {
           "totalBeans": 2381.0,
           "privateCallBeans": 270.0,
-          "matchCallBeans": 2056.0
+          "matchCallBeans": 2056.0,
+          "billCount": 53
+        },
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1617,72 +2005,85 @@
       "privateCallBeans": 340.0,
       "matchCallBeans": 944.0,
       "billCount": 79,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-02": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-03": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-04": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-05": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-06": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-07": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-08": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-09": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         },
         "2026-05-10": {
           "totalBeans": 16.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 16.0
+          "matchCallBeans": 16.0,
+          "billCount": 2
         },
         "2026-05-12": {
           "totalBeans": 628.0,
           "privateCallBeans": 340.0,
-          "matchCallBeans": 288.0
+          "matchCallBeans": 288.0,
+          "billCount": 22
         },
         "2026-05-11": {
           "totalBeans": 1190.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 640.0
+          "matchCallBeans": 640.0,
+          "billCount": 55
         },
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1699,7 +2100,80 @@
         "2026-05-13": {
           "totalBeans": 1563.0,
           "privateCallBeans": 270.0,
-          "matchCallBeans": 1120.0
+          "matchCallBeans": 1120.0,
+          "billCount": 53
+        },
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1716,7 +2190,80 @@
         "2026-05-13": {
           "totalBeans": 248.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 248.0
+          "matchCallBeans": 248.0,
+          "billCount": 31
+        },
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1733,7 +2280,80 @@
         "2026-05-13": {
           "totalBeans": 48.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 48.0
+          "matchCallBeans": 48.0,
+          "billCount": 6
+        },
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1750,7 +2370,80 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1767,7 +2460,80 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1784,7 +2550,80 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1801,7 +2640,80 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "billCount": 0
         }
       }
     }
