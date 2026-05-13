@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-13T23:37:14.559236",
+  "generatedAtIso": "2026-05-13T23:42:30.012416",
   "summary": {
     "totalBeans": 964455.0,
     "billCount": 19716,
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "acct-008047",
-      "displayName": "Monique Lima",
+      "displayName": "Monique Lima（39）",
       "countryIso": "CO",
       "totalBeans": 2381.0,
       "billCount": 53,
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "acct-441636",
-      "displayName": "Aisha",
+      "displayName": "Aisha（38）",
       "countryIso": "VE",
       "totalBeans": 1563.0,
       "billCount": 53,
@@ -1530,7 +1530,7 @@
     },
     {
       "id": "acct-104532",
-      "displayName": "Nada Hatem",
+      "displayName": "Nada Hatem（44）",
       "countryIso": "PH",
       "totalBeans": 248.0,
       "billCount": 31,
@@ -1592,7 +1592,7 @@
     },
     {
       "id": "acct-531982",
-      "displayName": "Hiraly",
+      "displayName": "Hiraly（42）",
       "countryIso": "BR",
       "totalBeans": 48.0,
       "billCount": 6,
@@ -1840,7 +1840,7 @@
     },
     {
       "id": "acct-040418",
-      "displayName": "Alexia rodriguez",
+      "displayName": "Alexia rodriguez（36）",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
