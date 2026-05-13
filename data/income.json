@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-13T23:51:17.405065",
+  "generatedAtIso": "2026-05-14T00:15:29.765461",
   "summary": {
     "totalBeans": 964455.0,
     "billCount": 19716,
@@ -73,6 +73,11 @@
       "date": "2026-05-13",
       "totalBeans": 22311.0,
       "billCount": 604
+    },
+    {
+      "date": "2026-05-14",
+      "totalBeans": 0.0,
+      "billCount": 0
     }
   ],
   "countryTotals": [
@@ -108,7 +113,7 @@
       "countryIso": "BR",
       "totalBeans": 125895.0,
       "billCount": 1497,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 16788.0,
@@ -170,7 +175,7 @@
       "countryIso": "BR",
       "totalBeans": 114025.0,
       "billCount": 1791,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-12": {
           "totalBeans": 13652.0,
@@ -232,7 +237,7 @@
       "countryIso": "BR",
       "totalBeans": 102404.0,
       "billCount": 1897,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 17876.0,
@@ -294,7 +299,7 @@
       "countryIso": "BR",
       "totalBeans": 92645.0,
       "billCount": 1660,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 13107.0,
@@ -356,7 +361,7 @@
       "countryIso": "BR",
       "totalBeans": 76326.0,
       "billCount": 1016,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 3869.0,
@@ -418,7 +423,7 @@
       "countryIso": "BR",
       "totalBeans": 74448.0,
       "billCount": 1712,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 16697.0,
@@ -480,7 +485,7 @@
       "countryIso": "BR",
       "totalBeans": 72319.0,
       "billCount": 1409,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 13359.0,
@@ -542,7 +547,7 @@
       "countryIso": "BR",
       "totalBeans": 62236.0,
       "billCount": 2681,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 14962.0,
@@ -604,7 +609,7 @@
       "countryIso": "CO",
       "totalBeans": 49138.0,
       "billCount": 965,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -666,7 +671,7 @@
       "countryIso": "BR",
       "totalBeans": 41108.0,
       "billCount": 1138,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -728,7 +733,7 @@
       "countryIso": "BR",
       "totalBeans": 36757.0,
       "billCount": 679,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -790,7 +795,7 @@
       "countryIso": "CO",
       "totalBeans": 25694.0,
       "billCount": 809,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1100,7 +1105,7 @@
       "countryIso": "VE",
       "totalBeans": 10364.0,
       "billCount": 312,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1224,7 +1229,7 @@
       "countryIso": "VE",
       "totalBeans": 5946.0,
       "billCount": 170,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1410,7 +1415,7 @@
       "countryIso": "PH",
       "totalBeans": 1834.0,
       "billCount": 79,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1461,6 +1466,10 @@
           "billCount": 55
         },
         "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -1585,6 +1594,10 @@
           "billCount": 0
         },
         "2026-05-12": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
