@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-13T23:10:20.468019",
+  "generatedAtIso": "2026-05-13T23:20:17.628268",
   "summary": {
     "totalBeans": 964455.0,
     "billCount": 19716,
@@ -418,7 +418,7 @@
       "countryIso": "BR",
       "totalBeans": 74448.0,
       "billCount": 1712,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 16697.0,
@@ -480,7 +480,7 @@
       "countryIso": "BR",
       "totalBeans": 72319.0,
       "billCount": 1409,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 13359.0,
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "acct-008047",
-      "displayName": "Monique Lima",
+      "displayName": "Monique Lima（39）",
       "countryIso": "CO",
       "totalBeans": 2381.0,
       "billCount": 53,
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "acct-441636",
-      "displayName": "Aisha",
+      "displayName": "Aisha（38）",
       "countryIso": "VE",
       "totalBeans": 1563.0,
       "billCount": 53,
@@ -1840,7 +1840,7 @@
     },
     {
       "id": "acct-040418",
-      "displayName": "Alexia rodriguez",
+      "displayName": "Alexia rodriguez（36）",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "billCount": 0,
