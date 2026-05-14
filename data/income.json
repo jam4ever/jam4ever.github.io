@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-14T12:59:00.391685",
+  "generatedAtIso": "2026-05-14T13:08:43.923632",
   "summary": {
-    "totalBeans": 964615.0,
-    "billCount": 19721,
+    "totalBeans": 964871.0,
+    "billCount": 19723,
     "accountCount": 39
   },
   "dailyTotals": [
@@ -76,8 +76,8 @@
     },
     {
       "date": "2026-05-14",
-      "totalBeans": 160.0,
-      "billCount": 5
+      "totalBeans": 416.0,
+      "billCount": 7
     }
   ],
   "countryTotals": [
@@ -89,8 +89,8 @@
     },
     {
       "countryIso": "CO",
-      "totalBeans": 77213.0,
-      "billCount": 1827,
+      "totalBeans": 77469.0,
+      "billCount": 1829,
       "accountCount": 5
     },
     {
@@ -113,7 +113,7 @@
       "countryIso": "BR",
       "totalBeans": 125895.0,
       "billCount": 1497,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 16788.0,
@@ -179,7 +179,7 @@
       "countryIso": "BR",
       "totalBeans": 114025.0,
       "billCount": 1791,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-12": {
           "totalBeans": 13652.0,
@@ -245,7 +245,7 @@
       "countryIso": "BR",
       "totalBeans": 102404.0,
       "billCount": 1897,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 17876.0,
@@ -311,7 +311,7 @@
       "countryIso": "BR",
       "totalBeans": 92653.0,
       "billCount": 1661,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 13107.0,
@@ -377,7 +377,7 @@
       "countryIso": "BR",
       "totalBeans": 76326.0,
       "billCount": 1016,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 3869.0,
@@ -443,7 +443,7 @@
       "countryIso": "BR",
       "totalBeans": 74456.0,
       "billCount": 1713,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 16697.0,
@@ -509,7 +509,7 @@
       "countryIso": "BR",
       "totalBeans": 72447.0,
       "billCount": 1410,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 13359.0,
@@ -575,7 +575,7 @@
       "countryIso": "BR",
       "totalBeans": 62244.0,
       "billCount": 2682,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 14962.0,
@@ -639,9 +639,9 @@
       "id": "acct-144312",
       "displayName": "Rosa Tropical 🌺",
       "countryIso": "CO",
-      "totalBeans": 49138.0,
-      "billCount": 965,
-      "online": true,
+      "totalBeans": 49326.0,
+      "billCount": 966,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -694,6 +694,10 @@
         "2026-05-13": {
           "totalBeans": 3122.0,
           "billCount": 62
+        },
+        "2026-05-14": {
+          "totalBeans": 188.0,
+          "billCount": 1
         }
       }
     },
@@ -769,7 +773,7 @@
       "countryIso": "BR",
       "totalBeans": 36757.0,
       "billCount": 679,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -835,7 +839,7 @@
       "countryIso": "CO",
       "totalBeans": 25694.0,
       "billCount": 809,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -888,6 +892,10 @@
         "2026-05-13": {
           "totalBeans": 1312.0,
           "billCount": 44
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1161,7 +1169,7 @@
       "countryIso": "VE",
       "totalBeans": 10364.0,
       "billCount": 312,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1293,7 +1301,7 @@
       "countryIso": "VE",
       "totalBeans": 5946.0,
       "billCount": 170,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1478,6 +1486,10 @@
         "2026-05-12": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1487,7 +1499,7 @@
       "countryIso": "PH",
       "totalBeans": 1834.0,
       "billCount": 79,
-      "online": true,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1676,6 +1688,72 @@
         "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-255802",
+      "displayName": "Carolina Arango（29）",
+      "countryIso": "CO",
+      "totalBeans": 68.0,
+      "billCount": 1,
+      "online": false,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 68.0,
+          "billCount": 1
         }
       }
     },
@@ -2208,68 +2286,6 @@
       }
     },
     {
-      "id": "acct-255802",
-      "displayName": "Carolina Arango（29）",
-      "countryIso": "CO",
-      "totalBeans": 0.0,
-      "billCount": 0,
-      "online": false,
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-11": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-12": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-13": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        }
-      }
-    },
-    {
       "id": "acct-029272",
       "displayName": "Sandry Beleno（51）",
       "countryIso": "BR",
@@ -2524,6 +2540,10 @@
           "billCount": 0
         },
         "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
