@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-14T14:50:35.038717",
+  "generatedAtIso": "2026-05-14T15:00:40.867915",
   "summary": {
-    "totalBeans": 964871.0,
-    "billCount": 19723,
-    "accountCount": 39
+    "totalBeans": 939177.0,
+    "billCount": 18914,
+    "accountCount": 38
   },
   "dailyTotals": [
     {
@@ -56,23 +56,23 @@
     },
     {
       "date": "2026-05-10",
-      "totalBeans": 84923.0,
-      "billCount": 1952
+      "totalBeans": 77648.0,
+      "billCount": 1701
     },
     {
       "date": "2026-05-11",
-      "totalBeans": 76586.0,
-      "billCount": 2418
+      "totalBeans": 66767.0,
+      "billCount": 2109
     },
     {
       "date": "2026-05-12",
-      "totalBeans": 137607.0,
-      "billCount": 3155
+      "totalBeans": 130319.0,
+      "billCount": 2950
     },
     {
       "date": "2026-05-13",
-      "totalBeans": 22311.0,
-      "billCount": 604
+      "totalBeans": 20999.0,
+      "billCount": 560
     },
     {
       "date": "2026-05-14",
@@ -89,9 +89,9 @@
     },
     {
       "countryIso": "CO",
-      "totalBeans": 77469.0,
-      "billCount": 1829,
-      "accountCount": 5
+      "totalBeans": 51775.0,
+      "billCount": 1020,
+      "accountCount": 4
     },
     {
       "countryIso": "VE",
@@ -826,72 +826,6 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
-        },
-        "2026-05-14": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-368036",
-      "displayName": "Beauti",
-      "countryIso": "CO",
-      "totalBeans": 25694.0,
-      "billCount": 809,
-      "online": true,
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 7275.0,
-          "billCount": 251
-        },
-        "2026-05-12": {
-          "totalBeans": 7288.0,
-          "billCount": 205
-        },
-        "2026-05-11": {
-          "totalBeans": 9819.0,
-          "billCount": 309
-        },
-        "2026-05-13": {
-          "totalBeans": 1312.0,
-          "billCount": 44
         },
         "2026-05-14": {
           "totalBeans": 0.0,
