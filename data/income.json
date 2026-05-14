@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-14T13:23:58.815682",
+  "generatedAtIso": "2026-05-14T13:35:14.259033",
   "summary": {
     "totalBeans": 964871.0,
     "billCount": 19723,
@@ -113,7 +113,7 @@
       "countryIso": "BR",
       "totalBeans": 125895.0,
       "billCount": 1497,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 16788.0,
@@ -179,7 +179,7 @@
       "countryIso": "BR",
       "totalBeans": 114025.0,
       "billCount": 1791,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-12": {
           "totalBeans": 13652.0,
@@ -245,7 +245,7 @@
       "countryIso": "BR",
       "totalBeans": 102404.0,
       "billCount": 1897,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 17876.0,
@@ -311,7 +311,7 @@
       "countryIso": "BR",
       "totalBeans": 92653.0,
       "billCount": 1661,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 13107.0,
@@ -377,7 +377,7 @@
       "countryIso": "BR",
       "totalBeans": 76326.0,
       "billCount": 1016,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 3869.0,
@@ -443,7 +443,7 @@
       "countryIso": "BR",
       "totalBeans": 74456.0,
       "billCount": 1713,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 16697.0,
@@ -509,7 +509,7 @@
       "countryIso": "BR",
       "totalBeans": 72447.0,
       "billCount": 1410,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 13359.0,
@@ -575,7 +575,7 @@
       "countryIso": "BR",
       "totalBeans": 62244.0,
       "billCount": 2682,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 14962.0,
@@ -641,7 +641,7 @@
       "countryIso": "CO",
       "totalBeans": 49326.0,
       "billCount": 966,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -773,7 +773,7 @@
       "countryIso": "BR",
       "totalBeans": 36757.0,
       "billCount": 679,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -839,7 +839,7 @@
       "countryIso": "CO",
       "totalBeans": 25694.0,
       "billCount": 809,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1169,7 +1169,7 @@
       "countryIso": "VE",
       "totalBeans": 10364.0,
       "billCount": 312,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1301,7 +1301,7 @@
       "countryIso": "VE",
       "totalBeans": 5946.0,
       "billCount": 170,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1499,7 +1499,7 @@
       "countryIso": "PH",
       "totalBeans": 1834.0,
       "billCount": 79,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
