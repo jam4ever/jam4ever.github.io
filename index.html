@@ -56,7 +56,6 @@
     const usdCents = (cents) => '$' + ((Number(cents || 0)) / 100).toFixed(2);
     const balanceDollars = (summary) => Number(summary?.unpaidCents || 0) > 0 ? Number(summary.unpaidCents || 0) / 100 : Number(summary?.unpaidBeans || 0) / 1000;
     const balanceMoney = (summary) => '$' + balanceDollars(summary).toFixed(2);
-    const fundsTotalMoney = (summary) => '$' + (balanceDollars(summary) + Number(summary?.withdrawnCents || 0) / 100).toFixed(2);
     const compact = (beans) => { const n = Number(beans || 0) / 1000; return n === 0 ? '0' : (Math.abs(n) >= 10 ? n.toFixed(0) : n.toFixed(1)); };
     const dayVal = (v) => typeof v === 'object' && v ? v : { totalBeans:Number(v || 0), privateCallBeans:0, matchCallBeans:0 };
     function gate() {
@@ -74,9 +73,8 @@
       const days = [...new Set([...(data.dailyTotals || []).map(d => d.date), ...accounts.flatMap(a => Object.keys(a.days || {}))])].sort().reverse();
       const summary = data.summary || {};
       const historicalTotal = Number(summary.totalBeans || accounts.reduce((s,a) => s + Number(a.totalBeans || 0), 0));
-      const totalDisplay = (Number(summary.unpaidBeans || 0) > 0 || Number(summary.unpaidCents || 0) > 0 || Number(summary.withdrawnCents || 0) > 0) ? fundsTotalMoney(summary) : money(historicalTotal);
       app.innerHTML = `<header class="hero"><div class="wrap top"><div class="logo">↗</div><div><h1>${data.title || '历史收益看板'}</h1><div class="sub">${data.monthKey || ''} / 更新 ${String(data.generatedAtIso || '').slice(0,16).replace('T',' ')}</div></div></div></header>
-      <main><section class="grid">${card('总收益', totalDisplay)}${card('未提现', balanceMoney(summary))}${card('已提现', usdCents(summary.withdrawnCents))}${card('账号数', Number(summary.accountCount || accounts.length).toLocaleString())}</section>
+      <main><section class="grid">${card('总收益', money(historicalTotal))}${card('未提现', balanceMoney(summary))}${card('已提现', usdCents(summary.withdrawnCents))}${card('账号数', Number(summary.accountCount || accounts.length).toLocaleString())}</section>
       <section class="panel"><h2>每日走势</h2><div class="bars">${bars(data.dailyTotals || [])}</div></section>
       <div class="split"><section class="panel"><h2>地区合计</h2>${(data.countryTotals || []).map(c => `<div class="row"><span class="pill">${c.countryIso}</span><b>${money(c.totalBeans)}</b><span>${c.billCount || 0} 笔</span></div>`).join('')}</section>
       <section class="panel"><h2>主播排行</h2>${accounts.slice(0,8).map((a,i)=>`<div class="row"><span class="pill">#${i+1}</span><b>${a.displayName}</b><span class="money">${money(a.totalBeans)}</span></div>`).join('')}</section></div>
