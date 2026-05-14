@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-14T11:59:29.234783",
+  "generatedAtIso": "2026-05-14T12:09:14.566515",
   "summary": {
     "totalBeans": 964615.0,
     "billCount": 19721,
@@ -1016,6 +1016,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1210,6 +1214,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1338,6 +1346,10 @@
         "2026-05-13": {
           "totalBeans": 748.0,
           "billCount": 26
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1592,6 +1604,10 @@
           "billCount": 0
         },
         "2026-05-12": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -1852,6 +1868,10 @@
           "billCount": 0
         },
         "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -2178,6 +2198,10 @@
           "billCount": 0
         },
         "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
