@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-14T10:58:40.988585",
+  "generatedAtIso": "2026-05-14T11:09:54.208636",
   "summary": {
-    "totalBeans": 964455.0,
-    "billCount": 19716,
+    "totalBeans": 964615.0,
+    "billCount": 19721,
     "accountCount": 39
   },
   "dailyTotals": [
@@ -76,15 +76,15 @@
     },
     {
       "date": "2026-05-14",
-      "totalBeans": 0.0,
-      "billCount": 0
+      "totalBeans": 160.0,
+      "billCount": 5
     }
   ],
   "countryTotals": [
     {
       "countryIso": "BR",
-      "totalBeans": 853671.0,
-      "billCount": 16717,
+      "totalBeans": 853831.0,
+      "billCount": 16722,
       "accountCount": 25
     },
     {
@@ -113,7 +113,7 @@
       "countryIso": "BR",
       "totalBeans": 125895.0,
       "billCount": 1497,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 16788.0,
@@ -166,6 +166,10 @@
         "2026-05-13": {
           "totalBeans": 3084.0,
           "billCount": 60
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -228,6 +232,10 @@
         "2026-05-10": {
           "totalBeans": 5356.0,
           "billCount": 109
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -290,6 +298,10 @@
         "2026-05-13": {
           "totalBeans": 2728.0,
           "billCount": 79
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -297,8 +309,8 @@
       "id": "acct-000707",
       "displayName": "Anacosta",
       "countryIso": "BR",
-      "totalBeans": 92645.0,
-      "billCount": 1660,
+      "totalBeans": 92653.0,
+      "billCount": 1661,
       "online": true,
       "days": {
         "2026-05-01": {
@@ -352,6 +364,10 @@
         "2026-05-13": {
           "totalBeans": 3054.0,
           "billCount": 86
+        },
+        "2026-05-14": {
+          "totalBeans": 8.0,
+          "billCount": 1
         }
       }
     },
@@ -361,7 +377,7 @@
       "countryIso": "BR",
       "totalBeans": 76326.0,
       "billCount": 1016,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 3869.0,
@@ -414,6 +430,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -421,8 +441,8 @@
       "id": "acct-384887",
       "displayName": "NinaC",
       "countryIso": "BR",
-      "totalBeans": 74448.0,
-      "billCount": 1712,
+      "totalBeans": 74456.0,
+      "billCount": 1713,
       "online": true,
       "days": {
         "2026-05-01": {
@@ -476,6 +496,10 @@
         "2026-05-13": {
           "totalBeans": 1439.0,
           "billCount": 40
+        },
+        "2026-05-14": {
+          "totalBeans": 8.0,
+          "billCount": 1
         }
       }
     },
@@ -483,8 +507,8 @@
       "id": "acct-613550",
       "displayName": "Luna Morena 🌸",
       "countryIso": "BR",
-      "totalBeans": 72319.0,
-      "billCount": 1409,
+      "totalBeans": 72447.0,
+      "billCount": 1410,
       "online": true,
       "days": {
         "2026-05-01": {
@@ -538,6 +562,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 128.0,
+          "billCount": 1
         }
       }
     },
@@ -545,8 +573,8 @@
       "id": "acct-105009",
       "displayName": "Ruiva",
       "countryIso": "BR",
-      "totalBeans": 62236.0,
-      "billCount": 2681,
+      "totalBeans": 62244.0,
+      "billCount": 2682,
       "online": true,
       "days": {
         "2026-05-01": {
@@ -600,6 +628,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 8.0,
+          "billCount": 1
         }
       }
     },
@@ -609,7 +641,7 @@
       "countryIso": "CO",
       "totalBeans": 49138.0,
       "billCount": 965,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -724,6 +756,10 @@
         "2026-05-13": {
           "totalBeans": 2584.0,
           "billCount": 64
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -786,6 +822,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -795,7 +835,7 @@
       "countryIso": "CO",
       "totalBeans": 25694.0,
       "billCount": 809,
-      "online": false,
+      "online": true,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -908,6 +948,10 @@
           "billCount": 0
         },
         "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -1034,6 +1078,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1094,6 +1142,10 @@
           "billCount": 0
         },
         "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -1220,6 +1272,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1342,6 +1398,10 @@
           "billCount": 0
         },
         "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -1662,6 +1722,76 @@
         "2026-05-12": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-554338",
+      "displayName": "Camila Ugarte（50）",
+      "countryIso": "BR",
+      "totalBeans": 8.0,
+      "billCount": 1,
+      "online": false,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 8.0,
+          "billCount": 1
         }
       }
     },
@@ -1786,6 +1916,10 @@
         "2026-05-12": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1846,6 +1980,10 @@
           "billCount": 0
         },
         "2026-05-12": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -1910,6 +2048,10 @@
         "2026-05-12": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -1970,6 +2112,10 @@
           "billCount": 0
         },
         "2026-05-13": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -2158,6 +2304,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -2222,68 +2372,6 @@
           "billCount": 0
         },
         "2026-05-14": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-554338",
-      "displayName": "Camila Ugarte（50）",
-      "countryIso": "BR",
-      "totalBeans": 0.0,
-      "billCount": 0,
-      "online": false,
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-11": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-12": {
-          "totalBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
         }
@@ -2476,6 +2564,10 @@
         "2026-05-13": {
           "totalBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -2536,6 +2628,10 @@
           "billCount": 0
         },
         "2026-05-12": {
+          "totalBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
           "totalBeans": 0.0,
           "billCount": 0
         }
