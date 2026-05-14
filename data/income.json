@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-14T17:43:50.625561",
+  "generatedAtIso": "2026-05-14T17:51:16.921733",
   "summary": {
     "totalBeans": 1163644.0,
     "privateCallBeans": 82811.0,
@@ -10,7 +10,7 @@
     "giftBeans": 39591.0,
     "messageBeans": 0.0,
     "otherBeans": 35790.0,
-    "unpaidBeans": 449195.0,
+    "unpaidBeans": 0.0,
     "unpaidCents": 0.0,
     "withdrawnCents": 0.0,
     "billCount": 24669,
@@ -190,7 +190,7 @@
       "messageBeans": 0.0,
       "otherBeans": 1650.0,
       "billCount": 1579,
-      "accountCount": 7
+      "accountCount": 6
     },
     {
       "countryIso": "PH",
@@ -348,7 +348,7 @@
     },
     {
       "id": "acct-447836",
-      "displayName": "Flor da",
+      "displayName": "Flor da（47）",
       "countryIso": "BR",
       "totalBeans": 126998.0,
       "privateCallBeans": 9970.0,
@@ -2604,7 +2604,7 @@
     },
     {
       "id": "acct-008047",
-      "displayName": "Monique Lima",
+      "displayName": "Monique Lima（39）",
       "countryIso": "CO",
       "totalBeans": 10679.0,
       "privateCallBeans": 1170.0,
@@ -2886,7 +2886,7 @@
     },
     {
       "id": "acct-554338",
-      "displayName": "Camila Ugarte",
+      "displayName": "Camila Ugarte（50）",
       "countryIso": "BR",
       "totalBeans": 9932.0,
       "privateCallBeans": 590.0,
@@ -3168,7 +3168,7 @@
     },
     {
       "id": "acct-255802",
-      "displayName": "Carolina Arango",
+      "displayName": "Carolina Arango（29）",
       "countryIso": "CO",
       "totalBeans": 7717.0,
       "privateCallBeans": 180.0,
@@ -3309,7 +3309,7 @@
     },
     {
       "id": "acct-798876",
-      "displayName": "MeL",
+      "displayName": "MeL（41）",
       "countryIso": "BR",
       "totalBeans": 6339.0,
       "privateCallBeans": 450.0,
@@ -3450,7 +3450,7 @@
     },
     {
       "id": "acct-692044",
-      "displayName": "Leidy oerez",
+      "displayName": "Leidy oerez（40）",
       "countryIso": "BR",
       "totalBeans": 5150.0,
       "privateCallBeans": 150.0,
@@ -3591,7 +3591,7 @@
     },
     {
       "id": "acct-029272",
-      "displayName": "Sandry Beleno",
+      "displayName": "Sandry Beleno（51）",
       "countryIso": "BR",
       "totalBeans": 4796.0,
       "privateCallBeans": 220.0,
@@ -3873,7 +3873,7 @@
     },
     {
       "id": "acct-593105",
-      "displayName": "Lupita Cardenas",
+      "displayName": "Lupita Cardenas（43）",
       "countryIso": "BR",
       "totalBeans": 3848.0,
       "privateCallBeans": 300.0,
@@ -4014,7 +4014,7 @@
     },
     {
       "id": "acct-441636",
-      "displayName": "Aisha",
+      "displayName": "Aisha（38）",
       "countryIso": "VE",
       "totalBeans": 3389.0,
       "privateCallBeans": 460.0,
@@ -4155,7 +4155,7 @@
     },
     {
       "id": "acct-040418",
-      "displayName": "Alexia rodriguez",
+      "displayName": "Alexia rodriguez（36）",
       "countryIso": "BR",
       "totalBeans": 3158.0,
       "privateCallBeans": 1390.0,
@@ -4296,7 +4296,7 @@
     },
     {
       "id": "acct-645685",
-      "displayName": "Isabela Rico",
+      "displayName": "Isabela Rico（37）",
       "countryIso": "VE",
       "totalBeans": 2428.0,
       "privateCallBeans": 696.0,
@@ -4437,7 +4437,7 @@
     },
     {
       "id": "acct-531982",
-      "displayName": "Hiraly",
+      "displayName": "Hiraly（42）",
       "countryIso": "BR",
       "totalBeans": 2426.0,
       "privateCallBeans": 300.0,
@@ -4578,7 +4578,7 @@
     },
     {
       "id": "acct-065870",
-      "displayName": "jissa",
+      "displayName": "jissa（48）",
       "countryIso": "CO",
       "totalBeans": 2345.0,
       "privateCallBeans": 320.0,
@@ -4860,7 +4860,7 @@
     },
     {
       "id": "acct-402086",
-      "displayName": "Fabulous",
+      "displayName": "Fabulous（45）",
       "countryIso": "PH",
       "totalBeans": 1760.0,
       "privateCallBeans": 0.0,
@@ -5001,7 +5001,7 @@
     },
     {
       "id": "acct-467163",
-      "displayName": "Erika",
+      "displayName": "Erika（49）",
       "countryIso": "PH",
       "totalBeans": 649.0,
       "privateCallBeans": 0.0,
@@ -5142,7 +5142,7 @@
     },
     {
       "id": "acct-104532",
-      "displayName": "Nada Hatem",
+      "displayName": "Nada Hatem（44）",
       "countryIso": "PH",
       "totalBeans": 556.0,
       "privateCallBeans": 0.0,
@@ -5565,7 +5565,7 @@
     },
     {
       "id": "acct-165195",
-      "displayName": "Juna Maglinte",
+      "displayName": "Juna Maglinte（46）",
       "countryIso": "BR",
       "totalBeans": 0.0,
       "privateCallBeans": 0.0,
