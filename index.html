@@ -25,6 +25,7 @@
     .bars { height:230px; display:flex; align-items:end; gap:6px; }
     .barbox { flex:1; min-width:28px; display:flex; flex-direction:column; align-items:center; justify-content:end; gap:7px; }
     .bar { width:100%; min-height:3px; border-radius:8px 8px 4px 4px; background:linear-gradient(180deg,#0f766e,#53b6a6); }
+    .barvalue { font-size:10px; color:#284b48; font-weight:800; white-space:nowrap; }
     .day { font-size:11px; color:var(--muted); }
     .split { display:grid; grid-template-columns:4fr 6fr; gap:18px; }
     .row { display:grid; grid-template-columns:56px 1fr 92px; gap:10px; align-items:center; padding:9px 0; border-top:1px solid #edf2f1; }
@@ -78,8 +79,8 @@
       <section class="panel"><h2>历史收益明细</h2><div class="tablewrap"><table><thead><tr><th>主播</th><th>地区</th><th>合计</th><th>点播</th><th>匹配</th><th>笔数</th>${days.map(d=>`<th>${Number(d.slice(8,10)) || d}</th>`).join('')}</tr></thead><tbody>${accounts.map(a => row(a, days)).join('')}</tbody></table></div></section></main>`;
     }
     function card(label, value) { return `<div class="card"><div class="label">${label}</div><div class="value">${value}</div></div>`; }
-    function bars(days) { const max = Math.max(1, ...days.map(d => Number(d.totalBeans || 0))); return days.map(d => `<div class="barbox" title="${d.date} ${money(d.totalBeans)}"><div class="bar" style="height:${Math.max(3, d.totalBeans / max * 190)}px"></div><div class="day">${Number(d.date.slice(8,10))}</div></div>`).join(''); }
-    function row(a, days) { return `<tr><td><b>${a.displayName}</b></td><td>${a.countryIso || '-'}</td><td class="money">${money(a.totalBeans)}</td><td>${money(a.privateCallBeans)}</td><td>${money(a.matchCallBeans)}</td><td>${a.billCount || 0}</td>${days.map(d => { const v = dayVal((a.days || {})[d]); return `<td title="${d} 总 ${money(v.totalBeans)} 点播 ${money(v.privateCallBeans)} 匹配 ${money(v.matchCallBeans)}"><span class="money">${v.totalBeans ? money(v.totalBeans) : '-'}</span>${v.totalBeans ? `<span class="small">点${compact(v.privateCallBeans)} / 匹${compact(v.matchCallBeans)}</span>` : ''}</td>`; }).join('')}</tr>`; }
+    function bars(days) { const max = Math.max(1, ...days.map(d => Number(d.totalBeans || 0))); return days.map(d => { const total = Number(d.totalBeans || 0); return `<div class="barbox" title="${d.date} ${money(total)}"><div class="barvalue">${money(total)}</div><div class="bar" style="height:${Math.max(3, total / max * 180)}px"></div><div class="day">${Number(d.date.slice(8,10))}</div></div>`; }).join(''); }
+    function row(a, days) { return `<tr><td><b>${a.displayName}</b></td><td>${a.countryIso || '-'}</td><td class="money">${money(a.totalBeans)}</td><td>${money(a.privateCallBeans)}</td><td>${money(a.matchCallBeans)}</td><td>${a.billCount || 0}</td>${days.map(d => { const v = dayVal((a.days || {})[d]); const total = Number(v.totalBeans || 0); return `<td title="${d} 总 ${money(total)} 点播 ${money(v.privateCallBeans)} 匹配 ${money(v.matchCallBeans)}"><span class="money">${total > 0 ? money(total) : '-'}</span>${total > 0 ? `<span class="small">点${compact(v.privateCallBeans)} / 匹${compact(v.matchCallBeans)}</span>` : ''}</td>`; }).join('')}</tr>`; }
     gate();
   </script>
 </body>
