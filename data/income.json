@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-18T23:56:50.021047",
+  "generatedAtIso": "2026-05-19T17:55:15.934532",
   "summary": {
-    "totalBeans": 1835411.0,
-    "privateCallBeans": 100833.0,
-    "matchCallBeans": 1624612.0,
-    "giftBeans": 55766.0,
+    "totalBeans": 2128572.0,
+    "privateCallBeans": 106403.0,
+    "matchCallBeans": 1897012.0,
+    "giftBeans": 62747.0,
     "messageBeans": 0.0,
-    "otherBeans": 54200.0,
-    "unpaidBeans": 0.0,
-    "unpaidCents": 0.0,
-    "withdrawnCents": 0.0,
-    "billCount": 41972,
-    "accountCount": 45
+    "otherBeans": 62410.0,
+    "unpaidBeans": 575436.0,
+    "unpaidCents": 55622.0,
+    "withdrawnCents": 142539.0,
+    "billCount": 49976,
+    "accountCount": 48
   },
   "dailyTotals": [
     {
@@ -189,58 +189,58 @@
     },
     {
       "date": "2026-05-18",
-      "totalBeans": 1392.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 1392.0,
-      "giftBeans": 0.0,
+      "totalBeans": 294553.0,
+      "privateCallBeans": 5570.0,
+      "matchCallBeans": 273792.0,
+      "giftBeans": 6981.0,
       "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 24
+      "otherBeans": 8210.0,
+      "billCount": 8028
     }
   ],
   "countryTotals": [
     {
       "countryIso": "BR",
-      "totalBeans": 1416659.0,
-      "privateCallBeans": 86090.0,
-      "matchCallBeans": 1238996.0,
-      "giftBeans": 46783.0,
+      "totalBeans": 1604774.0,
+      "privateCallBeans": 90750.0,
+      "matchCallBeans": 1411464.0,
+      "giftBeans": 50820.0,
       "messageBeans": 0.0,
-      "otherBeans": 44790.0,
-      "billCount": 31428,
+      "otherBeans": 51740.0,
+      "billCount": 36613,
       "accountCount": 27
     },
     {
       "countryIso": "CO",
-      "totalBeans": 243534.0,
-      "privateCallBeans": 6769.0,
-      "matchCallBeans": 228152.0,
-      "giftBeans": 5253.0,
+      "totalBeans": 298789.0,
+      "privateCallBeans": 7579.0,
+      "matchCallBeans": 280032.0,
+      "giftBeans": 6848.0,
       "messageBeans": 0.0,
-      "otherBeans": 3360.0,
-      "billCount": 5263,
+      "otherBeans": 4330.0,
+      "billCount": 6387,
       "accountCount": 5
     },
     {
       "countryIso": "VE",
-      "totalBeans": 144431.0,
-      "privateCallBeans": 6534.0,
-      "matchCallBeans": 130440.0,
-      "giftBeans": 3607.0,
+      "totalBeans": 187556.0,
+      "privateCallBeans": 6634.0,
+      "matchCallBeans": 172116.0,
+      "giftBeans": 4956.0,
       "messageBeans": 0.0,
       "otherBeans": 3850.0,
-      "billCount": 4122,
+      "billCount": 5539,
       "accountCount": 9
     },
     {
       "countryIso": "PH",
-      "totalBeans": 30787.0,
+      "totalBeans": 37453.0,
       "privateCallBeans": 1440.0,
-      "matchCallBeans": 27024.0,
+      "matchCallBeans": 33400.0,
       "giftBeans": 123.0,
       "messageBeans": 0.0,
-      "otherBeans": 2200.0,
-      "billCount": 1159,
+      "otherBeans": 2490.0,
+      "billCount": 1437,
       "accountCount": 7
     }
   ],
@@ -249,14 +249,14 @@
       "id": "acct-300906",
       "displayName": "Nina Glow",
       "countryIso": "BR",
-      "totalBeans": 179847.0,
-      "privateCallBeans": 9800.0,
-      "matchCallBeans": 160180.0,
-      "giftBeans": 7257.0,
+      "totalBeans": 190725.0,
+      "privateCallBeans": 9950.0,
+      "matchCallBeans": 169172.0,
+      "giftBeans": 8453.0,
       "messageBeans": 0.0,
-      "otherBeans": 2610.0,
-      "billCount": 2306,
-      "online": true,
+      "otherBeans": 3150.0,
+      "billCount": 2436,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 16788.0,
@@ -402,15 +402,6 @@
           "otherBeans": 200.0,
           "billCount": 156
         },
-        "2026-05-18": {
-          "totalBeans": 1392.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 1392.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 24
-        },
         "2026-05-17": {
           "totalBeans": 12089.0,
           "privateCallBeans": 0.0,
@@ -419,6 +410,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 192
+        },
+        "2026-05-18": {
+          "totalBeans": 12270.0,
+          "privateCallBeans": 150.0,
+          "matchCallBeans": 10384.0,
+          "giftBeans": 1196.0,
+          "messageBeans": 0.0,
+          "otherBeans": 540.0,
+          "billCount": 154
         }
       }
     },
@@ -426,14 +426,14 @@
       "id": "acct-447836",
       "displayName": "Flor da（绑定 Br2 云机）",
       "countryIso": "BR",
-      "totalBeans": 159736.0,
-      "privateCallBeans": 12370.0,
-      "matchCallBeans": 138304.0,
-      "giftBeans": 5282.0,
+      "totalBeans": 174379.0,
+      "privateCallBeans": 13120.0,
+      "matchCallBeans": 151172.0,
+      "giftBeans": 5757.0,
       "messageBeans": 0.0,
-      "otherBeans": 3780.0,
-      "billCount": 2526,
-      "online": true,
+      "otherBeans": 4330.0,
+      "billCount": 2767,
+      "online": false,
       "days": {
         "2026-05-12": {
           "totalBeans": 13652.0,
@@ -587,6 +587,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 124
+        },
+        "2026-05-18": {
+          "totalBeans": 14643.0,
+          "privateCallBeans": 750.0,
+          "matchCallBeans": 12868.0,
+          "giftBeans": 475.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 241
         }
       }
     },
@@ -594,14 +603,14 @@
       "id": "acct-828763",
       "displayName": "Desire 🍒🌾",
       "countryIso": "BR",
-      "totalBeans": 141260.0,
-      "privateCallBeans": 6535.0,
-      "matchCallBeans": 122272.0,
-      "giftBeans": 9753.0,
+      "totalBeans": 153412.0,
+      "privateCallBeans": 6835.0,
+      "matchCallBeans": 133456.0,
+      "giftBeans": 9901.0,
       "messageBeans": 0.0,
-      "otherBeans": 2700.0,
-      "billCount": 2845,
-      "online": true,
+      "otherBeans": 3220.0,
+      "billCount": 3172,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 17876.0,
@@ -755,6 +764,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 153
+        },
+        "2026-05-18": {
+          "totalBeans": 12152.0,
+          "privateCallBeans": 300.0,
+          "matchCallBeans": 11184.0,
+          "giftBeans": 148.0,
+          "messageBeans": 0.0,
+          "otherBeans": 520.0,
+          "billCount": 327
         }
       }
     },
@@ -762,14 +780,14 @@
       "id": "acct-000707",
       "displayName": "Anacosta（绑定 BR2 云）",
       "countryIso": "BR",
-      "totalBeans": 134098.0,
-      "privateCallBeans": 11070.0,
-      "matchCallBeans": 114692.0,
-      "giftBeans": 4966.0,
+      "totalBeans": 144770.0,
+      "privateCallBeans": 11145.0,
+      "matchCallBeans": 124020.0,
+      "giftBeans": 5335.0,
       "messageBeans": 0.0,
-      "otherBeans": 3370.0,
-      "billCount": 2593,
-      "online": true,
+      "otherBeans": 4270.0,
+      "billCount": 2799,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 13107.0,
@@ -923,6 +941,369 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 274
+        },
+        "2026-05-18": {
+          "totalBeans": 10672.0,
+          "privateCallBeans": 75.0,
+          "matchCallBeans": 9328.0,
+          "giftBeans": 369.0,
+          "messageBeans": 0.0,
+          "otherBeans": 900.0,
+          "billCount": 206
+        }
+      }
+    },
+    {
+      "id": "acct-613550",
+      "displayName": "Luna Morena 🌸（绑定 BR2 云）",
+      "countryIso": "BR",
+      "totalBeans": 128851.0,
+      "privateCallBeans": 8290.0,
+      "matchCallBeans": 116168.0,
+      "giftBeans": 1913.0,
+      "messageBeans": 0.0,
+      "otherBeans": 2480.0,
+      "billCount": 2689,
+      "online": false,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 13359.0,
+          "privateCallBeans": 900.0,
+          "matchCallBeans": 12136.0,
+          "giftBeans": 323.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 252
+        },
+        "2026-05-02": {
+          "totalBeans": 24276.0,
+          "privateCallBeans": 1120.0,
+          "matchCallBeans": 22948.0,
+          "giftBeans": 208.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 454
+        },
+        "2026-05-03": {
+          "totalBeans": 18065.0,
+          "privateCallBeans": 1470.0,
+          "matchCallBeans": 16128.0,
+          "giftBeans": 467.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 289
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 1862.0,
+          "privateCallBeans": 150.0,
+          "matchCallBeans": 1712.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 20
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 2404.0,
+          "privateCallBeans": 300.0,
+          "matchCallBeans": 2104.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 70
+        },
+        "2026-05-12": {
+          "totalBeans": 9740.0,
+          "privateCallBeans": 450.0,
+          "matchCallBeans": 8680.0,
+          "giftBeans": 60.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 196
+        },
+        "2026-05-11": {
+          "totalBeans": 2613.0,
+          "privateCallBeans": 225.0,
+          "matchCallBeans": 2228.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 150.0,
+          "billCount": 128
+        },
+        "2026-05-13": {
+          "totalBeans": 9569.0,
+          "privateCallBeans": 675.0,
+          "matchCallBeans": 8636.0,
+          "giftBeans": 158.0,
+          "messageBeans": 0.0,
+          "otherBeans": 100.0,
+          "billCount": 288
+        },
+        "2026-05-14": {
+          "totalBeans": 12132.0,
+          "privateCallBeans": 300.0,
+          "matchCallBeans": 11028.0,
+          "giftBeans": 354.0,
+          "messageBeans": 0.0,
+          "otherBeans": 450.0,
+          "billCount": 324
+        },
+        "2026-05-15": {
+          "totalBeans": 2337.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2312.0,
+          "giftBeans": 25.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 65
+        },
+        "2026-05-16": {
+          "totalBeans": 9266.0,
+          "privateCallBeans": 600.0,
+          "matchCallBeans": 7748.0,
+          "giftBeans": 298.0,
+          "messageBeans": 0.0,
+          "otherBeans": 620.0,
+          "billCount": 177
+        },
+        "2026-05-17": {
+          "totalBeans": 10742.0,
+          "privateCallBeans": 1650.0,
+          "matchCallBeans": 9092.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 174
+        },
+        "2026-05-18": {
+          "totalBeans": 12486.0,
+          "privateCallBeans": 450.0,
+          "matchCallBeans": 11416.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 252
+        }
+      }
+    },
+    {
+      "id": "acct-384887",
+      "displayName": "NinaC",
+      "countryIso": "BR",
+      "totalBeans": 124930.0,
+      "privateCallBeans": 3680.0,
+      "matchCallBeans": 115508.0,
+      "giftBeans": 1922.0,
+      "messageBeans": 0.0,
+      "otherBeans": 3820.0,
+      "billCount": 2963,
+      "online": false,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 16697.0,
+          "privateCallBeans": 500.0,
+          "matchCallBeans": 16092.0,
+          "giftBeans": 105.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 348
+        },
+        "2026-05-02": {
+          "totalBeans": 17144.0,
+          "privateCallBeans": 300.0,
+          "matchCallBeans": 16844.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 344
+        },
+        "2026-05-03": {
+          "totalBeans": 7507.0,
+          "privateCallBeans": 140.0,
+          "matchCallBeans": 6996.0,
+          "giftBeans": 371.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 135
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 5366.0,
+          "privateCallBeans": 1120.0,
+          "matchCallBeans": 3692.0,
+          "giftBeans": 554.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 75
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 8244.0,
+          "privateCallBeans": 490.0,
+          "matchCallBeans": 6944.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 174
+        },
+        "2026-05-12": {
+          "totalBeans": 10721.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9988.0,
+          "giftBeans": 123.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 261
+        },
+        "2026-05-11": {
+          "totalBeans": 7330.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 6840.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 210.0,
+          "billCount": 335
+        },
+        "2026-05-13": {
+          "totalBeans": 7027.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 6096.0,
+          "giftBeans": 331.0,
+          "messageBeans": 0.0,
+          "otherBeans": 320.0,
+          "billCount": 173
+        },
+        "2026-05-14": {
+          "totalBeans": 12358.0,
+          "privateCallBeans": 420.0,
+          "matchCallBeans": 11328.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 301
+        },
+        "2026-05-15": {
+          "totalBeans": 3501.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3476.0,
+          "giftBeans": 25.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 98
+        },
+        "2026-05-16": {
+          "totalBeans": 9465.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 8780.0,
+          "giftBeans": 75.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 260
+        },
+        "2026-05-17": {
+          "totalBeans": 7436.0,
+          "privateCallBeans": 150.0,
+          "matchCallBeans": 7276.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 199
+        },
+        "2026-05-18": {
+          "totalBeans": 12134.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 11156.0,
+          "giftBeans": 328.0,
+          "messageBeans": 0.0,
+          "otherBeans": 650.0,
+          "billCount": 260
         }
       }
     },
@@ -1091,50 +1472,8 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 35
-        }
-      }
-    },
-    {
-      "id": "acct-613550",
-      "displayName": "Luna Morena 🌸（绑定 BR2 云）",
-      "countryIso": "BR",
-      "totalBeans": 116365.0,
-      "privateCallBeans": 7840.0,
-      "matchCallBeans": 104752.0,
-      "giftBeans": 1903.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1870.0,
-      "billCount": 2437,
-      "online": true,
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 13359.0,
-          "privateCallBeans": 900.0,
-          "matchCallBeans": 12136.0,
-          "giftBeans": 323.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 252
         },
-        "2026-05-02": {
-          "totalBeans": 24276.0,
-          "privateCallBeans": 1120.0,
-          "matchCallBeans": 22948.0,
-          "giftBeans": 208.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 454
-        },
-        "2026-05-03": {
-          "totalBeans": 18065.0,
-          "privateCallBeans": 1470.0,
-          "matchCallBeans": 16128.0,
-          "giftBeans": 467.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 289
-        },
-        "2026-05-04": {
+        "2026-05-18": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
           "matchCallBeans": 0.0,
@@ -1142,291 +1481,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 1862.0,
-          "privateCallBeans": 150.0,
-          "matchCallBeans": 1712.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 20
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 2404.0,
-          "privateCallBeans": 300.0,
-          "matchCallBeans": 2104.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 70
-        },
-        "2026-05-12": {
-          "totalBeans": 9740.0,
-          "privateCallBeans": 450.0,
-          "matchCallBeans": 8680.0,
-          "giftBeans": 60.0,
-          "messageBeans": 0.0,
-          "otherBeans": 550.0,
-          "billCount": 196
-        },
-        "2026-05-11": {
-          "totalBeans": 2613.0,
-          "privateCallBeans": 225.0,
-          "matchCallBeans": 2228.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 150.0,
-          "billCount": 128
-        },
-        "2026-05-13": {
-          "totalBeans": 9569.0,
-          "privateCallBeans": 675.0,
-          "matchCallBeans": 8636.0,
-          "giftBeans": 158.0,
-          "messageBeans": 0.0,
-          "otherBeans": 100.0,
-          "billCount": 288
-        },
-        "2026-05-14": {
-          "totalBeans": 12132.0,
-          "privateCallBeans": 300.0,
-          "matchCallBeans": 11028.0,
-          "giftBeans": 354.0,
-          "messageBeans": 0.0,
-          "otherBeans": 450.0,
-          "billCount": 324
-        },
-        "2026-05-15": {
-          "totalBeans": 2337.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 2312.0,
-          "giftBeans": 25.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 65
-        },
-        "2026-05-16": {
-          "totalBeans": 9266.0,
-          "privateCallBeans": 600.0,
-          "matchCallBeans": 7748.0,
-          "giftBeans": 298.0,
-          "messageBeans": 0.0,
-          "otherBeans": 620.0,
-          "billCount": 177
-        },
-        "2026-05-17": {
-          "totalBeans": 10742.0,
-          "privateCallBeans": 1650.0,
-          "matchCallBeans": 9092.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 174
-        }
-      }
-    },
-    {
-      "id": "acct-384887",
-      "displayName": "NinaC",
-      "countryIso": "BR",
-      "totalBeans": 112796.0,
-      "privateCallBeans": 3680.0,
-      "matchCallBeans": 104352.0,
-      "giftBeans": 1594.0,
-      "messageBeans": 0.0,
-      "otherBeans": 3170.0,
-      "billCount": 2703,
-      "online": true,
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 16697.0,
-          "privateCallBeans": 500.0,
-          "matchCallBeans": 16092.0,
-          "giftBeans": 105.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 348
-        },
-        "2026-05-02": {
-          "totalBeans": 17144.0,
-          "privateCallBeans": 300.0,
-          "matchCallBeans": 16844.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 344
-        },
-        "2026-05-03": {
-          "totalBeans": 7507.0,
-          "privateCallBeans": 140.0,
-          "matchCallBeans": 6996.0,
-          "giftBeans": 371.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 135
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 5366.0,
-          "privateCallBeans": 1120.0,
-          "matchCallBeans": 3692.0,
-          "giftBeans": 554.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 75
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 8244.0,
-          "privateCallBeans": 490.0,
-          "matchCallBeans": 6944.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 174
-        },
-        "2026-05-12": {
-          "totalBeans": 10721.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 9988.0,
-          "giftBeans": 123.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 261
-        },
-        "2026-05-11": {
-          "totalBeans": 7330.0,
-          "privateCallBeans": 280.0,
-          "matchCallBeans": 6840.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 210.0,
-          "billCount": 335
-        },
-        "2026-05-13": {
-          "totalBeans": 7027.0,
-          "privateCallBeans": 280.0,
-          "matchCallBeans": 6096.0,
-          "giftBeans": 331.0,
-          "messageBeans": 0.0,
-          "otherBeans": 320.0,
-          "billCount": 173
-        },
-        "2026-05-14": {
-          "totalBeans": 12358.0,
-          "privateCallBeans": 420.0,
-          "matchCallBeans": 11328.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 301
-        },
-        "2026-05-15": {
-          "totalBeans": 3501.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 3476.0,
-          "giftBeans": 25.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 98
-        },
-        "2026-05-16": {
-          "totalBeans": 9465.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 8780.0,
-          "giftBeans": 75.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 260
-        },
-        "2026-05-17": {
-          "totalBeans": 7436.0,
-          "privateCallBeans": 150.0,
-          "matchCallBeans": 7276.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 199
         }
       }
     },
@@ -1434,14 +1488,14 @@
       "id": "acct-144312",
       "displayName": "Rosa Tropical 🌺（绑定 xxx）",
       "countryIso": "CO",
-      "totalBeans": 92773.0,
-      "privateCallBeans": 880.0,
-      "matchCallBeans": 89520.0,
-      "giftBeans": 1213.0,
+      "totalBeans": 105594.0,
+      "privateCallBeans": 945.0,
+      "matchCallBeans": 101472.0,
+      "giftBeans": 1507.0,
       "messageBeans": 0.0,
-      "otherBeans": 1160.0,
-      "billCount": 1716,
-      "online": true,
+      "otherBeans": 1670.0,
+      "billCount": 1870,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1595,6 +1649,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 130
+        },
+        "2026-05-18": {
+          "totalBeans": 12821.0,
+          "privateCallBeans": 65.0,
+          "matchCallBeans": 11952.0,
+          "giftBeans": 294.0,
+          "messageBeans": 0.0,
+          "otherBeans": 510.0,
+          "billCount": 154
         }
       }
     },
@@ -1602,14 +1665,14 @@
       "id": "acct-105009",
       "displayName": "Ruiva",
       "countryIso": "BR",
-      "totalBeans": 92015.0,
+      "totalBeans": 101737.0,
       "privateCallBeans": 5970.0,
-      "matchCallBeans": 84012.0,
+      "matchCallBeans": 93524.0,
       "giftBeans": 293.0,
       "messageBeans": 0.0,
-      "otherBeans": 1740.0,
-      "billCount": 4080,
-      "online": true,
+      "otherBeans": 1950.0,
+      "billCount": 4568,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 14962.0,
@@ -1763,6 +1826,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 399
+        },
+        "2026-05-18": {
+          "totalBeans": 9722.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9512.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 210.0,
+          "billCount": 488
         }
       }
     },
@@ -1770,14 +1842,14 @@
       "id": "acct-368036",
       "displayName": "Beauti（绑定 xxx）",
       "countryIso": "CO",
-      "totalBeans": 69476.0,
-      "privateCallBeans": 2709.0,
-      "matchCallBeans": 64676.0,
-      "giftBeans": 1541.0,
+      "totalBeans": 81553.0,
+      "privateCallBeans": 2774.0,
+      "matchCallBeans": 76080.0,
+      "giftBeans": 1689.0,
       "messageBeans": 0.0,
-      "otherBeans": 550.0,
-      "billCount": 1681,
-      "online": true,
+      "otherBeans": 1010.0,
+      "billCount": 1898,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -1931,6 +2003,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 113
+        },
+        "2026-05-18": {
+          "totalBeans": 12077.0,
+          "privateCallBeans": 65.0,
+          "matchCallBeans": 11404.0,
+          "giftBeans": 148.0,
+          "messageBeans": 0.0,
+          "otherBeans": 460.0,
+          "billCount": 217
         }
       }
     },
@@ -1938,13 +2019,13 @@
       "id": "acct-394012",
       "displayName": "Nina 🌺（绑定 xxx）",
       "countryIso": "BR",
-      "totalBeans": 63148.0,
-      "privateCallBeans": 4465.0,
-      "matchCallBeans": 54912.0,
-      "giftBeans": 1611.0,
+      "totalBeans": 75212.0,
+      "privateCallBeans": 5215.0,
+      "matchCallBeans": 65616.0,
+      "giftBeans": 1711.0,
       "messageBeans": 0.0,
-      "otherBeans": 2160.0,
-      "billCount": 1576,
+      "otherBeans": 2670.0,
+      "billCount": 1778,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -2099,6 +2180,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 161
+        },
+        "2026-05-18": {
+          "totalBeans": 12064.0,
+          "privateCallBeans": 750.0,
+          "matchCallBeans": 10704.0,
+          "giftBeans": 100.0,
+          "messageBeans": 0.0,
+          "otherBeans": 510.0,
+          "billCount": 202
         }
       }
     },
@@ -2106,14 +2196,14 @@
       "id": "acct-132826",
       "displayName": "Elvis Guerrero",
       "countryIso": "VE",
-      "totalBeans": 51673.0,
+      "totalBeans": 63871.0,
       "privateCallBeans": 450.0,
-      "matchCallBeans": 49188.0,
-      "giftBeans": 1485.0,
+      "matchCallBeans": 60980.0,
+      "giftBeans": 1891.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 1195,
-      "online": true,
+      "billCount": 1593,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -2267,6 +2357,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 214
+        },
+        "2026-05-18": {
+          "totalBeans": 12198.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 11792.0,
+          "giftBeans": 406.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 398
         }
       }
     },
@@ -2274,13 +2373,13 @@
       "id": "acct-554338",
       "displayName": "Camila Ugarte（50）",
       "countryIso": "BR",
-      "totalBeans": 39975.0,
+      "totalBeans": 50183.0,
       "privateCallBeans": 1270.0,
-      "matchCallBeans": 35992.0,
-      "giftBeans": 1163.0,
+      "matchCallBeans": 45596.0,
+      "giftBeans": 1767.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 740,
+      "billCount": 962,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -2435,6 +2534,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 175
+        },
+        "2026-05-18": {
+          "totalBeans": 10208.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9604.0,
+          "giftBeans": 604.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 222
         }
       }
     },
@@ -2442,14 +2550,14 @@
       "id": "acct-798876",
       "displayName": "MeL（41 绑定 BR3）",
       "countryIso": "BR",
-      "totalBeans": 37740.0,
+      "totalBeans": 49825.0,
       "privateCallBeans": 1590.0,
-      "matchCallBeans": 33604.0,
-      "giftBeans": 996.0,
+      "matchCallBeans": 45248.0,
+      "giftBeans": 1437.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 505,
-      "online": true,
+      "billCount": 669,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -2603,6 +2711,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 64
+        },
+        "2026-05-18": {
+          "totalBeans": 12085.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 11644.0,
+          "giftBeans": 441.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 164
         }
       }
     },
@@ -2610,13 +2727,13 @@
       "id": "acct-008047",
       "displayName": "Monique Lima（39）",
       "countryIso": "CO",
-      "totalBeans": 36855.0,
-      "privateCallBeans": 2490.0,
-      "matchCallBeans": 32208.0,
-      "giftBeans": 1607.0,
+      "totalBeans": 47075.0,
+      "privateCallBeans": 2730.0,
+      "matchCallBeans": 41992.0,
+      "giftBeans": 1803.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 792,
+      "billCount": 1045,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -2771,6 +2888,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 164
+        },
+        "2026-05-18": {
+          "totalBeans": 10220.0,
+          "privateCallBeans": 240.0,
+          "matchCallBeans": 9784.0,
+          "giftBeans": 196.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 253
         }
       }
     },
@@ -2778,13 +2904,13 @@
       "id": "acct-165195",
       "displayName": "Juna Maglinte（46）",
       "countryIso": "BR",
-      "totalBeans": 35594.0,
-      "privateCallBeans": 2605.0,
-      "matchCallBeans": 30228.0,
-      "giftBeans": 1211.0,
+      "totalBeans": 45603.0,
+      "privateCallBeans": 2930.0,
+      "matchCallBeans": 39704.0,
+      "giftBeans": 1419.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 958,
+      "billCount": 1256,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -2939,6 +3065,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 361
+        },
+        "2026-05-18": {
+          "totalBeans": 10009.0,
+          "privateCallBeans": 325.0,
+          "matchCallBeans": 9476.0,
+          "giftBeans": 208.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 298
         }
       }
     },
@@ -2946,13 +3081,13 @@
       "id": "acct-692044",
       "displayName": "Leidy oerez（40）",
       "countryIso": "BR",
-      "totalBeans": 33564.0,
-      "privateCallBeans": 1690.0,
-      "matchCallBeans": 28672.0,
-      "giftBeans": 1652.0,
+      "totalBeans": 43633.0,
+      "privateCallBeans": 1820.0,
+      "matchCallBeans": 38488.0,
+      "giftBeans": 1775.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 669,
+      "billCount": 1004,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -3107,6 +3242,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 161
+        },
+        "2026-05-18": {
+          "totalBeans": 10069.0,
+          "privateCallBeans": 130.0,
+          "matchCallBeans": 9816.0,
+          "giftBeans": 123.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 335
         }
       }
     },
@@ -3114,13 +3258,13 @@
       "id": "acct-762884",
       "displayName": "Rosal（35）",
       "countryIso": "BR",
-      "totalBeans": 31417.0,
+      "totalBeans": 41565.0,
       "privateCallBeans": 120.0,
-      "matchCallBeans": 29056.0,
+      "matchCallBeans": 39204.0,
       "giftBeans": 691.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 934,
+      "billCount": 1235,
       "online": false,
       "days": {
         "2026-05-13": {
@@ -3167,6 +3311,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 315
+        },
+        "2026-05-18": {
+          "totalBeans": 10148.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 10148.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 301
         }
       }
     },
@@ -3174,14 +3327,14 @@
       "id": "acct-531982",
       "displayName": "Hiraly（42 绑定 BR3）",
       "countryIso": "BR",
-      "totalBeans": 26870.0,
-      "privateCallBeans": 720.0,
-      "matchCallBeans": 23924.0,
-      "giftBeans": 596.0,
+      "totalBeans": 39001.0,
+      "privateCallBeans": 860.0,
+      "matchCallBeans": 35480.0,
+      "giftBeans": 621.0,
       "messageBeans": 0.0,
-      "otherBeans": 1630.0,
-      "billCount": 1487,
-      "online": true,
+      "otherBeans": 2040.0,
+      "billCount": 2032,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -3335,6 +3488,15 @@
           "messageBeans": 0.0,
           "otherBeans": 310.0,
           "billCount": 325
+        },
+        "2026-05-18": {
+          "totalBeans": 12131.0,
+          "privateCallBeans": 140.0,
+          "matchCallBeans": 11556.0,
+          "giftBeans": 25.0,
+          "messageBeans": 0.0,
+          "otherBeans": 410.0,
+          "billCount": 545
         }
       }
     },
@@ -3342,13 +3504,13 @@
       "id": "acct-255802",
       "displayName": "Carolina Arango（29）",
       "countryIso": "CO",
-      "totalBeans": 26618.0,
+      "totalBeans": 36618.0,
       "privateCallBeans": 180.0,
-      "matchCallBeans": 25600.0,
-      "giftBeans": 288.0,
+      "matchCallBeans": 35492.0,
+      "giftBeans": 396.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 666,
+      "billCount": 938,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -3503,6 +3665,84 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 197
+        },
+        "2026-05-18": {
+          "totalBeans": 10000.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9892.0,
+          "giftBeans": 108.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 272
+        }
+      }
+    },
+    {
+      "id": "acct-460605",
+      "displayName": "Tammi（31）",
+      "countryIso": "VE",
+      "totalBeans": 34051.0,
+      "privateCallBeans": 555.0,
+      "matchCallBeans": 32412.0,
+      "giftBeans": 534.0,
+      "messageBeans": 0.0,
+      "otherBeans": 550.0,
+      "billCount": 926,
+      "online": false,
+      "days": {
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 7373.0,
+          "privateCallBeans": 365.0,
+          "matchCallBeans": 6712.0,
+          "giftBeans": 296.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 213
+        },
+        "2026-05-15": {
+          "totalBeans": 6533.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6048.0,
+          "giftBeans": 35.0,
+          "messageBeans": 0.0,
+          "otherBeans": 450.0,
+          "billCount": 162
+        },
+        "2026-05-16": {
+          "totalBeans": 2965.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2840.0,
+          "giftBeans": 25.0,
+          "messageBeans": 0.0,
+          "otherBeans": 100.0,
+          "billCount": 72
+        },
+        "2026-05-17": {
+          "totalBeans": 6818.0,
+          "privateCallBeans": 190.0,
+          "matchCallBeans": 6480.0,
+          "giftBeans": 148.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 152
+        },
+        "2026-05-18": {
+          "totalBeans": 10362.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 10332.0,
+          "giftBeans": 30.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 327
         }
       }
     },
@@ -3510,13 +3750,13 @@
       "id": "acct-029272",
       "displayName": "Sandry Beleno（51）",
       "countryIso": "BR",
-      "totalBeans": 25078.0,
+      "totalBeans": 32674.0,
       "privateCallBeans": 710.0,
-      "matchCallBeans": 22808.0,
+      "matchCallBeans": 30404.0,
       "giftBeans": 10.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 1260,
+      "billCount": 1752,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -3671,570 +3911,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 433
-        }
-      }
-    },
-    {
-      "id": "acct-460605",
-      "displayName": "Tammi（31）",
-      "countryIso": "VE",
-      "totalBeans": 23689.0,
-      "privateCallBeans": 555.0,
-      "matchCallBeans": 22080.0,
-      "giftBeans": 504.0,
-      "messageBeans": 0.0,
-      "otherBeans": 550.0,
-      "billCount": 599,
-      "online": false,
-      "days": {
-        "2026-05-13": {
-          "totalBeans": 0.0,
+        },
+        "2026-05-18": {
+          "totalBeans": 7596.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
+          "matchCallBeans": 7596.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-14": {
-          "totalBeans": 7373.0,
-          "privateCallBeans": 365.0,
-          "matchCallBeans": 6712.0,
-          "giftBeans": 296.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 213
-        },
-        "2026-05-15": {
-          "totalBeans": 6533.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 6048.0,
-          "giftBeans": 35.0,
-          "messageBeans": 0.0,
-          "otherBeans": 450.0,
-          "billCount": 162
-        },
-        "2026-05-16": {
-          "totalBeans": 2965.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 2840.0,
-          "giftBeans": 25.0,
-          "messageBeans": 0.0,
-          "otherBeans": 100.0,
-          "billCount": 72
-        },
-        "2026-05-17": {
-          "totalBeans": 6818.0,
-          "privateCallBeans": 190.0,
-          "matchCallBeans": 6480.0,
-          "giftBeans": 148.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 152
-        }
-      }
-    },
-    {
-      "id": "acct-402086",
-      "displayName": "Fabulous（45）",
-      "countryIso": "PH",
-      "totalBeans": 19364.0,
-      "privateCallBeans": 85.0,
-      "matchCallBeans": 18656.0,
-      "giftBeans": 73.0,
-      "messageBeans": 0.0,
-      "otherBeans": 550.0,
-      "billCount": 644,
-      "online": false,
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-11": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-12": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-13": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-14": {
-          "totalBeans": 4191.0,
-          "privateCallBeans": 85.0,
-          "matchCallBeans": 3556.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 550.0,
-          "billCount": 128
-        },
-        "2026-05-15": {
-          "totalBeans": 2160.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 2160.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 105
-        },
-        "2026-05-16": {
-          "totalBeans": 6861.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 6788.0,
-          "giftBeans": 73.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 257
-        },
-        "2026-05-17": {
-          "totalBeans": 6152.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 6152.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 154
-        }
-      }
-    },
-    {
-      "id": "acct-566911",
-      "displayName": "Kary Muñoz",
-      "countryIso": "VE",
-      "totalBeans": 19085.0,
-      "privateCallBeans": 2341.0,
-      "matchCallBeans": 15956.0,
-      "giftBeans": 238.0,
-      "messageBeans": 0.0,
-      "otherBeans": 550.0,
-      "billCount": 603,
-      "online": false,
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-12": {
-          "totalBeans": 5198.0,
-          "privateCallBeans": 615.0,
-          "matchCallBeans": 3988.0,
-          "giftBeans": 45.0,
-          "messageBeans": 0.0,
-          "otherBeans": 550.0,
-          "billCount": 144
-        },
-        "2026-05-11": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-13": {
-          "totalBeans": 3086.0,
-          "privateCallBeans": 286.0,
-          "matchCallBeans": 2800.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 128
-        },
-        "2026-05-14": {
-          "totalBeans": 2134.0,
-          "privateCallBeans": 450.0,
-          "matchCallBeans": 1684.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 86
-        },
-        "2026-05-15": {
-          "totalBeans": 920.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 920.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 40
-        },
-        "2026-05-16": {
-          "totalBeans": 4844.0,
-          "privateCallBeans": 990.0,
-          "matchCallBeans": 3696.0,
-          "giftBeans": 158.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 122
-        },
-        "2026-05-17": {
-          "totalBeans": 2903.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 2868.0,
-          "giftBeans": 35.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 83
-        }
-      }
-    },
-    {
-      "id": "acct-640753",
-      "displayName": "Melrop",
-      "countryIso": "BR",
-      "totalBeans": 18373.0,
-      "privateCallBeans": 2080.0,
-      "matchCallBeans": 12012.0,
-      "giftBeans": 2731.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1550.0,
-      "billCount": 370,
-      "online": true,
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 5280.0,
-          "privateCallBeans": 520.0,
-          "matchCallBeans": 3592.0,
-          "giftBeans": 168.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1000.0,
-          "billCount": 173
-        },
-        "2026-05-07": {
-          "totalBeans": 8044.0,
-          "privateCallBeans": 1320.0,
-          "matchCallBeans": 6076.0,
-          "giftBeans": 98.0,
-          "messageBeans": 0.0,
-          "otherBeans": 550.0,
-          "billCount": 138
-        },
-        "2026-05-08": {
-          "totalBeans": 5049.0,
-          "privateCallBeans": 240.0,
-          "matchCallBeans": 2344.0,
-          "giftBeans": 2465.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 59
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-12": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-11": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-13": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-14": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-15": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-16": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-17": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
+          "billCount": 492
         }
       }
     },
@@ -4242,13 +3927,13 @@
       "id": "acct-065870",
       "displayName": "jissa（48）",
       "countryIso": "CO",
-      "totalBeans": 17812.0,
-      "privateCallBeans": 510.0,
-      "matchCallBeans": 16148.0,
-      "giftBeans": 604.0,
+      "totalBeans": 27949.0,
+      "privateCallBeans": 950.0,
+      "matchCallBeans": 24996.0,
+      "giftBeans": 1453.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 408,
+      "billCount": 636,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -4403,6 +4088,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-18": {
+          "totalBeans": 10137.0,
+          "privateCallBeans": 440.0,
+          "matchCallBeans": 8848.0,
+          "giftBeans": 849.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 228
         }
       }
     },
@@ -4410,13 +4104,13 @@
       "id": "acct-441636",
       "displayName": "Aisha（38）",
       "countryIso": "VE",
-      "totalBeans": 17570.0,
+      "totalBeans": 27585.0,
       "privateCallBeans": 555.0,
-      "matchCallBeans": 16144.0,
-      "giftBeans": 321.0,
+      "matchCallBeans": 25828.0,
+      "giftBeans": 652.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 679,
+      "billCount": 1106,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -4571,6 +4265,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 170
+        },
+        "2026-05-18": {
+          "totalBeans": 10015.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9684.0,
+          "giftBeans": 331.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 427
         }
       }
     },
@@ -4578,13 +4281,13 @@
       "id": "acct-546605",
       "displayName": "ABBY（30）",
       "countryIso": "VE",
-      "totalBeans": 14462.0,
+      "totalBeans": 24618.0,
       "privateCallBeans": 571.0,
-      "matchCallBeans": 12600.0,
-      "giftBeans": 741.0,
+      "matchCallBeans": 22184.0,
+      "giftBeans": 1313.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 345,
+      "billCount": 594,
       "online": false,
       "days": {
         "2026-05-13": {
@@ -4631,6 +4334,546 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 146
+        },
+        "2026-05-18": {
+          "totalBeans": 10156.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9584.0,
+          "giftBeans": 572.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 249
+        }
+      }
+    },
+    {
+      "id": "acct-402086",
+      "displayName": "Fabulous（45）",
+      "countryIso": "PH",
+      "totalBeans": 21376.0,
+      "privateCallBeans": 85.0,
+      "matchCallBeans": 20668.0,
+      "giftBeans": 73.0,
+      "messageBeans": 0.0,
+      "otherBeans": 550.0,
+      "billCount": 723,
+      "online": false,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 4191.0,
+          "privateCallBeans": 85.0,
+          "matchCallBeans": 3556.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 128
+        },
+        "2026-05-15": {
+          "totalBeans": 2160.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2160.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 105
+        },
+        "2026-05-16": {
+          "totalBeans": 6861.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6788.0,
+          "giftBeans": 73.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 257
+        },
+        "2026-05-17": {
+          "totalBeans": 6152.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6152.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 154
+        },
+        "2026-05-18": {
+          "totalBeans": 2012.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2012.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 79
+        }
+      }
+    },
+    {
+      "id": "acct-640753",
+      "displayName": "Melrop",
+      "countryIso": "BR",
+      "totalBeans": 20763.0,
+      "privateCallBeans": 2340.0,
+      "matchCallBeans": 14092.0,
+      "giftBeans": 2731.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1600.0,
+      "billCount": 407,
+      "online": false,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 5280.0,
+          "privateCallBeans": 520.0,
+          "matchCallBeans": 3592.0,
+          "giftBeans": 168.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1000.0,
+          "billCount": 173
+        },
+        "2026-05-07": {
+          "totalBeans": 8044.0,
+          "privateCallBeans": 1320.0,
+          "matchCallBeans": 6076.0,
+          "giftBeans": 98.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 138
+        },
+        "2026-05-08": {
+          "totalBeans": 5049.0,
+          "privateCallBeans": 240.0,
+          "matchCallBeans": 2344.0,
+          "giftBeans": 2465.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 59
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-15": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-16": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-17": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-18": {
+          "totalBeans": 2390.0,
+          "privateCallBeans": 260.0,
+          "matchCallBeans": 2080.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 50.0,
+          "billCount": 37
+        }
+      }
+    },
+    {
+      "id": "acct-566911",
+      "displayName": "Kary Muñoz",
+      "countryIso": "VE",
+      "totalBeans": 19355.0,
+      "privateCallBeans": 2341.0,
+      "matchCallBeans": 16216.0,
+      "giftBeans": 248.0,
+      "messageBeans": 0.0,
+      "otherBeans": 550.0,
+      "billCount": 614,
+      "online": false,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 5198.0,
+          "privateCallBeans": 615.0,
+          "matchCallBeans": 3988.0,
+          "giftBeans": 45.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 144
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-13": {
+          "totalBeans": 3086.0,
+          "privateCallBeans": 286.0,
+          "matchCallBeans": 2800.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 128
+        },
+        "2026-05-14": {
+          "totalBeans": 2134.0,
+          "privateCallBeans": 450.0,
+          "matchCallBeans": 1684.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 86
+        },
+        "2026-05-15": {
+          "totalBeans": 920.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 920.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 40
+        },
+        "2026-05-16": {
+          "totalBeans": 4844.0,
+          "privateCallBeans": 990.0,
+          "matchCallBeans": 3696.0,
+          "giftBeans": 158.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 122
+        },
+        "2026-05-17": {
+          "totalBeans": 2903.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2868.0,
+          "giftBeans": 35.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 83
+        },
+        "2026-05-18": {
+          "totalBeans": 270.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 260.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 11
         }
       }
     },
@@ -4792,6 +5035,15 @@
           "billCount": 0
         },
         "2026-05-17": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-18": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
           "matchCallBeans": 0.0,
@@ -4967,6 +5219,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-18": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -5128,6 +5389,15 @@
           "billCount": 0
         },
         "2026-05-17": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-18": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
           "matchCallBeans": 0.0,
@@ -5303,6 +5573,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-18": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -5471,6 +5750,63 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-18": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-122105",
+      "displayName": "Sofia verenzuela（63号）",
+      "countryIso": "BR",
+      "totalBeans": 9912.0,
+      "privateCallBeans": 880.0,
+      "matchCallBeans": 8032.0,
+      "giftBeans": 0.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1000.0,
+      "billCount": 396,
+      "online": false,
+      "days": {
+        "2026-05-18": {
+          "totalBeans": 9912.0,
+          "privateCallBeans": 880.0,
+          "matchCallBeans": 8032.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1000.0,
+          "billCount": 396
+        }
+      }
+    },
+    {
+      "id": "acct-080750",
+      "displayName": "Kristin（64号）",
+      "countryIso": "BR",
+      "totalBeans": 8816.0,
+      "privateCallBeans": 450.0,
+      "matchCallBeans": 7356.0,
+      "giftBeans": 10.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1000.0,
+      "billCount": 289,
+      "online": false,
+      "days": {
+        "2026-05-18": {
+          "totalBeans": 8816.0,
+          "privateCallBeans": 450.0,
+          "matchCallBeans": 7356.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1000.0,
+          "billCount": 289
         }
       }
     },
@@ -5478,14 +5814,14 @@
       "id": "acct-498574",
       "displayName": "Judy",
       "countryIso": "PH",
-      "totalBeans": 5326.0,
+      "totalBeans": 8776.0,
       "privateCallBeans": 1195.0,
-      "matchCallBeans": 3556.0,
+      "matchCallBeans": 6816.0,
       "giftBeans": 25.0,
       "messageBeans": 0.0,
-      "otherBeans": 550.0,
-      "billCount": 179,
-      "online": true,
+      "otherBeans": 740.0,
+      "billCount": 284,
+      "online": false,
       "days": {
         "2026-05-01": {
           "totalBeans": 0.0,
@@ -5639,6 +5975,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 82
+        },
+        "2026-05-18": {
+          "totalBeans": 3450.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3260.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 190.0,
+          "billCount": 105
         }
       }
     },
@@ -5646,13 +5991,13 @@
       "id": "acct-645685",
       "displayName": "Isabela Rico（37）",
       "countryIso": "VE",
-      "totalBeans": 4336.0,
-      "privateCallBeans": 1142.0,
-      "matchCallBeans": 2644.0,
+      "totalBeans": 4460.0,
+      "privateCallBeans": 1242.0,
+      "matchCallBeans": 2668.0,
       "giftBeans": 0.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 174,
+      "billCount": 179,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -5807,6 +6152,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 15
+        },
+        "2026-05-18": {
+          "totalBeans": 124.0,
+          "privateCallBeans": 100.0,
+          "matchCallBeans": 24.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 5
         }
       }
     },
@@ -5975,6 +6329,192 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
+        },
+        "2026-05-18": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-467163",
+      "displayName": "Erika（49）",
+      "countryIso": "PH",
+      "totalBeans": 4103.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 3528.0,
+      "giftBeans": 25.0,
+      "messageBeans": 0.0,
+      "otherBeans": 550.0,
+      "billCount": 237,
+      "online": false,
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 1231.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 656.0,
+          "giftBeans": 25.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 73
+        },
+        "2026-05-15": {
+          "totalBeans": 1132.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1132.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 44
+        },
+        "2026-05-16": {
+          "totalBeans": 276.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 276.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 12
+        },
+        "2026-05-17": {
+          "totalBeans": 1296.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1296.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 87
+        },
+        "2026-05-18": {
+          "totalBeans": 168.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 168.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 21
         }
       }
     },
@@ -6143,23 +6683,8 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-467163",
-      "displayName": "Erika（49）",
-      "countryIso": "PH",
-      "totalBeans": 3935.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 3360.0,
-      "giftBeans": 25.0,
-      "messageBeans": 0.0,
-      "otherBeans": 550.0,
-      "billCount": 216,
-      "online": false,
-      "days": {
-        "2026-05-01": {
+        },
+        "2026-05-18": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
           "matchCallBeans": 0.0,
@@ -6167,150 +6692,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-11": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-12": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-13": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-14": {
-          "totalBeans": 1231.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 656.0,
-          "giftBeans": 25.0,
-          "messageBeans": 0.0,
-          "otherBeans": 550.0,
-          "billCount": 73
-        },
-        "2026-05-15": {
-          "totalBeans": 1132.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 1132.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 44
-        },
-        "2026-05-16": {
-          "totalBeans": 276.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 276.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 12
-        },
-        "2026-05-17": {
-          "totalBeans": 1296.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 1296.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 87
         }
       }
     },
@@ -6318,13 +6699,13 @@
       "id": "acct-104532",
       "displayName": "Nada Hatem（44 绑定 BR3）",
       "countryIso": "PH",
-      "totalBeans": 1350.0,
+      "totalBeans": 1406.0,
       "privateCallBeans": 0.0,
-      "matchCallBeans": 800.0,
+      "matchCallBeans": 856.0,
       "giftBeans": 0.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 75,
+      "billCount": 82,
       "online": false,
       "days": {
         "2026-05-01": {
@@ -6479,6 +6860,15 @@
           "messageBeans": 0.0,
           "otherBeans": 100.0,
           "billCount": 4
+        },
+        "2026-05-18": {
+          "totalBeans": 56.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 56.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 7
         }
       }
     },
@@ -6486,14 +6876,14 @@
       "id": "acct-902994",
       "displayName": "Catherine💅🏻",
       "countryIso": "PH",
-      "totalBeans": 812.0,
+      "totalBeans": 1088.0,
       "privateCallBeans": 160.0,
-      "matchCallBeans": 652.0,
+      "matchCallBeans": 828.0,
       "giftBeans": 0.0,
       "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 45,
-      "online": true,
+      "otherBeans": 100.0,
+      "billCount": 68,
+      "online": false,
       "days": {
         "2026-05-16": {
           "totalBeans": 0.0,
@@ -6512,6 +6902,39 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 45
+        },
+        "2026-05-18": {
+          "totalBeans": 276.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 176.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 100.0,
+          "billCount": 23
+        }
+      }
+    },
+    {
+      "id": "acct-326182",
+      "displayName": "Anna（62号）",
+      "countryIso": "PH",
+      "totalBeans": 704.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 704.0,
+      "giftBeans": 0.0,
+      "messageBeans": 0.0,
+      "otherBeans": 0.0,
+      "billCount": 43,
+      "online": false,
+      "days": {
+        "2026-05-18": {
+          "totalBeans": 704.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 704.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 43
         }
       }
     },
@@ -6547,6 +6970,195 @@
           "billCount": 0
         },
         "2026-05-17": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-18": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-437158",
+      "displayName": "Victoria",
+      "countryIso": "VE",
+      "totalBeans": 0.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 0.0,
+      "giftBeans": 0.0,
+      "messageBeans": 0.0,
+      "otherBeans": 0.0,
+      "billCount": 0,
+      "online": false,
+      "days": {
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-15": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-16": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-17": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-18": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-746675",
+      "displayName": "Vincent",
+      "countryIso": "VE",
+      "totalBeans": 0.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 0.0,
+      "giftBeans": 0.0,
+      "messageBeans": 0.0,
+      "otherBeans": 0.0,
+      "billCount": 0,
+      "online": false,
+      "days": {
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-15": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-16": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-17": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-18": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-962250",
+      "displayName": "Fabiana",
+      "countryIso": "PH",
+      "totalBeans": 0.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 0.0,
+      "giftBeans": 0.0,
+      "messageBeans": 0.0,
+      "otherBeans": 0.0,
+      "billCount": 0,
+      "online": false,
+      "days": {
+        "2026-05-16": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-17": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-18": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
           "matchCallBeans": 0.0,
@@ -6722,152 +7334,8 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-437158",
-      "displayName": "Victoria",
-      "countryIso": "VE",
-      "totalBeans": 0.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 0.0,
-      "giftBeans": 0.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 0,
-      "online": false,
-      "days": {
-        "2026-05-13": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
         },
-        "2026-05-14": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-15": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-16": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-17": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-746675",
-      "displayName": "Vincent",
-      "countryIso": "VE",
-      "totalBeans": 0.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 0.0,
-      "giftBeans": 0.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 0,
-      "online": false,
-      "days": {
-        "2026-05-13": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-14": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-15": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-16": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-17": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-962250",
-      "displayName": "Fabiana",
-      "countryIso": "PH",
-      "totalBeans": 0.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 0.0,
-      "giftBeans": 0.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 0,
-      "online": false,
-      "days": {
-        "2026-05-16": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-17": {
+        "2026-05-18": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
           "matchCallBeans": 0.0,
