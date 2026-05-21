@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-21T11:30:59.107492",
+  "generatedAtIso": "2026-05-21T13:24:47.984673",
   "summary": {
     "totalBeans": 2404958.0,
     "privateCallBeans": 97271.0,
@@ -10,9 +10,9 @@
     "giftBeans": 65475.0,
     "messageBeans": 0.0,
     "otherBeans": 88860.0,
-    "unpaidBeans": 575436.0,
-    "unpaidCents": 55622.0,
-    "withdrawnCents": 142539.0,
+    "unpaidBeans": 796329.0,
+    "unpaidCents": 76768.0,
+    "withdrawnCents": 219441.0,
     "billCount": 60586,
     "accountCount": 58
   },
