@@ -24,7 +24,10 @@
     h2 { margin:0 0 14px; font-size:16px; }
     .bars { height:230px; display:flex; align-items:end; gap:6px; }
     .barbox { flex:1; min-width:28px; display:flex; flex-direction:column; align-items:center; justify-content:end; gap:7px; }
-    .bar { width:100%; min-height:3px; border-radius:8px 8px 4px 4px; background:linear-gradient(180deg,#0f766e,#53b6a6); }
+    .barstack { width:100%; height:180px; display:flex; align-items:end; justify-content:center; position:relative; }
+    .planbar,.bar { width:100%; min-height:3px; border-radius:8px 8px 4px 4px; position:absolute; bottom:0; }
+    .planbar { background:#fff4d7; border:1px solid #e9c56a; }
+    .bar { background:linear-gradient(180deg,#0f766e,#53b6a6); }
     .barvalue { font-size:10px; color:#284b48; font-weight:800; white-space:nowrap; }
     .day { font-size:11px; color:var(--muted); }
     .split { display:grid; grid-template-columns:4fr 6fr; gap:18px; }
@@ -38,6 +41,8 @@
     th { background:#e8efec; font-weight:800; }
     .money { font-weight:800; }
     .small { display:block; margin-top:2px; color:#5d716d; font-size:10px; white-space:nowrap; }
+    .planned { background:#fffaf0; }
+    .plantext { display:block; color:#9a5b00; font-size:10px; font-weight:800; white-space:nowrap; }
     .gate { min-height:100vh; display:grid; place-items:center; background:linear-gradient(135deg,#073b3a,#0f766e,#236b8e); }
     .gatebox { width:360px; max-width:calc(100vw - 48px); background:white; padding:20px; border-radius:8px; box-shadow:0 14px 24px #00000026; }
     input,button { width:100%; height:42px; border-radius:8px; font:inherit; }
@@ -70,19 +75,33 @@
     }
     function render(data) {
       const accounts = [...(data.accounts || [])].sort((a,b) => (b.totalBeans||0) - (a.totalBeans||0));
-      const days = [...new Set([...(data.dailyTotals || []).map(d => d.date), ...accounts.flatMap(a => Object.keys(a.days || {}))])].sort().reverse();
+      const days = [...new Set([...(data.dailyTotals || []).map(d => d.date), ...accounts.flatMap(a => Object.keys(a.days || {})), ...accounts.flatMap(a => Object.keys(a.plans || {}))])].sort().reverse();
       const summary = data.summary || {};
       const historicalTotal = Number(summary.totalBeans || accounts.reduce((s,a) => s + Number(a.totalBeans || 0), 0));
+      const plannedTotal = accounts.reduce((s,a) => s + Object.values(a.plans || {}).reduce((p,v) => p + Number(v.targetBeans || 0), 0), 0);
       app.innerHTML = `<header class="hero"><div class="wrap top"><div class="logo">↗</div><div><h1>${data.title || '历史收益看板'}</h1><div class="sub">${data.monthKey || ''} / 更新 ${String(data.generatedAtIso || '').slice(0,16).replace('T',' ')}</div></div></div></header>
-      <main><section class="grid">${card('总收益', money(historicalTotal))}${card('未提现', balanceMoney(summary))}${card('已提现', usdCents(summary.withdrawnCents))}${card('账号数', Number(summary.accountCount || accounts.length).toLocaleString())}</section>
-      <section class="panel"><h2>每日走势</h2><div class="bars">${bars(data.dailyTotals || [])}</div></section>
+      <main><section class="grid">${card('总收益', money(historicalTotal))}${card('计划收益', money(plannedTotal))}${card('未提现', balanceMoney(summary))}${card('账号数', Number(summary.accountCount || accounts.length).toLocaleString())}</section>
+      <section class="panel"><h2>每日走势</h2><div class="bars">${bars(data, accounts)}</div></section>
       <div class="split"><section class="panel"><h2>地区合计</h2>${(data.countryTotals || []).map(c => `<div class="row"><span class="pill">${c.countryIso}</span><b>${money(c.totalBeans)}</b><span>${c.billCount || 0} 笔</span></div>`).join('')}</section>
       <section class="panel"><h2>主播排行</h2>${accounts.slice(0,8).map((a,i)=>`<div class="row"><span class="pill">#${i+1}</span><b>${a.displayName}</b><span class="money">${money(a.totalBeans)}</span></div>`).join('')}</section></div>
       <section class="panel"><h2>历史收益明细</h2><div class="tablewrap"><table><thead><tr><th>主播</th><th>地区</th><th>合计</th><th>点播</th><th>匹配</th><th>笔数</th>${days.map(d=>`<th>${Number(d.slice(8,10)) || d}</th>`).join('')}</tr></thead><tbody>${accounts.map(a => row(a, days)).join('')}</tbody></table></div></section></main>`;
     }
     function card(label, value) { return `<div class="card"><div class="label">${label}</div><div class="value">${value}</div></div>`; }
-    function bars(days) { const max = Math.max(1, ...days.map(d => Number(d.totalBeans || 0))); return days.map(d => { const total = Number(d.totalBeans || 0); return `<div class="barbox" title="${d.date} ${money(total)}"><div class="barvalue">${money(total)}</div><div class="bar" style="height:${Math.max(3, total / max * 180)}px"></div><div class="day">${Number(d.date.slice(8,10))}</div></div>`; }).join(''); }
-    function row(a, days) { return `<tr><td><b>${a.displayName}</b></td><td>${a.countryIso || '-'}</td><td class="money">${money(a.totalBeans)}</td><td>${money(a.privateCallBeans)}</td><td>${money(a.matchCallBeans)}</td><td>${a.billCount || 0}</td>${days.map(d => { const v = dayVal((a.days || {})[d]); const total = Number(v.totalBeans || 0); return `<td title="${d} 总 ${money(total)} 点播 ${money(v.privateCallBeans)} 匹配 ${money(v.matchCallBeans)}"><span class="money">${total > 0 ? money(total) : '-'}</span>${total > 0 ? `<span class="small">点${compact(v.privateCallBeans)} / 匹${compact(v.matchCallBeans)}</span>` : ''}</td>`; }).join('')}</tr>`; }
+    function bars(data, accounts) {
+      const daily = new Map((data.dailyTotals || []).map(d => [d.date, {...d}]));
+      for (const a of accounts) for (const [date, plan] of Object.entries(a.plans || {})) {
+        const row = daily.get(date) || { date, totalBeans:0, billCount:0, plannedBeans:0 };
+        row.plannedBeans = Number(row.plannedBeans || 0) + Number(plan.targetBeans || 0);
+        daily.set(date, row);
+      }
+      const days = [...daily.values()].sort((a,b) => a.date.localeCompare(b.date));
+      const max = Math.max(1, ...days.map(d => Math.max(Number(d.totalBeans || 0), Number(d.plannedBeans || 0))));
+      return days.map(d => {
+        const total = Number(d.totalBeans || 0), planned = Number(d.plannedBeans || 0);
+        return `<div class="barbox" title="${d.date} 实际 ${money(total)} 计划 ${money(planned)} 差异 ${money(total - planned)}"><div class="barvalue">${money(total)}<span class="small">计 ${money(planned)}</span></div><div class="barstack"><div class="planbar" style="height:${Math.max(0, planned / max * 180)}px"></div><div class="bar" style="height:${Math.max(0, total / max * 180)}px"></div></div><div class="day">${Number(d.date.slice(8,10))}</div></div>`;
+      }).join('');
+    }
+    function row(a, days) { return `<tr><td><b>${a.displayName}</b></td><td>${a.countryIso || '-'}</td><td class="money">${money(a.totalBeans)}</td><td>${money(a.privateCallBeans)}</td><td>${money(a.matchCallBeans)}</td><td>${a.billCount || 0}</td>${days.map(d => { const v = dayVal((a.days || {})[d]); const plan = (a.plans || {})[d] || {}; const total = Number(v.totalBeans || 0); const planned = Number(plan.targetBeans || 0); return `<td class="${planned > 0 ? 'planned' : ''}" title="${d} 实际 ${money(total)} 计划 ${money(planned)} 差异 ${money(total - planned)} 点播 ${money(v.privateCallBeans)} 匹配 ${money(v.matchCallBeans)}">${planned > 0 ? `<span class="plantext">计 ${money(planned)}</span>` : ''}<span class="money">${total > 0 ? money(total) : '-'}</span>${total > 0 ? `<span class="small">点${compact(v.privateCallBeans)} / 匹${compact(v.matchCallBeans)}</span>` : ''}</td>`; }).join('')}</tr>`; }
     gate();
   </script>
 </body>
