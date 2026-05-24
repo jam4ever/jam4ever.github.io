@@ -151,7 +151,7 @@
         }
         accountRows.sort((a,b) => Math.abs((b.actual - b.planned)) - Math.abs((a.actual - a.planned)));
         return { date, actual, planned, accounts: accountRows };
-      }).filter(row => row.actual > 0 || row.planned > 0).slice(-7);
+      }).filter(row => row.actual > 0 || row.planned > 0).slice(-7).reverse();
       if (!rows.length) return '<div class="small">暂无计划对比数据</div>';
       return `<div class="fitlist">${rows.map(fitCard).join('')}</div>`;
     }
