@@ -2,18 +2,18 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-27T08:11:49.966435",
+  "generatedAtIso": "2026-05-27T10:12:35.754559",
   "summary": {
-    "totalBeans": 4945462.0,
-    "privateCallBeans": 129007.0,
-    "matchCallBeans": 4553856.0,
-    "giftBeans": 128649.0,
+    "totalBeans": 5080219.0,
+    "privateCallBeans": 131762.0,
+    "matchCallBeans": 4666040.0,
+    "giftBeans": 131867.0,
     "messageBeans": 0.0,
-    "otherBeans": 133950.0,
+    "otherBeans": 150550.0,
     "unpaidBeans": 643637.0,
     "unpaidCents": 60666.0,
     "withdrawnCents": 310747.0,
-    "billCount": 134456,
+    "billCount": 138142,
     "accountCount": 74,
     "plannedBeans": 2704580
   },
@@ -295,48 +295,48 @@
     },
     {
       "date": "2026-05-26",
-      "totalBeans": 388523.0,
-      "privateCallBeans": 5320.0,
-      "matchCallBeans": 375676.0,
-      "giftBeans": 7527.0,
+      "totalBeans": 523280.0,
+      "privateCallBeans": 8075.0,
+      "matchCallBeans": 487860.0,
+      "giftBeans": 10745.0,
       "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 13001,
+      "otherBeans": 16600.0,
+      "billCount": 16687,
       "plannedBeans": 760000
     }
   ],
   "countryTotals": [
     {
       "countryIso": "BR",
-      "totalBeans": 3483989.0,
-      "privateCallBeans": 110265.0,
-      "matchCallBeans": 3180180.0,
-      "giftBeans": 87394.0,
+      "totalBeans": 3588502.0,
+      "privateCallBeans": 112630.0,
+      "matchCallBeans": 3270284.0,
+      "giftBeans": 89958.0,
       "messageBeans": 0.0,
-      "otherBeans": 106150.0,
-      "billCount": 93447,
+      "otherBeans": 115630.0,
+      "billCount": 96436,
       "accountCount": 45
     },
     {
       "countryIso": "CO",
-      "totalBeans": 722787.0,
+      "totalBeans": 744721.0,
       "privateCallBeans": 9742.0,
-      "matchCallBeans": 678340.0,
-      "giftBeans": 24735.0,
+      "matchCallBeans": 695980.0,
+      "giftBeans": 25389.0,
       "messageBeans": 0.0,
-      "otherBeans": 9970.0,
-      "billCount": 16557,
+      "otherBeans": 13610.0,
+      "billCount": 17063,
       "accountCount": 10
     },
     {
       "countryIso": "VE",
-      "totalBeans": 564421.0,
-      "privateCallBeans": 7094.0,
-      "matchCallBeans": 532572.0,
+      "totalBeans": 572731.0,
+      "privateCallBeans": 7484.0,
+      "matchCallBeans": 537012.0,
       "giftBeans": 12495.0,
       "messageBeans": 0.0,
-      "otherBeans": 12260.0,
-      "billCount": 17404,
+      "otherBeans": 15740.0,
+      "billCount": 17595,
       "accountCount": 10
     },
     {
@@ -5196,13 +5196,13 @@
       "id": "acct-828763",
       "displayName": "Desire 🍒🌾（绑定 051905 云）",
       "countryIso": "BR",
-      "totalBeans": 247785.0,
-      "privateCallBeans": 12635.0,
-      "matchCallBeans": 219840.0,
-      "giftBeans": 9790.0,
+      "totalBeans": 254711.0,
+      "privateCallBeans": 13085.0,
+      "matchCallBeans": 225252.0,
+      "giftBeans": 10104.0,
       "messageBeans": 0.0,
-      "otherBeans": 5520.0,
-      "billCount": 5273,
+      "otherBeans": 6270.0,
+      "billCount": 5433,
       "plannedBeans": 89160,
       "online": false,
       "plans": {
@@ -5515,13 +5515,13 @@
           "billCount": 364
         },
         "2026-05-26": {
-          "totalBeans": 8467.0,
-          "privateCallBeans": 75.0,
-          "matchCallBeans": 8272.0,
-          "giftBeans": 120.0,
+          "totalBeans": 15393.0,
+          "privateCallBeans": 525.0,
+          "matchCallBeans": 13684.0,
+          "giftBeans": 434.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 219
+          "otherBeans": 750.0,
+          "billCount": 379
         }
       }
     },
@@ -5529,13 +5529,13 @@
       "id": "acct-000707",
       "displayName": "Anacosta（br2）",
       "countryIso": "BR",
-      "totalBeans": 225056.0,
+      "totalBeans": 228136.0,
       "privateCallBeans": 14595.0,
-      "matchCallBeans": 194944.0,
+      "matchCallBeans": 198024.0,
       "giftBeans": 7817.0,
       "messageBeans": 0.0,
       "otherBeans": 7700.0,
-      "billCount": 4607,
+      "billCount": 4677,
       "plannedBeans": 80930,
       "online": false,
       "plans": {
@@ -5857,13 +5857,13 @@
           "billCount": 174
         },
         "2026-05-26": {
-          "totalBeans": 12355.0,
+          "totalBeans": 15435.0,
           "privateCallBeans": 900.0,
-          "matchCallBeans": 10808.0,
+          "matchCallBeans": 13888.0,
           "giftBeans": 647.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 267
+          "billCount": 337
         }
       }
     },
@@ -5871,13 +5871,13 @@
       "id": "acct-613550",
       "displayName": "Luna Morena 🌸",
       "countryIso": "BR",
-      "totalBeans": 215500.0,
+      "totalBeans": 216380.0,
       "privateCallBeans": 9490.0,
-      "matchCallBeans": 197516.0,
+      "matchCallBeans": 198396.0,
       "giftBeans": 3194.0,
       "messageBeans": 0.0,
       "otherBeans": 5300.0,
-      "billCount": 4844,
+      "billCount": 4864,
       "plannedBeans": 66460,
       "online": false,
       "plans": {
@@ -6199,13 +6199,13 @@
           "billCount": 430
         },
         "2026-05-26": {
-          "totalBeans": 11507.0,
+          "totalBeans": 12387.0,
           "privateCallBeans": 75.0,
-          "matchCallBeans": 11216.0,
+          "matchCallBeans": 12096.0,
           "giftBeans": 216.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 344
+          "billCount": 364
         }
       }
     },
@@ -6213,13 +6213,13 @@
       "id": "acct-384887",
       "displayName": "NinaC（绑定 051905 云）",
       "countryIso": "BR",
-      "totalBeans": 213386.0,
+      "totalBeans": 214346.0,
       "privateCallBeans": 3755.0,
-      "matchCallBeans": 200080.0,
+      "matchCallBeans": 201040.0,
       "giftBeans": 2421.0,
       "messageBeans": 0.0,
       "otherBeans": 7130.0,
-      "billCount": 5160,
+      "billCount": 5190,
       "plannedBeans": 80420,
       "online": false,
       "plans": {
@@ -6541,13 +6541,13 @@
           "billCount": 161
         },
         "2026-05-26": {
-          "totalBeans": 4250.0,
+          "totalBeans": 5210.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 4240.0,
+          "matchCallBeans": 5200.0,
           "giftBeans": 10.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 126
+          "billCount": 156
         }
       }
     },
@@ -6555,13 +6555,13 @@
       "id": "acct-554338",
       "displayName": "Camila Ugarte（50）",
       "countryIso": "BR",
-      "totalBeans": 181539.0,
+      "totalBeans": 183729.0,
       "privateCallBeans": 1270.0,
-      "matchCallBeans": 172544.0,
+      "matchCallBeans": 174124.0,
       "giftBeans": 3985.0,
       "messageBeans": 0.0,
-      "otherBeans": 3740.0,
-      "billCount": 3437,
+      "otherBeans": 4350.0,
+      "billCount": 3484,
       "plannedBeans": 85060,
       "online": false,
       "plans": {
@@ -6883,13 +6883,13 @@
           "billCount": 440
         },
         "2026-05-26": {
-          "totalBeans": 15494.0,
+          "totalBeans": 17684.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 15464.0,
+          "matchCallBeans": 17044.0,
           "giftBeans": 30.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 331
+          "otherBeans": 610.0,
+          "billCount": 378
         }
       }
     },
@@ -6897,13 +6897,13 @@
       "id": "acct-368036",
       "displayName": "Beauti（Ana Hot）",
       "countryIso": "CO",
-      "totalBeans": 166444.0,
+      "totalBeans": 169833.0,
       "privateCallBeans": 3359.0,
-      "matchCallBeans": 155848.0,
-      "giftBeans": 5377.0,
+      "matchCallBeans": 158456.0,
+      "giftBeans": 5758.0,
       "messageBeans": 0.0,
-      "otherBeans": 1860.0,
-      "billCount": 3791,
+      "otherBeans": 2260.0,
+      "billCount": 3854,
       "plannedBeans": 74820,
       "online": true,
       "plans": {
@@ -7225,13 +7225,13 @@
           "billCount": 430
         },
         "2026-05-26": {
-          "totalBeans": 3006.0,
+          "totalBeans": 6395.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 2996.0,
-          "giftBeans": 10.0,
+          "matchCallBeans": 5604.0,
+          "giftBeans": 391.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 68
+          "otherBeans": 400.0,
+          "billCount": 131
         }
       }
     },
@@ -7239,13 +7239,13 @@
       "id": "acct-394012",
       "displayName": "Nina 🌺（051902）",
       "countryIso": "BR",
-      "totalBeans": 165060.0,
+      "totalBeans": 166244.0,
       "privateCallBeans": 10015.0,
-      "matchCallBeans": 146464.0,
+      "matchCallBeans": 146928.0,
       "giftBeans": 4071.0,
       "messageBeans": 0.0,
-      "otherBeans": 4510.0,
-      "billCount": 3635,
+      "otherBeans": 5230.0,
+      "billCount": 3657,
       "plannedBeans": 67240,
       "online": false,
       "plans": {
@@ -7567,1039 +7567,13 @@
           "billCount": 352
         },
         "2026-05-26": {
-          "totalBeans": 10213.0,
+          "totalBeans": 11397.0,
           "privateCallBeans": 675.0,
-          "matchCallBeans": 9320.0,
+          "matchCallBeans": 9784.0,
           "giftBeans": 218.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 197
-        }
-      }
-    },
-    {
-      "id": "acct-105009",
-      "displayName": "Ruiva（绑定 051906 云）",
-      "countryIso": "BR",
-      "totalBeans": 157426.0,
-      "privateCallBeans": 6535.0,
-      "matchCallBeans": 145508.0,
-      "giftBeans": 323.0,
-      "messageBeans": 0.0,
-      "otherBeans": 5060.0,
-      "billCount": 7797,
-      "plannedBeans": 58860,
-      "online": false,
-      "plans": {
-        "2026-05-22": {
-          "planId": "buffered-2026-05-22_2026-05-24",
-          "dateKey": "2026-05-22",
-          "recordId": "reg-1777558399105009",
-          "uid": "13612328",
-          "email": "hioppi2026@outlook.com",
-          "nickname": "Ruiva",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 11.69,
-          "targetBeans": 11690,
-          "dailyIncomeLimitOverride": 11690,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-22T07:35:00.000Z"
-        },
-        "2026-05-23": {
-          "planId": "rebalance-2026-05-23-400usd",
-          "dateKey": "2026-05-23",
-          "recordId": "reg-1777558399105009",
-          "uid": "13612328",
-          "email": "hioppi2026@outlook.com",
-          "nickname": "Ruiva",
-          "countryIso": "BR",
-          "tier": "",
-          "targetUsd": 10.02,
-          "targetBeans": 10020,
-          "dailyIncomeLimitOverride": 10020,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-23T04:44:30.803854Z"
-        },
-        "2026-05-24": {
-          "planId": "default",
-          "dateKey": "2026-05-24",
-          "recordId": "reg-1777558399105009",
-          "uid": "13612328",
-          "email": "hioppi2026@outlook.com",
-          "nickname": "Ruiva",
-          "countryIso": "BR",
-          "tier": "A",
-          "targetUsd": 7.47,
-          "targetBeans": 7470,
-          "dailyIncomeLimitOverride": 7470,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-24T01:36:33.655396Z"
-        },
-        "2026-05-25": {
-          "planId": "default",
-          "dateKey": "2026-05-25",
-          "recordId": "reg-1777558399105009",
-          "uid": "13612328",
-          "email": "hioppi2026@outlook.com",
-          "nickname": "Ruiva",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 14.84,
-          "targetBeans": 14840,
-          "dailyIncomeLimitOverride": 14840,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-25T04:21:36.850Z"
-        },
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1777558399105009",
-          "uid": "13612328",
-          "email": "hioppi2026@outlook.com",
-          "nickname": "Ruiva",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 14.84,
-          "targetBeans": 14840,
-          "dailyIncomeLimitOverride": 14840,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 14962.0,
-          "privateCallBeans": 1950.0,
-          "matchCallBeans": 13012.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 616
-        },
-        "2026-05-02": {
-          "totalBeans": 13440.0,
-          "privateCallBeans": 1080.0,
-          "matchCallBeans": 12360.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 575
-        },
-        "2026-05-03": {
-          "totalBeans": 15036.0,
-          "privateCallBeans": 420.0,
-          "matchCallBeans": 14596.0,
-          "giftBeans": 20.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 578
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 552.0,
-          "privateCallBeans": 140.0,
-          "matchCallBeans": 412.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 15
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 5834.0,
-          "privateCallBeans": 490.0,
-          "matchCallBeans": 5344.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 253
-        },
-        "2026-05-12": {
-          "totalBeans": 6440.0,
-          "privateCallBeans": 280.0,
-          "matchCallBeans": 5540.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 306
-        },
-        "2026-05-11": {
-          "totalBeans": 5972.0,
-          "privateCallBeans": 630.0,
-          "matchCallBeans": 5032.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 310.0,
-          "billCount": 338
-        },
-        "2026-05-13": {
-          "totalBeans": 5482.0,
-          "privateCallBeans": 490.0,
-          "matchCallBeans": 4912.0,
-          "giftBeans": 30.0,
-          "messageBeans": 0.0,
-          "otherBeans": 50.0,
-          "billCount": 292
-        },
-        "2026-05-14": {
-          "totalBeans": 5118.0,
-          "privateCallBeans": 140.0,
-          "matchCallBeans": 4828.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 150.0,
-          "billCount": 330
-        },
-        "2026-05-15": {
-          "totalBeans": 1072.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 1072.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 74
-        },
-        "2026-05-16": {
-          "totalBeans": 8731.0,
-          "privateCallBeans": 280.0,
-          "matchCallBeans": 7608.0,
-          "giftBeans": 223.0,
-          "messageBeans": 0.0,
-          "otherBeans": 620.0,
-          "billCount": 304
-        },
-        "2026-05-17": {
-          "totalBeans": 9376.0,
-          "privateCallBeans": 70.0,
-          "matchCallBeans": 9296.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 399
-        },
-        "2026-05-18": {
-          "totalBeans": 9722.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 9512.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 210.0,
-          "billCount": 488
-        },
-        "2026-05-19": {
-          "totalBeans": 2016.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 1756.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 260.0,
-          "billCount": 141
-        },
-        "2026-05-20": {
-          "totalBeans": 4758.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 4348.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 410.0,
-          "billCount": 257
-        },
-        "2026-05-21": {
-          "totalBeans": 7712.0,
-          "privateCallBeans": 70.0,
-          "matchCallBeans": 7032.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 407
-        },
-        "2026-05-22": {
-          "totalBeans": 10820.0,
-          "privateCallBeans": 350.0,
-          "matchCallBeans": 9860.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 604
-        },
-        "2026-05-23": {
-          "totalBeans": 10164.0,
-          "privateCallBeans": 70.0,
-          "matchCallBeans": 9484.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 631
-        },
-        "2026-05-24": {
-          "totalBeans": 8386.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 7776.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 364
-        },
-        "2026-05-25": {
-          "totalBeans": 4524.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 4524.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 288
-        },
-        "2026-05-26": {
-          "totalBeans": 7309.0,
-          "privateCallBeans": 75.0,
-          "matchCallBeans": 7204.0,
-          "giftBeans": 30.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 537
-        }
-      }
-    },
-    {
-      "id": "acct-165195",
-      "displayName": "Juna Maglinte（46）",
-      "countryIso": "BR",
-      "totalBeans": 155100.0,
-      "privateCallBeans": 3305.0,
-      "matchCallBeans": 144328.0,
-      "giftBeans": 3647.0,
-      "messageBeans": 0.0,
-      "otherBeans": 3820.0,
-      "billCount": 4552,
-      "plannedBeans": 71910,
-      "online": false,
-      "plans": {
-        "2026-05-22": {
-          "planId": "buffered-2026-05-22_2026-05-24",
-          "dateKey": "2026-05-22",
-          "recordId": "reg-1778602732165195",
-          "uid": "14415249",
-          "email": "beatrizalves142@outlook.com",
-          "nickname": "Juna Maglinte",
-          "countryIso": "BR",
-          "tier": "A",
-          "targetUsd": 17.56,
-          "targetBeans": 17560,
-          "dailyIncomeLimitOverride": 17560,
-          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
-          "ownerMachineLabel": "cicideMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-22T07:35:00.000Z"
-        },
-        "2026-05-23": {
-          "planId": "rebalance-2026-05-23-400usd",
-          "dateKey": "2026-05-23",
-          "recordId": "reg-1778602732165195",
-          "uid": "14415249",
-          "email": "beatrizalves142@outlook.com",
-          "nickname": "Juna Maglinte",
-          "countryIso": "BR",
-          "tier": "",
-          "targetUsd": 9.0,
-          "targetBeans": 9000,
-          "dailyIncomeLimitOverride": 9000,
-          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
-          "ownerMachineLabel": "cicideMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-23T04:44:30.803854Z"
-        },
-        "2026-05-24": {
-          "planId": "default",
-          "dateKey": "2026-05-24",
-          "recordId": "reg-1778602732165195",
-          "uid": "14415249",
-          "email": "beatrizalves142@outlook.com",
-          "nickname": "Juna Maglinte",
-          "countryIso": "BR",
-          "tier": "A",
-          "targetUsd": 8.63,
-          "targetBeans": 8630,
-          "dailyIncomeLimitOverride": 8630,
-          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
-          "ownerMachineLabel": "cicideMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-24T01:36:33.655396Z"
-        },
-        "2026-05-25": {
-          "planId": "default",
-          "dateKey": "2026-05-25",
-          "recordId": "reg-1778602732165195",
-          "uid": "14415249",
-          "email": "beatrizalves142@outlook.com",
-          "nickname": "Juna Maglinte",
-          "countryIso": "BR",
-          "tier": "A",
-          "targetUsd": 18.36,
-          "targetBeans": 18360,
-          "dailyIncomeLimitOverride": 18360,
-          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
-          "ownerMachineLabel": "cicideMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-25T04:21:36.850Z"
-        },
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1778602732165195",
-          "uid": "14415249",
-          "email": "beatrizalves142@outlook.com",
-          "nickname": "Juna Maglinte",
-          "countryIso": "BR",
-          "tier": "A",
-          "targetUsd": 18.36,
-          "targetBeans": 18360,
-          "dailyIncomeLimitOverride": 18360,
-          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
-          "ownerMachineLabel": "cicideMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-11": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-12": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-13": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-14": {
-          "totalBeans": 10433.0,
-          "privateCallBeans": 340.0,
-          "matchCallBeans": 7452.0,
-          "giftBeans": 1091.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1550.0,
-          "billCount": 278
-        },
-        "2026-05-15": {
-          "totalBeans": 3768.0,
-          "privateCallBeans": 120.0,
-          "matchCallBeans": 3648.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 97
-        },
-        "2026-05-16": {
-          "totalBeans": 8668.0,
-          "privateCallBeans": 520.0,
-          "matchCallBeans": 8048.0,
-          "giftBeans": 100.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 222
-        },
-        "2026-05-17": {
-          "totalBeans": 12725.0,
-          "privateCallBeans": 1625.0,
-          "matchCallBeans": 11080.0,
-          "giftBeans": 20.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 361
-        },
-        "2026-05-18": {
-          "totalBeans": 10009.0,
-          "privateCallBeans": 325.0,
-          "matchCallBeans": 9476.0,
-          "giftBeans": 208.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 298
-        },
-        "2026-05-19": {
-          "totalBeans": 8570.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 8520.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 50.0,
-          "billCount": 256
-        },
-        "2026-05-20": {
-          "totalBeans": 15253.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 13900.0,
-          "giftBeans": 503.0,
-          "messageBeans": 0.0,
-          "otherBeans": 850.0,
-          "billCount": 455
-        },
-        "2026-05-21": {
-          "totalBeans": 14099.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 14064.0,
-          "giftBeans": 35.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 410
-        },
-        "2026-05-22": {
-          "totalBeans": 19078.0,
-          "privateCallBeans": 150.0,
-          "matchCallBeans": 18148.0,
-          "giftBeans": 130.0,
-          "messageBeans": 0.0,
-          "otherBeans": 650.0,
-          "billCount": 585
-        },
-        "2026-05-23": {
-          "totalBeans": 9430.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 8532.0,
-          "giftBeans": 178.0,
-          "messageBeans": 0.0,
           "otherBeans": 720.0,
-          "billCount": 236
-        },
-        "2026-05-24": {
-          "totalBeans": 12793.0,
-          "privateCallBeans": 225.0,
-          "matchCallBeans": 11620.0,
-          "giftBeans": 948.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 388
-        },
-        "2026-05-25": {
-          "totalBeans": 15202.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 15084.0,
-          "giftBeans": 118.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 532
-        },
-        "2026-05-26": {
-          "totalBeans": 15072.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 14756.0,
-          "giftBeans": 316.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 434
-        }
-      }
-    },
-    {
-      "id": "acct-132826",
-      "displayName": "Elvis Guerrero（绑定 051904 云）",
-      "countryIso": "VE",
-      "totalBeans": 154358.0,
-      "privateCallBeans": 450.0,
-      "matchCallBeans": 146860.0,
-      "giftBeans": 4638.0,
-      "messageBeans": 0.0,
-      "otherBeans": 2410.0,
-      "billCount": 4096,
-      "plannedBeans": 71170,
-      "online": true,
-      "plans": {
-        "2026-05-22": {
-          "planId": "buffered-2026-05-22_2026-05-24",
-          "dateKey": "2026-05-22",
-          "recordId": "reg-1778515350132826",
-          "uid": "14160034",
-          "email": "enzo2ocha@outlook.com",
-          "nickname": "Elvis Guerrero",
-          "countryIso": "VE",
-          "tier": "A",
-          "targetUsd": 17.82,
-          "targetBeans": 17820,
-          "dailyIncomeLimitOverride": 17820,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "A0CYK",
-          "updatedAt": "2026-05-22T07:35:00.000Z"
-        },
-        "2026-05-23": {
-          "planId": "rebalance-2026-05-23-400usd",
-          "dateKey": "2026-05-23",
-          "recordId": "reg-1778515350132826",
-          "uid": "14160034",
-          "email": "enzo2ocha@outlook.com",
-          "nickname": "Elvis Guerrero",
-          "countryIso": "VE",
-          "tier": "",
-          "targetUsd": 13.44,
-          "targetBeans": 13440,
-          "dailyIncomeLimitOverride": 13440,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "A0CYK",
-          "updatedAt": "2026-05-23T04:44:30.803854Z"
-        },
-        "2026-05-24": {
-          "planId": "default",
-          "dateKey": "2026-05-24",
-          "recordId": "reg-1778515350132826",
-          "uid": "14160034",
-          "email": "enzo2ocha@outlook.com",
-          "nickname": "Elvis Guerrero",
-          "countryIso": "VE",
-          "tier": "A",
-          "targetUsd": 7.91,
-          "targetBeans": 7910,
-          "dailyIncomeLimitOverride": 7910,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "A0CYK",
-          "updatedAt": "2026-05-24T01:36:33.655396Z"
-        },
-        "2026-05-25": {
-          "planId": "default",
-          "dateKey": "2026-05-25",
-          "recordId": "reg-1778515350132826",
-          "uid": "14160034",
-          "email": "enzo2ocha@outlook.com",
-          "nickname": "Elvis Guerrero",
-          "countryIso": "VE",
-          "tier": "A",
-          "targetUsd": 16.0,
-          "targetBeans": 16000,
-          "dailyIncomeLimitOverride": 16000,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "A0CYK",
-          "updatedAt": "2026-05-25T04:21:36.850Z"
-        },
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1778515350132826",
-          "uid": "14160034",
-          "email": "enzo2ocha@outlook.com",
-          "nickname": "Elvis Guerrero",
-          "countryIso": "VE",
-          "tier": "A",
-          "targetUsd": 16.0,
-          "targetBeans": 16000,
-          "dailyIncomeLimitOverride": 16000,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "A0CYK",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-01": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-02": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-03": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-04": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-05": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-06": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-07": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-08": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-09": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-10": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-12": {
-          "totalBeans": 10364.0,
-          "privateCallBeans": 285.0,
-          "matchCallBeans": 9760.0,
-          "giftBeans": 319.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 312
-        },
-        "2026-05-11": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-13": {
-          "totalBeans": 7437.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 6744.0,
-          "giftBeans": 143.0,
-          "messageBeans": 0.0,
-          "otherBeans": 550.0,
-          "billCount": 178
-        },
-        "2026-05-14": {
-          "totalBeans": 7855.0,
-          "privateCallBeans": 165.0,
-          "matchCallBeans": 7680.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 183
-        },
-        "2026-05-15": {
-          "totalBeans": 4337.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 4312.0,
-          "giftBeans": 25.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 105
-        },
-        "2026-05-16": {
-          "totalBeans": 9378.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 8684.0,
-          "giftBeans": 694.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 203
-        },
-        "2026-05-17": {
-          "totalBeans": 12302.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 12008.0,
-          "giftBeans": 294.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 214
-        },
-        "2026-05-18": {
-          "totalBeans": 12198.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 11792.0,
-          "giftBeans": 406.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 398
-        },
-        "2026-05-19": {
-          "totalBeans": 3089.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 2656.0,
-          "giftBeans": 173.0,
-          "messageBeans": 0.0,
-          "otherBeans": 260.0,
-          "billCount": 84
-        },
-        "2026-05-20": {
-          "totalBeans": 12328.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 11708.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 294
-        },
-        "2026-05-21": {
-          "totalBeans": 16550.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 15288.0,
-          "giftBeans": 722.0,
-          "messageBeans": 0.0,
-          "otherBeans": 540.0,
-          "billCount": 457
-        },
-        "2026-05-22": {
-          "totalBeans": 11406.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 10940.0,
-          "giftBeans": 466.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 389
-        },
-        "2026-05-23": {
-          "totalBeans": 13531.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 12948.0,
-          "giftBeans": 133.0,
-          "messageBeans": 0.0,
-          "otherBeans": 450.0,
-          "billCount": 360
-        },
-        "2026-05-24": {
-          "totalBeans": 11149.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 10816.0,
-          "giftBeans": 333.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 266
-        },
-        "2026-05-25": {
-          "totalBeans": 15288.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 14972.0,
-          "giftBeans": 316.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 476
-        },
-        "2026-05-26": {
-          "totalBeans": 7146.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 6552.0,
-          "giftBeans": 594.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 177
+          "billCount": 219
         }
       }
     },
@@ -8607,13 +7581,13 @@
       "id": "acct-798876",
       "displayName": "MeL（051909）",
       "countryIso": "BR",
-      "totalBeans": 153731.0,
+      "totalBeans": 160412.0,
       "privateCallBeans": 3675.0,
-      "matchCallBeans": 142032.0,
-      "giftBeans": 4594.0,
+      "matchCallBeans": 147592.0,
+      "giftBeans": 4965.0,
       "messageBeans": 0.0,
-      "otherBeans": 3430.0,
-      "billCount": 1950,
+      "otherBeans": 4180.0,
+      "billCount": 2042,
       "plannedBeans": 79690,
       "online": false,
       "plans": {
@@ -8935,13 +7909,1039 @@
           "billCount": 276
         },
         "2026-05-26": {
-          "totalBeans": 7946.0,
+          "totalBeans": 14627.0,
           "privateCallBeans": 150.0,
-          "matchCallBeans": 7796.0,
+          "matchCallBeans": 13356.0,
+          "giftBeans": 371.0,
+          "messageBeans": 0.0,
+          "otherBeans": 750.0,
+          "billCount": 220
+        }
+      }
+    },
+    {
+      "id": "acct-105009",
+      "displayName": "Ruiva（绑定 051906 云）",
+      "countryIso": "BR",
+      "totalBeans": 158620.0,
+      "privateCallBeans": 6535.0,
+      "matchCallBeans": 146192.0,
+      "giftBeans": 323.0,
+      "messageBeans": 0.0,
+      "otherBeans": 5570.0,
+      "billCount": 7867,
+      "plannedBeans": 58860,
+      "online": false,
+      "plans": {
+        "2026-05-22": {
+          "planId": "buffered-2026-05-22_2026-05-24",
+          "dateKey": "2026-05-22",
+          "recordId": "reg-1777558399105009",
+          "uid": "13612328",
+          "email": "hioppi2026@outlook.com",
+          "nickname": "Ruiva",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 11.69,
+          "targetBeans": 11690,
+          "dailyIncomeLimitOverride": 11690,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "lyxrG",
+          "updatedAt": "2026-05-22T07:35:00.000Z"
+        },
+        "2026-05-23": {
+          "planId": "rebalance-2026-05-23-400usd",
+          "dateKey": "2026-05-23",
+          "recordId": "reg-1777558399105009",
+          "uid": "13612328",
+          "email": "hioppi2026@outlook.com",
+          "nickname": "Ruiva",
+          "countryIso": "BR",
+          "tier": "",
+          "targetUsd": 10.02,
+          "targetBeans": 10020,
+          "dailyIncomeLimitOverride": 10020,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "lyxrG",
+          "updatedAt": "2026-05-23T04:44:30.803854Z"
+        },
+        "2026-05-24": {
+          "planId": "default",
+          "dateKey": "2026-05-24",
+          "recordId": "reg-1777558399105009",
+          "uid": "13612328",
+          "email": "hioppi2026@outlook.com",
+          "nickname": "Ruiva",
+          "countryIso": "BR",
+          "tier": "A",
+          "targetUsd": 7.47,
+          "targetBeans": 7470,
+          "dailyIncomeLimitOverride": 7470,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "lyxrG",
+          "updatedAt": "2026-05-24T01:36:33.655396Z"
+        },
+        "2026-05-25": {
+          "planId": "default",
+          "dateKey": "2026-05-25",
+          "recordId": "reg-1777558399105009",
+          "uid": "13612328",
+          "email": "hioppi2026@outlook.com",
+          "nickname": "Ruiva",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 14.84,
+          "targetBeans": 14840,
+          "dailyIncomeLimitOverride": 14840,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "lyxrG",
+          "updatedAt": "2026-05-25T04:21:36.850Z"
+        },
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1777558399105009",
+          "uid": "13612328",
+          "email": "hioppi2026@outlook.com",
+          "nickname": "Ruiva",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 14.84,
+          "targetBeans": 14840,
+          "dailyIncomeLimitOverride": 14840,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "lyxrG",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 14962.0,
+          "privateCallBeans": 1950.0,
+          "matchCallBeans": 13012.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 128
+          "billCount": 616
+        },
+        "2026-05-02": {
+          "totalBeans": 13440.0,
+          "privateCallBeans": 1080.0,
+          "matchCallBeans": 12360.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 575
+        },
+        "2026-05-03": {
+          "totalBeans": 15036.0,
+          "privateCallBeans": 420.0,
+          "matchCallBeans": 14596.0,
+          "giftBeans": 20.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 578
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 552.0,
+          "privateCallBeans": 140.0,
+          "matchCallBeans": 412.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 15
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 5834.0,
+          "privateCallBeans": 490.0,
+          "matchCallBeans": 5344.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 253
+        },
+        "2026-05-12": {
+          "totalBeans": 6440.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 5540.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 306
+        },
+        "2026-05-11": {
+          "totalBeans": 5972.0,
+          "privateCallBeans": 630.0,
+          "matchCallBeans": 5032.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 310.0,
+          "billCount": 338
+        },
+        "2026-05-13": {
+          "totalBeans": 5482.0,
+          "privateCallBeans": 490.0,
+          "matchCallBeans": 4912.0,
+          "giftBeans": 30.0,
+          "messageBeans": 0.0,
+          "otherBeans": 50.0,
+          "billCount": 292
+        },
+        "2026-05-14": {
+          "totalBeans": 5118.0,
+          "privateCallBeans": 140.0,
+          "matchCallBeans": 4828.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 150.0,
+          "billCount": 330
+        },
+        "2026-05-15": {
+          "totalBeans": 1072.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1072.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 74
+        },
+        "2026-05-16": {
+          "totalBeans": 8731.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 7608.0,
+          "giftBeans": 223.0,
+          "messageBeans": 0.0,
+          "otherBeans": 620.0,
+          "billCount": 304
+        },
+        "2026-05-17": {
+          "totalBeans": 9376.0,
+          "privateCallBeans": 70.0,
+          "matchCallBeans": 9296.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 399
+        },
+        "2026-05-18": {
+          "totalBeans": 9722.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9512.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 210.0,
+          "billCount": 488
+        },
+        "2026-05-19": {
+          "totalBeans": 2016.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1756.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 260.0,
+          "billCount": 141
+        },
+        "2026-05-20": {
+          "totalBeans": 4758.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 4348.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 410.0,
+          "billCount": 257
+        },
+        "2026-05-21": {
+          "totalBeans": 7712.0,
+          "privateCallBeans": 70.0,
+          "matchCallBeans": 7032.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 407
+        },
+        "2026-05-22": {
+          "totalBeans": 10820.0,
+          "privateCallBeans": 350.0,
+          "matchCallBeans": 9860.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 604
+        },
+        "2026-05-23": {
+          "totalBeans": 10164.0,
+          "privateCallBeans": 70.0,
+          "matchCallBeans": 9484.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 631
+        },
+        "2026-05-24": {
+          "totalBeans": 8386.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 7776.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 364
+        },
+        "2026-05-25": {
+          "totalBeans": 4524.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 4524.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 288
+        },
+        "2026-05-26": {
+          "totalBeans": 8503.0,
+          "privateCallBeans": 75.0,
+          "matchCallBeans": 7888.0,
+          "giftBeans": 30.0,
+          "messageBeans": 0.0,
+          "otherBeans": 510.0,
+          "billCount": 607
+        }
+      }
+    },
+    {
+      "id": "acct-165195",
+      "displayName": "Juna Maglinte（46）",
+      "countryIso": "BR",
+      "totalBeans": 156559.0,
+      "privateCallBeans": 3380.0,
+      "matchCallBeans": 145712.0,
+      "giftBeans": 3647.0,
+      "messageBeans": 0.0,
+      "otherBeans": 3820.0,
+      "billCount": 4606,
+      "plannedBeans": 71910,
+      "online": false,
+      "plans": {
+        "2026-05-22": {
+          "planId": "buffered-2026-05-22_2026-05-24",
+          "dateKey": "2026-05-22",
+          "recordId": "reg-1778602732165195",
+          "uid": "14415249",
+          "email": "beatrizalves142@outlook.com",
+          "nickname": "Juna Maglinte",
+          "countryIso": "BR",
+          "tier": "A",
+          "targetUsd": 17.56,
+          "targetBeans": 17560,
+          "dailyIncomeLimitOverride": 17560,
+          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
+          "ownerMachineLabel": "cicideMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-22T07:35:00.000Z"
+        },
+        "2026-05-23": {
+          "planId": "rebalance-2026-05-23-400usd",
+          "dateKey": "2026-05-23",
+          "recordId": "reg-1778602732165195",
+          "uid": "14415249",
+          "email": "beatrizalves142@outlook.com",
+          "nickname": "Juna Maglinte",
+          "countryIso": "BR",
+          "tier": "",
+          "targetUsd": 9.0,
+          "targetBeans": 9000,
+          "dailyIncomeLimitOverride": 9000,
+          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
+          "ownerMachineLabel": "cicideMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-23T04:44:30.803854Z"
+        },
+        "2026-05-24": {
+          "planId": "default",
+          "dateKey": "2026-05-24",
+          "recordId": "reg-1778602732165195",
+          "uid": "14415249",
+          "email": "beatrizalves142@outlook.com",
+          "nickname": "Juna Maglinte",
+          "countryIso": "BR",
+          "tier": "A",
+          "targetUsd": 8.63,
+          "targetBeans": 8630,
+          "dailyIncomeLimitOverride": 8630,
+          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
+          "ownerMachineLabel": "cicideMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-24T01:36:33.655396Z"
+        },
+        "2026-05-25": {
+          "planId": "default",
+          "dateKey": "2026-05-25",
+          "recordId": "reg-1778602732165195",
+          "uid": "14415249",
+          "email": "beatrizalves142@outlook.com",
+          "nickname": "Juna Maglinte",
+          "countryIso": "BR",
+          "tier": "A",
+          "targetUsd": 18.36,
+          "targetBeans": 18360,
+          "dailyIncomeLimitOverride": 18360,
+          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
+          "ownerMachineLabel": "cicideMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-25T04:21:36.850Z"
+        },
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1778602732165195",
+          "uid": "14415249",
+          "email": "beatrizalves142@outlook.com",
+          "nickname": "Juna Maglinte",
+          "countryIso": "BR",
+          "tier": "A",
+          "targetUsd": 18.36,
+          "targetBeans": 18360,
+          "dailyIncomeLimitOverride": 18360,
+          "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
+          "ownerMachineLabel": "cicideMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-13": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-14": {
+          "totalBeans": 10433.0,
+          "privateCallBeans": 340.0,
+          "matchCallBeans": 7452.0,
+          "giftBeans": 1091.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1550.0,
+          "billCount": 278
+        },
+        "2026-05-15": {
+          "totalBeans": 3768.0,
+          "privateCallBeans": 120.0,
+          "matchCallBeans": 3648.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 97
+        },
+        "2026-05-16": {
+          "totalBeans": 8668.0,
+          "privateCallBeans": 520.0,
+          "matchCallBeans": 8048.0,
+          "giftBeans": 100.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 222
+        },
+        "2026-05-17": {
+          "totalBeans": 12725.0,
+          "privateCallBeans": 1625.0,
+          "matchCallBeans": 11080.0,
+          "giftBeans": 20.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 361
+        },
+        "2026-05-18": {
+          "totalBeans": 10009.0,
+          "privateCallBeans": 325.0,
+          "matchCallBeans": 9476.0,
+          "giftBeans": 208.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 298
+        },
+        "2026-05-19": {
+          "totalBeans": 8570.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 8520.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 50.0,
+          "billCount": 256
+        },
+        "2026-05-20": {
+          "totalBeans": 15253.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 13900.0,
+          "giftBeans": 503.0,
+          "messageBeans": 0.0,
+          "otherBeans": 850.0,
+          "billCount": 455
+        },
+        "2026-05-21": {
+          "totalBeans": 14099.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 14064.0,
+          "giftBeans": 35.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 410
+        },
+        "2026-05-22": {
+          "totalBeans": 19078.0,
+          "privateCallBeans": 150.0,
+          "matchCallBeans": 18148.0,
+          "giftBeans": 130.0,
+          "messageBeans": 0.0,
+          "otherBeans": 650.0,
+          "billCount": 585
+        },
+        "2026-05-23": {
+          "totalBeans": 9430.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 8532.0,
+          "giftBeans": 178.0,
+          "messageBeans": 0.0,
+          "otherBeans": 720.0,
+          "billCount": 236
+        },
+        "2026-05-24": {
+          "totalBeans": 12793.0,
+          "privateCallBeans": 225.0,
+          "matchCallBeans": 11620.0,
+          "giftBeans": 948.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 388
+        },
+        "2026-05-25": {
+          "totalBeans": 15202.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 15084.0,
+          "giftBeans": 118.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 532
+        },
+        "2026-05-26": {
+          "totalBeans": 16531.0,
+          "privateCallBeans": 75.0,
+          "matchCallBeans": 16140.0,
+          "giftBeans": 316.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 488
+        }
+      }
+    },
+    {
+      "id": "acct-132826",
+      "displayName": "Elvis Guerrero（绑定 051904 云）",
+      "countryIso": "VE",
+      "totalBeans": 155744.0,
+      "privateCallBeans": 840.0,
+      "matchCallBeans": 147216.0,
+      "giftBeans": 4638.0,
+      "messageBeans": 0.0,
+      "otherBeans": 3050.0,
+      "billCount": 4113,
+      "plannedBeans": 71170,
+      "online": true,
+      "plans": {
+        "2026-05-22": {
+          "planId": "buffered-2026-05-22_2026-05-24",
+          "dateKey": "2026-05-22",
+          "recordId": "reg-1778515350132826",
+          "uid": "14160034",
+          "email": "enzo2ocha@outlook.com",
+          "nickname": "Elvis Guerrero",
+          "countryIso": "VE",
+          "tier": "A",
+          "targetUsd": 17.82,
+          "targetBeans": 17820,
+          "dailyIncomeLimitOverride": 17820,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "A0CYK",
+          "updatedAt": "2026-05-22T07:35:00.000Z"
+        },
+        "2026-05-23": {
+          "planId": "rebalance-2026-05-23-400usd",
+          "dateKey": "2026-05-23",
+          "recordId": "reg-1778515350132826",
+          "uid": "14160034",
+          "email": "enzo2ocha@outlook.com",
+          "nickname": "Elvis Guerrero",
+          "countryIso": "VE",
+          "tier": "",
+          "targetUsd": 13.44,
+          "targetBeans": 13440,
+          "dailyIncomeLimitOverride": 13440,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "A0CYK",
+          "updatedAt": "2026-05-23T04:44:30.803854Z"
+        },
+        "2026-05-24": {
+          "planId": "default",
+          "dateKey": "2026-05-24",
+          "recordId": "reg-1778515350132826",
+          "uid": "14160034",
+          "email": "enzo2ocha@outlook.com",
+          "nickname": "Elvis Guerrero",
+          "countryIso": "VE",
+          "tier": "A",
+          "targetUsd": 7.91,
+          "targetBeans": 7910,
+          "dailyIncomeLimitOverride": 7910,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "A0CYK",
+          "updatedAt": "2026-05-24T01:36:33.655396Z"
+        },
+        "2026-05-25": {
+          "planId": "default",
+          "dateKey": "2026-05-25",
+          "recordId": "reg-1778515350132826",
+          "uid": "14160034",
+          "email": "enzo2ocha@outlook.com",
+          "nickname": "Elvis Guerrero",
+          "countryIso": "VE",
+          "tier": "A",
+          "targetUsd": 16.0,
+          "targetBeans": 16000,
+          "dailyIncomeLimitOverride": 16000,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "A0CYK",
+          "updatedAt": "2026-05-25T04:21:36.850Z"
+        },
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1778515350132826",
+          "uid": "14160034",
+          "email": "enzo2ocha@outlook.com",
+          "nickname": "Elvis Guerrero",
+          "countryIso": "VE",
+          "tier": "A",
+          "targetUsd": 16.0,
+          "targetBeans": 16000,
+          "dailyIncomeLimitOverride": 16000,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "A0CYK",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-01": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-02": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-03": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-04": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-05": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-06": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-07": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-08": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-09": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-10": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-12": {
+          "totalBeans": 10364.0,
+          "privateCallBeans": 285.0,
+          "matchCallBeans": 9760.0,
+          "giftBeans": 319.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 312
+        },
+        "2026-05-11": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-13": {
+          "totalBeans": 7437.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6744.0,
+          "giftBeans": 143.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 178
+        },
+        "2026-05-14": {
+          "totalBeans": 7855.0,
+          "privateCallBeans": 165.0,
+          "matchCallBeans": 7680.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 183
+        },
+        "2026-05-15": {
+          "totalBeans": 4337.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 4312.0,
+          "giftBeans": 25.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 105
+        },
+        "2026-05-16": {
+          "totalBeans": 9378.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 8684.0,
+          "giftBeans": 694.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 203
+        },
+        "2026-05-17": {
+          "totalBeans": 12302.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 12008.0,
+          "giftBeans": 294.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 214
+        },
+        "2026-05-18": {
+          "totalBeans": 12198.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 11792.0,
+          "giftBeans": 406.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 398
+        },
+        "2026-05-19": {
+          "totalBeans": 3089.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2656.0,
+          "giftBeans": 173.0,
+          "messageBeans": 0.0,
+          "otherBeans": 260.0,
+          "billCount": 84
+        },
+        "2026-05-20": {
+          "totalBeans": 12328.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 11708.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 294
+        },
+        "2026-05-21": {
+          "totalBeans": 16550.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 15288.0,
+          "giftBeans": 722.0,
+          "messageBeans": 0.0,
+          "otherBeans": 540.0,
+          "billCount": 457
+        },
+        "2026-05-22": {
+          "totalBeans": 11406.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 10940.0,
+          "giftBeans": 466.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 389
+        },
+        "2026-05-23": {
+          "totalBeans": 13531.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 12948.0,
+          "giftBeans": 133.0,
+          "messageBeans": 0.0,
+          "otherBeans": 450.0,
+          "billCount": 360
+        },
+        "2026-05-24": {
+          "totalBeans": 11149.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 10816.0,
+          "giftBeans": 333.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 266
+        },
+        "2026-05-25": {
+          "totalBeans": 15288.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 14972.0,
+          "giftBeans": 316.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 476
+        },
+        "2026-05-26": {
+          "totalBeans": 8532.0,
+          "privateCallBeans": 390.0,
+          "matchCallBeans": 6908.0,
+          "giftBeans": 594.0,
+          "messageBeans": 0.0,
+          "otherBeans": 640.0,
+          "billCount": 194
         }
       }
     },
@@ -8949,13 +8949,13 @@
       "id": "acct-762884",
       "displayName": "Rosal（35）",
       "countryIso": "BR",
-      "totalBeans": 148535.0,
+      "totalBeans": 151439.0,
       "privateCallBeans": 1290.0,
-      "matchCallBeans": 141364.0,
-      "giftBeans": 2241.0,
+      "matchCallBeans": 143408.0,
+      "giftBeans": 2251.0,
       "messageBeans": 0.0,
-      "otherBeans": 3640.0,
-      "billCount": 4446,
+      "otherBeans": 4490.0,
+      "billCount": 4510,
       "plannedBeans": 70770,
       "online": false,
       "plans": {
@@ -9169,13 +9169,13 @@
           "billCount": 520
         },
         "2026-05-26": {
-          "totalBeans": 14598.0,
+          "totalBeans": 17502.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 14124.0,
-          "giftBeans": 474.0,
+          "matchCallBeans": 16168.0,
+          "giftBeans": 484.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 459
+          "otherBeans": 850.0,
+          "billCount": 523
         }
       }
     },
@@ -9183,13 +9183,13 @@
       "id": "acct-460605",
       "displayName": "Tammi（31）",
       "countryIso": "VE",
-      "totalBeans": 147832.0,
+      "totalBeans": 150544.0,
       "privateCallBeans": 555.0,
-      "matchCallBeans": 142456.0,
+      "matchCallBeans": 144348.0,
       "giftBeans": 2161.0,
       "messageBeans": 0.0,
-      "otherBeans": 2660.0,
-      "billCount": 4377,
+      "otherBeans": 3480.0,
+      "billCount": 4435,
       "plannedBeans": 68500,
       "online": false,
       "plans": {
@@ -9403,13 +9403,13 @@
           "billCount": 552
         },
         "2026-05-26": {
-          "totalBeans": 13454.0,
+          "totalBeans": 16166.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 13296.0,
+          "matchCallBeans": 15188.0,
           "giftBeans": 158.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 449
+          "otherBeans": 820.0,
+          "billCount": 507
         }
       }
     },
@@ -9417,13 +9417,13 @@
       "id": "acct-692044",
       "displayName": "Leidy oerez（40）",
       "countryIso": "BR",
-      "totalBeans": 146424.0,
+      "totalBeans": 147244.0,
       "privateCallBeans": 4220.0,
       "matchCallBeans": 132820.0,
       "giftBeans": 5314.0,
       "messageBeans": 0.0,
-      "otherBeans": 4070.0,
-      "billCount": 3840,
+      "otherBeans": 4890.0,
+      "billCount": 3849,
       "plannedBeans": 67020,
       "online": false,
       "plans": {
@@ -9745,13 +9745,13 @@
           "billCount": 469
         },
         "2026-05-26": {
-          "totalBeans": 15560.0,
+          "totalBeans": 16380.0,
           "privateCallBeans": 1200.0,
           "matchCallBeans": 14252.0,
           "giftBeans": 108.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 489
+          "otherBeans": 820.0,
+          "billCount": 498
         }
       }
     },
@@ -10038,13 +10038,13 @@
       "id": "acct-065870",
       "displayName": "jissa（48）",
       "countryIso": "CO",
-      "totalBeans": 128587.0,
+      "totalBeans": 130955.0,
       "privateCallBeans": 1270.0,
-      "matchCallBeans": 119340.0,
+      "matchCallBeans": 121008.0,
       "giftBeans": 5557.0,
       "messageBeans": 0.0,
-      "otherBeans": 2420.0,
-      "billCount": 2945,
+      "otherBeans": 3120.0,
+      "billCount": 3006,
       "plannedBeans": 59010,
       "online": false,
       "plans": {
@@ -10366,13 +10366,13 @@
           "billCount": 355
         },
         "2026-05-26": {
-          "totalBeans": 13069.0,
+          "totalBeans": 15437.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 12436.0,
+          "matchCallBeans": 14104.0,
           "giftBeans": 633.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 335
+          "otherBeans": 700.0,
+          "billCount": 396
         }
       }
     },
@@ -10380,13 +10380,13 @@
       "id": "acct-144312",
       "displayName": "Rosa Tropical 🌺（5 月 26 号提现后废弃）",
       "countryIso": "CO",
-      "totalBeans": 125368.0,
+      "totalBeans": 126360.0,
       "privateCallBeans": 945.0,
-      "matchCallBeans": 121148.0,
+      "matchCallBeans": 121240.0,
       "giftBeans": 1605.0,
       "messageBeans": 0.0,
-      "otherBeans": 1670.0,
-      "billCount": 2659,
+      "otherBeans": 2570.0,
+      "billCount": 2674,
       "plannedBeans": 6000,
       "online": false,
       "plans": {
@@ -10636,13 +10636,13 @@
           "billCount": 353
         },
         "2026-05-26": {
-          "totalBeans": 10508.0,
+          "totalBeans": 11500.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 10508.0,
+          "matchCallBeans": 10600.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 421
+          "otherBeans": 900.0,
+          "billCount": 436
         }
       }
     },
@@ -10650,13 +10650,13 @@
       "id": "acct-546605",
       "displayName": "ABBY（30）",
       "countryIso": "VE",
-      "totalBeans": 124578.0,
+      "totalBeans": 126004.0,
       "privateCallBeans": 831.0,
-      "matchCallBeans": 117544.0,
+      "matchCallBeans": 118160.0,
       "giftBeans": 3323.0,
       "messageBeans": 0.0,
-      "otherBeans": 2880.0,
-      "billCount": 3323,
+      "otherBeans": 3690.0,
+      "billCount": 3348,
       "plannedBeans": 57000,
       "online": false,
       "plans": {
@@ -10870,13 +10870,13 @@
           "billCount": 432
         },
         "2026-05-26": {
-          "totalBeans": 13202.0,
+          "totalBeans": 14628.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 13132.0,
+          "matchCallBeans": 13748.0,
           "giftBeans": 70.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 408
+          "otherBeans": 810.0,
+          "billCount": 433
         }
       }
     },
@@ -10884,13 +10884,13 @@
       "id": "acct-300906",
       "displayName": "Nina Glow（绑定 051906 云）",
       "countryIso": "BR",
-      "totalBeans": 121480.0,
+      "totalBeans": 125825.0,
       "privateCallBeans": 2675.0,
-      "matchCallBeans": 109592.0,
-      "giftBeans": 5503.0,
+      "matchCallBeans": 113804.0,
+      "giftBeans": 5636.0,
       "messageBeans": 0.0,
       "otherBeans": 3710.0,
-      "billCount": 1824,
+      "billCount": 1897,
       "plannedBeans": 74780,
       "online": false,
       "plans": {
@@ -11212,13 +11212,13 @@
           "billCount": 195
         },
         "2026-05-26": {
-          "totalBeans": 11463.0,
+          "totalBeans": 15808.0,
           "privateCallBeans": 525.0,
-          "matchCallBeans": 10292.0,
-          "giftBeans": 646.0,
+          "matchCallBeans": 14504.0,
+          "giftBeans": 779.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 164
+          "billCount": 237
         }
       }
     },
@@ -11226,13 +11226,13 @@
       "id": "acct-447836",
       "displayName": "Flor da（051908）",
       "countryIso": "BR",
-      "totalBeans": 106816.0,
-      "privateCallBeans": 5765.0,
-      "matchCallBeans": 96500.0,
-      "giftBeans": 2251.0,
+      "totalBeans": 112723.0,
+      "privateCallBeans": 6065.0,
+      "matchCallBeans": 101612.0,
+      "giftBeans": 2296.0,
       "messageBeans": 0.0,
-      "otherBeans": 2300.0,
-      "billCount": 2100,
+      "otherBeans": 2750.0,
+      "billCount": 2208,
       "plannedBeans": 64940,
       "online": false,
       "plans": {
@@ -11554,13 +11554,13 @@
           "billCount": 325
         },
         "2026-05-26": {
-          "totalBeans": 5268.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 5268.0,
-          "giftBeans": 0.0,
+          "totalBeans": 11175.0,
+          "privateCallBeans": 300.0,
+          "matchCallBeans": 10380.0,
+          "giftBeans": 45.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 111
+          "otherBeans": 450.0,
+          "billCount": 219
         }
       }
     },
@@ -11568,13 +11568,13 @@
       "id": "acct-442654",
       "displayName": "Gabi Doce（051910）",
       "countryIso": "BR",
-      "totalBeans": 101143.0,
+      "totalBeans": 106958.0,
       "privateCallBeans": 2930.0,
-      "matchCallBeans": 91280.0,
-      "giftBeans": 3913.0,
+      "matchCallBeans": 96540.0,
+      "giftBeans": 3948.0,
       "messageBeans": 0.0,
-      "otherBeans": 3020.0,
-      "billCount": 1143,
+      "otherBeans": 3540.0,
+      "billCount": 1202,
       "plannedBeans": 66070,
       "online": true,
       "plans": {
@@ -11896,13 +11896,13 @@
           "billCount": 185
         },
         "2026-05-26": {
-          "totalBeans": 7709.0,
+          "totalBeans": 13524.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 7536.0,
-          "giftBeans": 173.0,
+          "matchCallBeans": 12796.0,
+          "giftBeans": 208.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 77
+          "otherBeans": 520.0,
+          "billCount": 136
         }
       }
     },
@@ -11910,13 +11910,13 @@
       "id": "acct-531982",
       "displayName": "Hiraly（绑定 xxx 云）",
       "countryIso": "BR",
-      "totalBeans": 100031.0,
-      "privateCallBeans": 935.0,
-      "matchCallBeans": 93612.0,
+      "totalBeans": 101669.0,
+      "privateCallBeans": 1235.0,
+      "matchCallBeans": 94340.0,
       "giftBeans": 744.0,
       "messageBeans": 0.0,
-      "otherBeans": 4740.0,
-      "billCount": 5299,
+      "otherBeans": 5350.0,
+      "billCount": 5354,
       "plannedBeans": 57180,
       "online": false,
       "plans": {
@@ -12238,13 +12238,13 @@
           "billCount": 314
         },
         "2026-05-26": {
-          "totalBeans": 8491.0,
-          "privateCallBeans": 75.0,
-          "matchCallBeans": 8396.0,
+          "totalBeans": 10129.0,
+          "privateCallBeans": 375.0,
+          "matchCallBeans": 9124.0,
           "giftBeans": 20.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 520
+          "otherBeans": 610.0,
+          "billCount": 575
         }
       }
     },
@@ -12252,13 +12252,13 @@
       "id": "acct-441636",
       "displayName": "Aisha（38）",
       "countryIso": "VE",
-      "totalBeans": 94103.0,
+      "totalBeans": 96457.0,
       "privateCallBeans": 555.0,
-      "matchCallBeans": 89116.0,
+      "matchCallBeans": 90660.0,
       "giftBeans": 1772.0,
       "messageBeans": 0.0,
-      "otherBeans": 2660.0,
-      "billCount": 4020,
+      "otherBeans": 3470.0,
+      "billCount": 4101,
       "plannedBeans": 48580,
       "online": false,
       "plans": {
@@ -12580,13 +12580,13 @@
           "billCount": 517
         },
         "2026-05-26": {
-          "totalBeans": 4924.0,
+          "totalBeans": 7278.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 4924.0,
+          "matchCallBeans": 6468.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 233
+          "otherBeans": 810.0,
+          "billCount": 314
         }
       }
     },
@@ -12594,13 +12594,13 @@
       "id": "acct-029272",
       "displayName": "Sandry Beleno（51）",
       "countryIso": "BR",
-      "totalBeans": 91243.0,
+      "totalBeans": 92811.0,
       "privateCallBeans": 920.0,
-      "matchCallBeans": 86800.0,
+      "matchCallBeans": 87548.0,
       "giftBeans": 193.0,
       "messageBeans": 0.0,
-      "otherBeans": 3330.0,
-      "billCount": 5163,
+      "otherBeans": 4150.0,
+      "billCount": 5228,
       "plannedBeans": 45680,
       "online": false,
       "plans": {
@@ -12922,13 +12922,13 @@
           "billCount": 499
         },
         "2026-05-26": {
-          "totalBeans": 6856.0,
+          "totalBeans": 8424.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 6708.0,
+          "matchCallBeans": 7456.0,
           "giftBeans": 148.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 337
+          "otherBeans": 820.0,
+          "billCount": 402
         }
       }
     },
@@ -13135,6 +13135,546 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 416
+        }
+      }
+    },
+    {
+      "id": "acct-738745",
+      "displayName": "Laura Zabala（051906）",
+      "countryIso": "BR",
+      "totalBeans": 87806.0,
+      "privateCallBeans": 4660.0,
+      "matchCallBeans": 80036.0,
+      "giftBeans": 1510.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1600.0,
+      "billCount": 2371,
+      "plannedBeans": 55990,
+      "online": true,
+      "plans": {
+        "2026-05-22": {
+          "planId": "buffered-2026-05-22_2026-05-24",
+          "dateKey": "2026-05-22",
+          "recordId": "reg-1779195481738745",
+          "uid": "14804028",
+          "email": "EourhAmufo184418@outlook.com",
+          "nickname": "Laura Zabala",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 12.38,
+          "targetBeans": 12380,
+          "dailyIncomeLimitOverride": 12380,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "dEXc9",
+          "updatedAt": "2026-05-22T07:35:00.000Z"
+        },
+        "2026-05-23": {
+          "planId": "rebalance-2026-05-23-400usd",
+          "dateKey": "2026-05-23",
+          "recordId": "reg-1779195481738745",
+          "uid": "14804028",
+          "email": "EourhAmufo184418@outlook.com",
+          "nickname": "Laura Zabala",
+          "countryIso": "BR",
+          "tier": "",
+          "targetUsd": 10.67,
+          "targetBeans": 10670,
+          "dailyIncomeLimitOverride": 10670,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "lyxrG",
+          "updatedAt": "2026-05-23T04:44:30.803854Z"
+        },
+        "2026-05-24": {
+          "planId": "default",
+          "dateKey": "2026-05-24",
+          "recordId": "reg-1779195481738745",
+          "uid": "14804028",
+          "email": "EourhAmufo184418@outlook.com",
+          "nickname": "Laura Zabala",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 6.78,
+          "targetBeans": 6780,
+          "dailyIncomeLimitOverride": 6780,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "lyxrG",
+          "updatedAt": "2026-05-24T01:36:33.655396Z"
+        },
+        "2026-05-25": {
+          "planId": "default",
+          "dateKey": "2026-05-25",
+          "recordId": "reg-1779195481738745",
+          "uid": "14804028",
+          "email": "EourhAmufo184418@outlook.com",
+          "nickname": "Laura Zabala",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 13.08,
+          "targetBeans": 13080,
+          "dailyIncomeLimitOverride": 13080,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "lyxrG",
+          "updatedAt": "2026-05-25T04:21:36.850Z"
+        },
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779195481738745",
+          "uid": "14804028",
+          "email": "EourhAmufo184418@outlook.com",
+          "nickname": "Laura Zabala",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 13.08,
+          "targetBeans": 13080,
+          "dailyIncomeLimitOverride": 13080,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "lyxrG",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-19": {
+          "totalBeans": 3676.0,
+          "privateCallBeans": 770.0,
+          "matchCallBeans": 1896.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1000.0,
+          "billCount": 80
+        },
+        "2026-05-20": {
+          "totalBeans": 14223.0,
+          "privateCallBeans": 1860.0,
+          "matchCallBeans": 11640.0,
+          "giftBeans": 173.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 258
+        },
+        "2026-05-21": {
+          "totalBeans": 18795.0,
+          "privateCallBeans": 540.0,
+          "matchCallBeans": 17736.0,
+          "giftBeans": 519.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 514
+        },
+        "2026-05-22": {
+          "totalBeans": 9175.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 8840.0,
+          "giftBeans": 55.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 255
+        },
+        "2026-05-23": {
+          "totalBeans": 9614.0,
+          "privateCallBeans": 490.0,
+          "matchCallBeans": 9124.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 296
+        },
+        "2026-05-24": {
+          "totalBeans": 6169.0,
+          "privateCallBeans": 420.0,
+          "matchCallBeans": 5724.0,
+          "giftBeans": 25.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 155
+        },
+        "2026-05-25": {
+          "totalBeans": 14529.0,
+          "privateCallBeans": 150.0,
+          "matchCallBeans": 14304.0,
+          "giftBeans": 75.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 427
+        },
+        "2026-05-26": {
+          "totalBeans": 11625.0,
+          "privateCallBeans": 150.0,
+          "matchCallBeans": 10772.0,
+          "giftBeans": 653.0,
+          "messageBeans": 0.0,
+          "otherBeans": 50.0,
+          "billCount": 386
+        }
+      }
+    },
+    {
+      "id": "acct-080750",
+      "displayName": "Kristin（绑定 051907 云）",
+      "countryIso": "BR",
+      "totalBeans": 84498.0,
+      "privateCallBeans": 660.0,
+      "matchCallBeans": 80648.0,
+      "giftBeans": 1030.0,
+      "messageBeans": 0.0,
+      "otherBeans": 2160.0,
+      "billCount": 2680,
+      "plannedBeans": 57810,
+      "online": true,
+      "plans": {
+        "2026-05-22": {
+          "planId": "buffered-2026-05-22_2026-05-24",
+          "dateKey": "2026-05-22",
+          "recordId": "reg-1779118481080750",
+          "uid": "14750877",
+          "email": "jemmiry2026@outlook.com",
+          "nickname": "Kristin",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 12.17,
+          "targetBeans": 12170,
+          "dailyIncomeLimitOverride": 12170,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "9HPff",
+          "updatedAt": "2026-05-22T07:35:00.000Z"
+        },
+        "2026-05-23": {
+          "planId": "rebalance-2026-05-23-400usd",
+          "dateKey": "2026-05-23",
+          "recordId": "reg-1779118481080750",
+          "uid": "14750877",
+          "email": "jemmiry2026@outlook.com",
+          "nickname": "Kristin",
+          "countryIso": "BR",
+          "tier": "",
+          "targetUsd": 10.12,
+          "targetBeans": 10120,
+          "dailyIncomeLimitOverride": 10120,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "9HPff",
+          "updatedAt": "2026-05-23T04:44:30.803854Z"
+        },
+        "2026-05-24": {
+          "planId": "default",
+          "dateKey": "2026-05-24",
+          "recordId": "reg-1779118481080750",
+          "uid": "14750877",
+          "email": "jemmiry2026@outlook.com",
+          "nickname": "Kristin",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 7.6,
+          "targetBeans": 7600,
+          "dailyIncomeLimitOverride": 7600,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "9HPff",
+          "updatedAt": "2026-05-24T01:36:33.655396Z"
+        },
+        "2026-05-25": {
+          "planId": "default",
+          "dateKey": "2026-05-25",
+          "recordId": "reg-1779118481080750",
+          "uid": "14750877",
+          "email": "jemmiry2026@outlook.com",
+          "nickname": "Kristin",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 13.96,
+          "targetBeans": 13960,
+          "dailyIncomeLimitOverride": 13960,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "9HPff",
+          "updatedAt": "2026-05-25T04:21:36.850Z"
+        },
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779118481080750",
+          "uid": "14750877",
+          "email": "jemmiry2026@outlook.com",
+          "nickname": "Kristin",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 13.96,
+          "targetBeans": 13960,
+          "dailyIncomeLimitOverride": 13960,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "9HPff",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-18": {
+          "totalBeans": 8816.0,
+          "privateCallBeans": 450.0,
+          "matchCallBeans": 7356.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1000.0,
+          "billCount": 289
+        },
+        "2026-05-19": {
+          "totalBeans": 3963.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3388.0,
+          "giftBeans": 25.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 152
+        },
+        "2026-05-20": {
+          "totalBeans": 9684.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9684.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 318
+        },
+        "2026-05-21": {
+          "totalBeans": 9619.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9396.0,
+          "giftBeans": 223.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 286
+        },
+        "2026-05-22": {
+          "totalBeans": 8717.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 8644.0,
+          "giftBeans": 73.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 354
+        },
+        "2026-05-23": {
+          "totalBeans": 10138.0,
+          "privateCallBeans": 140.0,
+          "matchCallBeans": 9988.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 268
+        },
+        "2026-05-24": {
+          "totalBeans": 7608.0,
+          "privateCallBeans": 70.0,
+          "matchCallBeans": 6944.0,
+          "giftBeans": 594.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 197
+        },
+        "2026-05-25": {
+          "totalBeans": 14229.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 14164.0,
+          "giftBeans": 65.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 388
+        },
+        "2026-05-26": {
+          "totalBeans": 11724.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 11084.0,
+          "giftBeans": 30.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 428
+        }
+      }
+    },
+    {
+      "id": "acct-346435",
+      "displayName": "Yuamary Marquez（74号）",
+      "countryIso": "BR",
+      "totalBeans": 83472.0,
+      "privateCallBeans": 550.0,
+      "matchCallBeans": 72856.0,
+      "giftBeans": 8516.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1550.0,
+      "billCount": 1255,
+      "plannedBeans": 63840,
+      "online": true,
+      "plans": {
+        "2026-05-22": {
+          "planId": "buffered-2026-05-22_2026-05-24",
+          "dateKey": "2026-05-22",
+          "recordId": "reg-1779286877346435",
+          "uid": "14852849",
+          "email": "EozhhQqsvo788669@outlook.com",
+          "nickname": "Yuamary Marquez",
+          "countryIso": "BR",
+          "tier": "D",
+          "targetUsd": 4.59,
+          "targetBeans": 4590,
+          "dailyIncomeLimitOverride": 4590,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "c9z0n",
+          "updatedAt": "2026-05-22T07:35:00.000Z"
+        },
+        "2026-05-23": {
+          "planId": "rebalance-2026-05-23-400usd",
+          "dateKey": "2026-05-23",
+          "recordId": "reg-1779286877346435",
+          "uid": "14852849",
+          "email": "EozhhQqsvo788669@outlook.com",
+          "nickname": "Yuamary Marquez",
+          "countryIso": "BR",
+          "tier": "",
+          "targetUsd": 12.58,
+          "targetBeans": 12580,
+          "dailyIncomeLimitOverride": 12580,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "c9z0n",
+          "updatedAt": "2026-05-23T04:44:30.803854Z"
+        },
+        "2026-05-24": {
+          "planId": "default",
+          "dateKey": "2026-05-24",
+          "recordId": "reg-1779286877346435",
+          "uid": "14852849",
+          "email": "EozhhQqsvo788669@outlook.com",
+          "nickname": "Yuamary Marquez",
+          "countryIso": "BR",
+          "tier": "A",
+          "targetUsd": 9.07,
+          "targetBeans": 9070,
+          "dailyIncomeLimitOverride": 9070,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "c9z0n",
+          "updatedAt": "2026-05-24T01:36:33.655396Z"
+        },
+        "2026-05-25": {
+          "planId": "default",
+          "dateKey": "2026-05-25",
+          "recordId": "reg-1779286877346435",
+          "uid": "14852849",
+          "email": "EozhhQqsvo788669@outlook.com",
+          "nickname": "Yuamary Marquez",
+          "countryIso": "BR",
+          "tier": "A",
+          "targetUsd": 18.8,
+          "targetBeans": 18800,
+          "dailyIncomeLimitOverride": 18800,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "c9z0n",
+          "updatedAt": "2026-05-25T04:21:36.850Z"
+        },
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779286877346435",
+          "uid": "14852849",
+          "email": "EozhhQqsvo788669@outlook.com",
+          "nickname": "Yuamary Marquez",
+          "countryIso": "BR",
+          "tier": "A",
+          "targetUsd": 18.8,
+          "targetBeans": 18800,
+          "dailyIncomeLimitOverride": 18800,
+          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
+          "ownerMachineLabel": "pengjizongdeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "c9z0n",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-20": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-21": {
+          "totalBeans": 10454.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9136.0,
+          "giftBeans": 318.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1000.0,
+          "billCount": 141
+        },
+        "2026-05-22": {
+          "totalBeans": 12779.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 12528.0,
+          "giftBeans": 251.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 206
+        },
+        "2026-05-23": {
+          "totalBeans": 15305.0,
+          "privateCallBeans": 240.0,
+          "matchCallBeans": 10204.0,
+          "giftBeans": 4861.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 187
+        },
+        "2026-05-24": {
+          "totalBeans": 10299.0,
+          "privateCallBeans": 240.0,
+          "matchCallBeans": 8760.0,
+          "giftBeans": 1299.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 121
+        },
+        "2026-05-25": {
+          "totalBeans": 18815.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 17688.0,
+          "giftBeans": 1127.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 302
+        },
+        "2026-05-26": {
+          "totalBeans": 15820.0,
+          "privateCallBeans": 70.0,
+          "matchCallBeans": 14540.0,
+          "giftBeans": 660.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 298
         }
       }
     },
@@ -13386,186 +13926,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-738745",
-      "displayName": "Laura Zabala（051906）",
-      "countryIso": "BR",
-      "totalBeans": 83102.0,
-      "privateCallBeans": 4660.0,
-      "matchCallBeans": 75980.0,
-      "giftBeans": 912.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1550.0,
-      "billCount": 2222,
-      "plannedBeans": 55990,
-      "online": true,
-      "plans": {
-        "2026-05-22": {
-          "planId": "buffered-2026-05-22_2026-05-24",
-          "dateKey": "2026-05-22",
-          "recordId": "reg-1779195481738745",
-          "uid": "14804028",
-          "email": "EourhAmufo184418@outlook.com",
-          "nickname": "Laura Zabala",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 12.38,
-          "targetBeans": 12380,
-          "dailyIncomeLimitOverride": 12380,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "dEXc9",
-          "updatedAt": "2026-05-22T07:35:00.000Z"
-        },
-        "2026-05-23": {
-          "planId": "rebalance-2026-05-23-400usd",
-          "dateKey": "2026-05-23",
-          "recordId": "reg-1779195481738745",
-          "uid": "14804028",
-          "email": "EourhAmufo184418@outlook.com",
-          "nickname": "Laura Zabala",
-          "countryIso": "BR",
-          "tier": "",
-          "targetUsd": 10.67,
-          "targetBeans": 10670,
-          "dailyIncomeLimitOverride": 10670,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-23T04:44:30.803854Z"
-        },
-        "2026-05-24": {
-          "planId": "default",
-          "dateKey": "2026-05-24",
-          "recordId": "reg-1779195481738745",
-          "uid": "14804028",
-          "email": "EourhAmufo184418@outlook.com",
-          "nickname": "Laura Zabala",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 6.78,
-          "targetBeans": 6780,
-          "dailyIncomeLimitOverride": 6780,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-24T01:36:33.655396Z"
-        },
-        "2026-05-25": {
-          "planId": "default",
-          "dateKey": "2026-05-25",
-          "recordId": "reg-1779195481738745",
-          "uid": "14804028",
-          "email": "EourhAmufo184418@outlook.com",
-          "nickname": "Laura Zabala",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 13.08,
-          "targetBeans": 13080,
-          "dailyIncomeLimitOverride": 13080,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-25T04:21:36.850Z"
-        },
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779195481738745",
-          "uid": "14804028",
-          "email": "EourhAmufo184418@outlook.com",
-          "nickname": "Laura Zabala",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 13.08,
-          "targetBeans": 13080,
-          "dailyIncomeLimitOverride": 13080,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-19": {
-          "totalBeans": 3676.0,
-          "privateCallBeans": 770.0,
-          "matchCallBeans": 1896.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1000.0,
-          "billCount": 80
-        },
-        "2026-05-20": {
-          "totalBeans": 14223.0,
-          "privateCallBeans": 1860.0,
-          "matchCallBeans": 11640.0,
-          "giftBeans": 173.0,
-          "messageBeans": 0.0,
-          "otherBeans": 550.0,
-          "billCount": 258
-        },
-        "2026-05-21": {
-          "totalBeans": 18795.0,
-          "privateCallBeans": 540.0,
-          "matchCallBeans": 17736.0,
-          "giftBeans": 519.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 514
-        },
-        "2026-05-22": {
-          "totalBeans": 9175.0,
-          "privateCallBeans": 280.0,
-          "matchCallBeans": 8840.0,
-          "giftBeans": 55.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 255
-        },
-        "2026-05-23": {
-          "totalBeans": 9614.0,
-          "privateCallBeans": 490.0,
-          "matchCallBeans": 9124.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 296
-        },
-        "2026-05-24": {
-          "totalBeans": 6169.0,
-          "privateCallBeans": 420.0,
-          "matchCallBeans": 5724.0,
-          "giftBeans": 25.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 155
-        },
-        "2026-05-25": {
-          "totalBeans": 14529.0,
-          "privateCallBeans": 150.0,
-          "matchCallBeans": 14304.0,
-          "giftBeans": 75.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 427
-        },
-        "2026-05-26": {
-          "totalBeans": 6921.0,
-          "privateCallBeans": 150.0,
-          "matchCallBeans": 6716.0,
-          "giftBeans": 55.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 237
         }
       }
     },
@@ -13912,362 +14272,182 @@
       }
     },
     {
-      "id": "acct-080750",
-      "displayName": "Kristin（绑定 051907 云）",
-      "countryIso": "BR",
-      "totalBeans": 80624.0,
-      "privateCallBeans": 660.0,
-      "matchCallBeans": 77384.0,
-      "giftBeans": 1030.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1550.0,
-      "billCount": 2490,
-      "plannedBeans": 57810,
-      "online": true,
-      "plans": {
-        "2026-05-22": {
-          "planId": "buffered-2026-05-22_2026-05-24",
-          "dateKey": "2026-05-22",
-          "recordId": "reg-1779118481080750",
-          "uid": "14750877",
-          "email": "jemmiry2026@outlook.com",
-          "nickname": "Kristin",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 12.17,
-          "targetBeans": 12170,
-          "dailyIncomeLimitOverride": 12170,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "9HPff",
-          "updatedAt": "2026-05-22T07:35:00.000Z"
-        },
-        "2026-05-23": {
-          "planId": "rebalance-2026-05-23-400usd",
-          "dateKey": "2026-05-23",
-          "recordId": "reg-1779118481080750",
-          "uid": "14750877",
-          "email": "jemmiry2026@outlook.com",
-          "nickname": "Kristin",
-          "countryIso": "BR",
-          "tier": "",
-          "targetUsd": 10.12,
-          "targetBeans": 10120,
-          "dailyIncomeLimitOverride": 10120,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "9HPff",
-          "updatedAt": "2026-05-23T04:44:30.803854Z"
-        },
-        "2026-05-24": {
-          "planId": "default",
-          "dateKey": "2026-05-24",
-          "recordId": "reg-1779118481080750",
-          "uid": "14750877",
-          "email": "jemmiry2026@outlook.com",
-          "nickname": "Kristin",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 7.6,
-          "targetBeans": 7600,
-          "dailyIncomeLimitOverride": 7600,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "9HPff",
-          "updatedAt": "2026-05-24T01:36:33.655396Z"
-        },
-        "2026-05-25": {
-          "planId": "default",
-          "dateKey": "2026-05-25",
-          "recordId": "reg-1779118481080750",
-          "uid": "14750877",
-          "email": "jemmiry2026@outlook.com",
-          "nickname": "Kristin",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 13.96,
-          "targetBeans": 13960,
-          "dailyIncomeLimitOverride": 13960,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "9HPff",
-          "updatedAt": "2026-05-25T04:21:36.850Z"
-        },
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779118481080750",
-          "uid": "14750877",
-          "email": "jemmiry2026@outlook.com",
-          "nickname": "Kristin",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 13.96,
-          "targetBeans": 13960,
-          "dailyIncomeLimitOverride": 13960,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "9HPff",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-18": {
-          "totalBeans": 8816.0,
-          "privateCallBeans": 450.0,
-          "matchCallBeans": 7356.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1000.0,
-          "billCount": 289
-        },
-        "2026-05-19": {
-          "totalBeans": 3963.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 3388.0,
-          "giftBeans": 25.0,
-          "messageBeans": 0.0,
-          "otherBeans": 550.0,
-          "billCount": 152
-        },
-        "2026-05-20": {
-          "totalBeans": 9684.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 9684.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 318
-        },
-        "2026-05-21": {
-          "totalBeans": 9619.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 9396.0,
-          "giftBeans": 223.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 286
-        },
-        "2026-05-22": {
-          "totalBeans": 8717.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 8644.0,
-          "giftBeans": 73.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 354
-        },
-        "2026-05-23": {
-          "totalBeans": 10138.0,
-          "privateCallBeans": 140.0,
-          "matchCallBeans": 9988.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 268
-        },
-        "2026-05-24": {
-          "totalBeans": 7608.0,
-          "privateCallBeans": 70.0,
-          "matchCallBeans": 6944.0,
-          "giftBeans": 594.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 197
-        },
-        "2026-05-25": {
-          "totalBeans": 14229.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 14164.0,
-          "giftBeans": 65.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 388
-        },
-        "2026-05-26": {
-          "totalBeans": 7850.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 7820.0,
-          "giftBeans": 30.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 238
-        }
-      }
-    },
-    {
-      "id": "acct-346435",
-      "displayName": "Yuamary Marquez（74号）",
-      "countryIso": "BR",
-      "totalBeans": 77012.0,
-      "privateCallBeans": 550.0,
-      "matchCallBeans": 67536.0,
-      "giftBeans": 7926.0,
+      "id": "acct-411022",
+      "displayName": "Isabela（绑定 051901 云）",
+      "countryIso": "CO",
+      "totalBeans": 75018.0,
+      "privateCallBeans": 718.0,
+      "matchCallBeans": 66244.0,
+      "giftBeans": 7056.0,
       "messageBeans": 0.0,
       "otherBeans": 1000.0,
-      "billCount": 1147,
-      "plannedBeans": 63840,
+      "billCount": 916,
+      "plannedBeans": 53360,
       "online": true,
       "plans": {
         "2026-05-22": {
           "planId": "buffered-2026-05-22_2026-05-24",
           "dateKey": "2026-05-22",
-          "recordId": "reg-1779286877346435",
-          "uid": "14852849",
-          "email": "EozhhQqsvo788669@outlook.com",
-          "nickname": "Yuamary Marquez",
-          "countryIso": "BR",
-          "tier": "D",
-          "targetUsd": 4.59,
-          "targetBeans": 4590,
-          "dailyIncomeLimitOverride": 4590,
+          "recordId": "reg-1779195701411022",
+          "uid": "14804158",
+          "email": "HjsudCormm64744@outlook.com",
+          "nickname": "Isabela",
+          "countryIso": "CO",
+          "tier": "C",
+          "targetUsd": 10.96,
+          "targetBeans": 10960,
+          "dailyIncomeLimitOverride": 10960,
           "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "c9z0n",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "dEXc9",
           "updatedAt": "2026-05-22T07:35:00.000Z"
         },
         "2026-05-23": {
           "planId": "rebalance-2026-05-23-400usd",
           "dateKey": "2026-05-23",
-          "recordId": "reg-1779286877346435",
-          "uid": "14852849",
-          "email": "EozhhQqsvo788669@outlook.com",
-          "nickname": "Yuamary Marquez",
-          "countryIso": "BR",
+          "recordId": "reg-1779195701411022",
+          "uid": "14804158",
+          "email": "HjsudCormm64744@outlook.com",
+          "nickname": "Isabela",
+          "countryIso": "CO",
           "tier": "",
-          "targetUsd": 12.58,
-          "targetBeans": 12580,
-          "dailyIncomeLimitOverride": 12580,
+          "targetUsd": 10.54,
+          "targetBeans": 10540,
+          "dailyIncomeLimitOverride": 10540,
           "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "c9z0n",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "dEXc9",
           "updatedAt": "2026-05-23T04:44:30.803854Z"
         },
         "2026-05-24": {
           "planId": "default",
           "dateKey": "2026-05-24",
-          "recordId": "reg-1779286877346435",
-          "uid": "14852849",
-          "email": "EozhhQqsvo788669@outlook.com",
-          "nickname": "Yuamary Marquez",
-          "countryIso": "BR",
-          "tier": "A",
-          "targetUsd": 9.07,
-          "targetBeans": 9070,
-          "dailyIncomeLimitOverride": 9070,
+          "recordId": "reg-1779195701411022",
+          "uid": "14804158",
+          "email": "HjsudCormm64744@outlook.com",
+          "nickname": "Isabela",
+          "countryIso": "CO",
+          "tier": "B",
+          "targetUsd": 7.86,
+          "targetBeans": 7860,
+          "dailyIncomeLimitOverride": 7860,
           "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "c9z0n",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "dEXc9",
           "updatedAt": "2026-05-24T01:36:33.655396Z"
         },
         "2026-05-25": {
           "planId": "default",
           "dateKey": "2026-05-25",
-          "recordId": "reg-1779286877346435",
-          "uid": "14852849",
-          "email": "EozhhQqsvo788669@outlook.com",
-          "nickname": "Yuamary Marquez",
-          "countryIso": "BR",
-          "tier": "A",
-          "targetUsd": 18.8,
-          "targetBeans": 18800,
-          "dailyIncomeLimitOverride": 18800,
+          "recordId": "reg-1779195701411022",
+          "uid": "14804158",
+          "email": "HjsudCormm64744@outlook.com",
+          "nickname": "Isabela",
+          "countryIso": "CO",
+          "tier": "B",
+          "targetUsd": 12.0,
+          "targetBeans": 12000,
+          "dailyIncomeLimitOverride": 12000,
           "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "c9z0n",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "dEXc9",
           "updatedAt": "2026-05-25T04:21:36.850Z"
         },
         "2026-05-26": {
           "planId": "default",
           "dateKey": "2026-05-26",
-          "recordId": "reg-1779286877346435",
-          "uid": "14852849",
-          "email": "EozhhQqsvo788669@outlook.com",
-          "nickname": "Yuamary Marquez",
-          "countryIso": "BR",
-          "tier": "A",
-          "targetUsd": 18.8,
-          "targetBeans": 18800,
-          "dailyIncomeLimitOverride": 18800,
+          "recordId": "reg-1779195701411022",
+          "uid": "14804158",
+          "email": "HjsudCormm64744@outlook.com",
+          "nickname": "Isabela",
+          "countryIso": "CO",
+          "tier": "B",
+          "targetUsd": 12.0,
+          "targetBeans": 12000,
+          "dailyIncomeLimitOverride": 12000,
           "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "c9z0n",
+          "matchMediaBackend": "cloudAdb",
+          "duoplusImageId": "dEXc9",
           "updatedAt": "2026-05-26T15:27:10.163Z"
         }
       },
       "days": {
-        "2026-05-20": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
+        "2026-05-19": {
+          "totalBeans": 3062.0,
+          "privateCallBeans": 48.0,
+          "matchCallBeans": 2864.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
+          "otherBeans": 150.0,
+          "billCount": 76
+        },
+        "2026-05-20": {
+          "totalBeans": 8408.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 7860.0,
+          "giftBeans": 148.0,
+          "messageBeans": 0.0,
+          "otherBeans": 400.0,
+          "billCount": 109
         },
         "2026-05-21": {
-          "totalBeans": 10454.0,
+          "totalBeans": 11245.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 9136.0,
-          "giftBeans": 318.0,
+          "matchCallBeans": 10432.0,
+          "giftBeans": 813.0,
           "messageBeans": 0.0,
-          "otherBeans": 1000.0,
-          "billCount": 141
+          "otherBeans": 0.0,
+          "billCount": 116
         },
         "2026-05-22": {
-          "totalBeans": 12779.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 12528.0,
-          "giftBeans": 251.0,
+          "totalBeans": 8178.0,
+          "privateCallBeans": 550.0,
+          "matchCallBeans": 7064.0,
+          "giftBeans": 564.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 206
+          "billCount": 95
         },
         "2026-05-23": {
-          "totalBeans": 15305.0,
-          "privateCallBeans": 240.0,
-          "matchCallBeans": 10204.0,
-          "giftBeans": 4861.0,
+          "totalBeans": 10718.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6692.0,
+          "giftBeans": 4026.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 187
+          "billCount": 106
         },
         "2026-05-24": {
-          "totalBeans": 10299.0,
-          "privateCallBeans": 240.0,
-          "matchCallBeans": 8760.0,
-          "giftBeans": 1299.0,
+          "totalBeans": 10567.0,
+          "privateCallBeans": 60.0,
+          "matchCallBeans": 10136.0,
+          "giftBeans": 371.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 121
+          "billCount": 115
         },
         "2026-05-25": {
-          "totalBeans": 18815.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 17688.0,
-          "giftBeans": 1127.0,
+          "totalBeans": 12093.0,
+          "privateCallBeans": 60.0,
+          "matchCallBeans": 11120.0,
+          "giftBeans": 913.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 302
+          "billCount": 150
         },
         "2026-05-26": {
-          "totalBeans": 9360.0,
-          "privateCallBeans": 70.0,
-          "matchCallBeans": 9220.0,
-          "giftBeans": 70.0,
+          "totalBeans": 10747.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 10076.0,
+          "giftBeans": 221.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 190
+          "otherBeans": 450.0,
+          "billCount": 149
         }
       }
     },
@@ -14614,196 +14794,16 @@
       }
     },
     {
-      "id": "acct-411022",
-      "displayName": "Isabela（绑定 051901 云）",
-      "countryIso": "CO",
-      "totalBeans": 70804.0,
-      "privateCallBeans": 718.0,
-      "matchCallBeans": 62628.0,
-      "giftBeans": 6908.0,
-      "messageBeans": 0.0,
-      "otherBeans": 550.0,
-      "billCount": 863,
-      "plannedBeans": 53360,
-      "online": true,
-      "plans": {
-        "2026-05-22": {
-          "planId": "buffered-2026-05-22_2026-05-24",
-          "dateKey": "2026-05-22",
-          "recordId": "reg-1779195701411022",
-          "uid": "14804158",
-          "email": "HjsudCormm64744@outlook.com",
-          "nickname": "Isabela",
-          "countryIso": "CO",
-          "tier": "C",
-          "targetUsd": 10.96,
-          "targetBeans": 10960,
-          "dailyIncomeLimitOverride": 10960,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "dEXc9",
-          "updatedAt": "2026-05-22T07:35:00.000Z"
-        },
-        "2026-05-23": {
-          "planId": "rebalance-2026-05-23-400usd",
-          "dateKey": "2026-05-23",
-          "recordId": "reg-1779195701411022",
-          "uid": "14804158",
-          "email": "HjsudCormm64744@outlook.com",
-          "nickname": "Isabela",
-          "countryIso": "CO",
-          "tier": "",
-          "targetUsd": 10.54,
-          "targetBeans": 10540,
-          "dailyIncomeLimitOverride": 10540,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "dEXc9",
-          "updatedAt": "2026-05-23T04:44:30.803854Z"
-        },
-        "2026-05-24": {
-          "planId": "default",
-          "dateKey": "2026-05-24",
-          "recordId": "reg-1779195701411022",
-          "uid": "14804158",
-          "email": "HjsudCormm64744@outlook.com",
-          "nickname": "Isabela",
-          "countryIso": "CO",
-          "tier": "B",
-          "targetUsd": 7.86,
-          "targetBeans": 7860,
-          "dailyIncomeLimitOverride": 7860,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "dEXc9",
-          "updatedAt": "2026-05-24T01:36:33.655396Z"
-        },
-        "2026-05-25": {
-          "planId": "default",
-          "dateKey": "2026-05-25",
-          "recordId": "reg-1779195701411022",
-          "uid": "14804158",
-          "email": "HjsudCormm64744@outlook.com",
-          "nickname": "Isabela",
-          "countryIso": "CO",
-          "tier": "B",
-          "targetUsd": 12.0,
-          "targetBeans": 12000,
-          "dailyIncomeLimitOverride": 12000,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "dEXc9",
-          "updatedAt": "2026-05-25T04:21:36.850Z"
-        },
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779195701411022",
-          "uid": "14804158",
-          "email": "HjsudCormm64744@outlook.com",
-          "nickname": "Isabela",
-          "countryIso": "CO",
-          "tier": "B",
-          "targetUsd": 12.0,
-          "targetBeans": 12000,
-          "dailyIncomeLimitOverride": 12000,
-          "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
-          "ownerMachineLabel": "pengjizongdeMac-mini.local",
-          "matchMediaBackend": "cloudAdb",
-          "duoplusImageId": "dEXc9",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-19": {
-          "totalBeans": 3062.0,
-          "privateCallBeans": 48.0,
-          "matchCallBeans": 2864.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 150.0,
-          "billCount": 76
-        },
-        "2026-05-20": {
-          "totalBeans": 8408.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 7860.0,
-          "giftBeans": 148.0,
-          "messageBeans": 0.0,
-          "otherBeans": 400.0,
-          "billCount": 109
-        },
-        "2026-05-21": {
-          "totalBeans": 11245.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 10432.0,
-          "giftBeans": 813.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 116
-        },
-        "2026-05-22": {
-          "totalBeans": 8178.0,
-          "privateCallBeans": 550.0,
-          "matchCallBeans": 7064.0,
-          "giftBeans": 564.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 95
-        },
-        "2026-05-23": {
-          "totalBeans": 10718.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 6692.0,
-          "giftBeans": 4026.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 106
-        },
-        "2026-05-24": {
-          "totalBeans": 10567.0,
-          "privateCallBeans": 60.0,
-          "matchCallBeans": 10136.0,
-          "giftBeans": 371.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 115
-        },
-        "2026-05-25": {
-          "totalBeans": 12093.0,
-          "privateCallBeans": 60.0,
-          "matchCallBeans": 11120.0,
-          "giftBeans": 913.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 150
-        },
-        "2026-05-26": {
-          "totalBeans": 6533.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 6460.0,
-          "giftBeans": 73.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 96
-        }
-      }
-    },
-    {
       "id": "acct-080816",
       "displayName": "Camila🦩💖",
       "countryIso": "BR",
-      "totalBeans": 62970.0,
-      "privateCallBeans": 850.0,
-      "matchCallBeans": 58956.0,
-      "giftBeans": 1614.0,
+      "totalBeans": 67968.0,
+      "privateCallBeans": 1300.0,
+      "matchCallBeans": 63404.0,
+      "giftBeans": 1714.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 1145,
+      "billCount": 1241,
       "plannedBeans": 63560,
       "online": false,
       "plans": {
@@ -14963,13 +14963,13 @@
           "billCount": 121
         },
         "2026-05-26": {
-          "totalBeans": 5798.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 5500.0,
-          "giftBeans": 298.0,
+          "totalBeans": 10796.0,
+          "privateCallBeans": 450.0,
+          "matchCallBeans": 9948.0,
+          "giftBeans": 398.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 126
+          "billCount": 222
         }
       }
     },
@@ -14977,13 +14977,13 @@
       "id": "acct-739937",
       "displayName": "cheima cheima（70号）",
       "countryIso": "BR",
-      "totalBeans": 59200.0,
+      "totalBeans": 62864.0,
       "privateCallBeans": 450.0,
-      "matchCallBeans": 57100.0,
-      "giftBeans": 100.0,
+      "matchCallBeans": 60596.0,
+      "giftBeans": 268.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 1747,
+      "billCount": 1857,
       "plannedBeans": 43340,
       "online": true,
       "plans": {
@@ -15134,13 +15134,13 @@
           "billCount": 397
         },
         "2026-05-26": {
-          "totalBeans": 8973.0,
+          "totalBeans": 12637.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 8948.0,
-          "giftBeans": 25.0,
+          "matchCallBeans": 12444.0,
+          "giftBeans": 193.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 272
+          "billCount": 382
         }
       }
     },
@@ -15148,13 +15148,13 @@
       "id": "acct-122105",
       "displayName": "Sofia verenzuela",
       "countryIso": "BR",
-      "totalBeans": 59044.0,
-      "privateCallBeans": 2275.0,
-      "matchCallBeans": 52268.0,
+      "totalBeans": 62364.0,
+      "privateCallBeans": 2345.0,
+      "matchCallBeans": 54908.0,
       "giftBeans": 2951.0,
       "messageBeans": 0.0,
-      "otherBeans": 1550.0,
-      "billCount": 2212,
+      "otherBeans": 2160.0,
+      "billCount": 2385,
       "plannedBeans": 43750,
       "online": true,
       "plans": {
@@ -15323,13 +15323,13 @@
           "billCount": 520
         },
         "2026-05-26": {
-          "totalBeans": 5653.0,
-          "privateCallBeans": 140.0,
-          "matchCallBeans": 5488.0,
+          "totalBeans": 8973.0,
+          "privateCallBeans": 210.0,
+          "matchCallBeans": 8128.0,
           "giftBeans": 25.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 283
+          "otherBeans": 610.0,
+          "billCount": 456
         }
       }
     },
@@ -15337,13 +15337,13 @@
       "id": "acct-361289",
       "displayName": "Alex🤎（72号 051909）",
       "countryIso": "BR",
-      "totalBeans": 49183.0,
+      "totalBeans": 51617.0,
       "privateCallBeans": 765.0,
-      "matchCallBeans": 44368.0,
-      "giftBeans": 2500.0,
+      "matchCallBeans": 46792.0,
+      "giftBeans": 2510.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 2052,
+      "billCount": 2176,
       "plannedBeans": 43110,
       "online": false,
       "plans": {
@@ -15494,13 +15494,13 @@
           "billCount": 312
         },
         "2026-05-26": {
-          "totalBeans": 4196.0,
+          "totalBeans": 6630.0,
           "privateCallBeans": 70.0,
-          "matchCallBeans": 3828.0,
-          "giftBeans": 298.0,
+          "matchCallBeans": 6252.0,
+          "giftBeans": 308.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 233
+          "billCount": 357
         }
       }
     },
@@ -15508,13 +15508,13 @@
       "id": "acct-105419",
       "displayName": "Jackeline（绑定 051903 云）",
       "countryIso": "BR",
-      "totalBeans": 45457.0,
-      "privateCallBeans": 520.0,
-      "matchCallBeans": 43352.0,
+      "totalBeans": 48259.0,
+      "privateCallBeans": 590.0,
+      "matchCallBeans": 46084.0,
       "giftBeans": 35.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 2117,
+      "billCount": 2257,
       "plannedBeans": 45090,
       "online": true,
       "plans": {
@@ -15674,13 +15674,13 @@
           "billCount": 557
         },
         "2026-05-26": {
-          "totalBeans": 5564.0,
-          "privateCallBeans": 280.0,
-          "matchCallBeans": 5284.0,
+          "totalBeans": 8366.0,
+          "privateCallBeans": 350.0,
+          "matchCallBeans": 8016.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 295
+          "billCount": 435
         }
       }
     },
@@ -15688,13 +15688,13 @@
       "id": "acct-216115",
       "displayName": "yelixis fernandez（73号 051909）",
       "countryIso": "BR",
-      "totalBeans": 40192.0,
+      "totalBeans": 42954.0,
       "privateCallBeans": 110.0,
-      "matchCallBeans": 37988.0,
-      "giftBeans": 544.0,
+      "matchCallBeans": 40740.0,
+      "giftBeans": 554.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 1752,
+      "billCount": 1902,
       "plannedBeans": 48480,
       "online": false,
       "plans": {
@@ -15845,13 +15845,13 @@
           "billCount": 137
         },
         "2026-05-26": {
-          "totalBeans": 2624.0,
+          "totalBeans": 5386.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 2624.0,
-          "giftBeans": 0.0,
+          "matchCallBeans": 5376.0,
+          "giftBeans": 10.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 148
+          "billCount": 298
         }
       }
     },
@@ -15859,13 +15859,13 @@
       "id": "acct-204933",
       "displayName": "livia/livinha",
       "countryIso": "BR",
-      "totalBeans": 33832.0,
+      "totalBeans": 34804.0,
       "privateCallBeans": 275.0,
-      "matchCallBeans": 31468.0,
+      "matchCallBeans": 32440.0,
       "giftBeans": 539.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 1105,
+      "billCount": 1159,
       "plannedBeans": 28440,
       "online": false,
       "plans": {
@@ -16007,13 +16007,13 @@
           "billCount": 179
         },
         "2026-05-26": {
-          "totalBeans": 12529.0,
+          "totalBeans": 13501.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 12456.0,
+          "matchCallBeans": 13428.0,
           "giftBeans": 73.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 358
+          "billCount": 412
         }
       }
     },
@@ -16021,13 +16021,13 @@
       "id": "acct-285486",
       "displayName": "QueennotKwen",
       "countryIso": "BR",
-      "totalBeans": 32174.0,
+      "totalBeans": 33615.0,
       "privateCallBeans": 540.0,
-      "matchCallBeans": 29528.0,
-      "giftBeans": 556.0,
+      "matchCallBeans": 30924.0,
+      "giftBeans": 601.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 1040,
+      "billCount": 1105,
       "plannedBeans": 37660,
       "online": false,
       "plans": {
@@ -16169,13 +16169,13 @@
           "billCount": 188
         },
         "2026-05-26": {
-          "totalBeans": 3761.0,
+          "totalBeans": 5202.0,
           "privateCallBeans": 280.0,
-          "matchCallBeans": 3456.0,
-          "giftBeans": 25.0,
+          "matchCallBeans": 4852.0,
+          "giftBeans": 70.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 149
+          "billCount": 214
         }
       }
     },
@@ -16183,13 +16183,13 @@
       "id": "acct-090653",
       "displayName": "Jannatul megha Janna",
       "countryIso": "BR",
-      "totalBeans": 31580.0,
+      "totalBeans": 33028.0,
       "privateCallBeans": 200.0,
-      "matchCallBeans": 29168.0,
+      "matchCallBeans": 30616.0,
       "giftBeans": 662.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 938,
+      "billCount": 984,
       "plannedBeans": 34180,
       "online": false,
       "plans": {
@@ -16331,175 +16331,13 @@
           "billCount": 132
         },
         "2026-05-26": {
-          "totalBeans": 4316.0,
+          "totalBeans": 5764.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 4168.0,
+          "matchCallBeans": 5616.0,
           "giftBeans": 148.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 147
-        }
-      }
-    },
-    {
-      "id": "acct-546384",
-      "displayName": "💋 yossie 💋",
-      "countryIso": "BR",
-      "totalBeans": 27739.0,
-      "privateCallBeans": 50.0,
-      "matchCallBeans": 25956.0,
-      "giftBeans": 183.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1550.0,
-      "billCount": 1372,
-      "plannedBeans": 34540,
-      "online": false,
-      "plans": {
-        "2026-05-22": {
-          "planId": "buffered-2026-05-22_2026-05-24",
-          "dateKey": "2026-05-22",
-          "recordId": "reg-1779376728546384",
-          "uid": "14899694",
-          "email": "HnlkgPjhv644219@outlook.com",
-          "nickname": "💋 yossie 💋",
-          "countryIso": "BR",
-          "tier": "D",
-          "targetUsd": 2.99,
-          "targetBeans": 2990,
-          "dailyIncomeLimitOverride": 2990,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-22T07:35:00.000Z"
-        },
-        "2026-05-23": {
-          "planId": "rebalance-2026-05-23-400usd",
-          "dateKey": "2026-05-23",
-          "recordId": "reg-1779376728546384",
-          "uid": "14899694",
-          "email": "HnlkgPjhv644219@outlook.com",
-          "nickname": "💋 yossie 💋",
-          "countryIso": "BR",
-          "tier": "",
-          "targetUsd": 6.22,
-          "targetBeans": 6220,
-          "dailyIncomeLimitOverride": 6220,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-23T04:44:30.803854Z"
-        },
-        "2026-05-24": {
-          "planId": "default",
-          "dateKey": "2026-05-24",
-          "recordId": "reg-1779376728546384",
-          "uid": "14899694",
-          "email": "HnlkgPjhv644219@outlook.com",
-          "nickname": "💋 yossie 💋",
-          "countryIso": "BR",
-          "tier": "B",
-          "targetUsd": 6.21,
-          "targetBeans": 6210,
-          "dailyIncomeLimitOverride": 6210,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-24T01:36:33.655396Z"
-        },
-        "2026-05-25": {
-          "planId": "default",
-          "dateKey": "2026-05-25",
-          "recordId": "reg-1779376728546384",
-          "uid": "14899694",
-          "email": "HnlkgPjhv644219@outlook.com",
-          "nickname": "💋 yossie 💋",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 9.56,
-          "targetBeans": 9560,
-          "dailyIncomeLimitOverride": 9560,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-25T04:21:36.850Z"
-        },
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779376728546384",
-          "uid": "14899694",
-          "email": "HnlkgPjhv644219@outlook.com",
-          "nickname": "💋 yossie 💋",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 9.56,
-          "targetBeans": 9560,
-          "dailyIncomeLimitOverride": 9560,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-21": {
-          "totalBeans": 3186.0,
-          "privateCallBeans": 50.0,
-          "matchCallBeans": 2136.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1000.0,
-          "billCount": 89
-        },
-        "2026-05-22": {
-          "totalBeans": 5686.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 5136.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 550.0,
-          "billCount": 272
-        },
-        "2026-05-23": {
-          "totalBeans": 7028.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 6880.0,
-          "giftBeans": 148.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 381
-        },
-        "2026-05-24": {
-          "totalBeans": 3915.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 3880.0,
-          "giftBeans": 35.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 172
-        },
-        "2026-05-25": {
-          "totalBeans": 1752.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 1752.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 99
-        },
-        "2026-05-26": {
-          "totalBeans": 6172.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 6172.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 359
+          "billCount": 193
         }
       }
     },
@@ -16507,13 +16345,13 @@
       "id": "acct-253378",
       "displayName": "Maricela（71 号）",
       "countryIso": "CO",
-      "totalBeans": 27514.0,
+      "totalBeans": 31551.0,
       "privateCallBeans": 0.0,
-      "matchCallBeans": 27216.0,
-      "giftBeans": 298.0,
+      "matchCallBeans": 30668.0,
+      "giftBeans": 333.0,
       "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 823,
+      "otherBeans": 550.0,
+      "billCount": 909,
       "plannedBeans": 32200,
       "online": true,
       "plans": {
@@ -16664,13 +16502,175 @@
           "billCount": 298
         },
         "2026-05-26": {
-          "totalBeans": 1184.0,
+          "totalBeans": 5221.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 1184.0,
+          "matchCallBeans": 4636.0,
+          "giftBeans": 35.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 144
+        }
+      }
+    },
+    {
+      "id": "acct-546384",
+      "displayName": "💋 yossie 💋",
+      "countryIso": "BR",
+      "totalBeans": 29611.0,
+      "privateCallBeans": 50.0,
+      "matchCallBeans": 27828.0,
+      "giftBeans": 183.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1550.0,
+      "billCount": 1441,
+      "plannedBeans": 34540,
+      "online": false,
+      "plans": {
+        "2026-05-22": {
+          "planId": "buffered-2026-05-22_2026-05-24",
+          "dateKey": "2026-05-22",
+          "recordId": "reg-1779376728546384",
+          "uid": "14899694",
+          "email": "HnlkgPjhv644219@outlook.com",
+          "nickname": "💋 yossie 💋",
+          "countryIso": "BR",
+          "tier": "D",
+          "targetUsd": 2.99,
+          "targetBeans": 2990,
+          "dailyIncomeLimitOverride": 2990,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-22T07:35:00.000Z"
+        },
+        "2026-05-23": {
+          "planId": "rebalance-2026-05-23-400usd",
+          "dateKey": "2026-05-23",
+          "recordId": "reg-1779376728546384",
+          "uid": "14899694",
+          "email": "HnlkgPjhv644219@outlook.com",
+          "nickname": "💋 yossie 💋",
+          "countryIso": "BR",
+          "tier": "",
+          "targetUsd": 6.22,
+          "targetBeans": 6220,
+          "dailyIncomeLimitOverride": 6220,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-23T04:44:30.803854Z"
+        },
+        "2026-05-24": {
+          "planId": "default",
+          "dateKey": "2026-05-24",
+          "recordId": "reg-1779376728546384",
+          "uid": "14899694",
+          "email": "HnlkgPjhv644219@outlook.com",
+          "nickname": "💋 yossie 💋",
+          "countryIso": "BR",
+          "tier": "B",
+          "targetUsd": 6.21,
+          "targetBeans": 6210,
+          "dailyIncomeLimitOverride": 6210,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-24T01:36:33.655396Z"
+        },
+        "2026-05-25": {
+          "planId": "default",
+          "dateKey": "2026-05-25",
+          "recordId": "reg-1779376728546384",
+          "uid": "14899694",
+          "email": "HnlkgPjhv644219@outlook.com",
+          "nickname": "💋 yossie 💋",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 9.56,
+          "targetBeans": 9560,
+          "dailyIncomeLimitOverride": 9560,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-25T04:21:36.850Z"
+        },
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779376728546384",
+          "uid": "14899694",
+          "email": "HnlkgPjhv644219@outlook.com",
+          "nickname": "💋 yossie 💋",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 9.56,
+          "targetBeans": 9560,
+          "dailyIncomeLimitOverride": 9560,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-21": {
+          "totalBeans": 3186.0,
+          "privateCallBeans": 50.0,
+          "matchCallBeans": 2136.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1000.0,
+          "billCount": 89
+        },
+        "2026-05-22": {
+          "totalBeans": 5686.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 5136.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 272
+        },
+        "2026-05-23": {
+          "totalBeans": 7028.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6880.0,
+          "giftBeans": 148.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 381
+        },
+        "2026-05-24": {
+          "totalBeans": 3915.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3880.0,
+          "giftBeans": 35.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 172
+        },
+        "2026-05-25": {
+          "totalBeans": 1752.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1752.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 58
+          "billCount": 99
+        },
+        "2026-05-26": {
+          "totalBeans": 8044.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 8044.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 428
         }
       }
     },
@@ -16678,13 +16678,13 @@
       "id": "acct-403726",
       "displayName": "Precious（83h）",
       "countryIso": "BR",
-      "totalBeans": 26690.0,
+      "totalBeans": 27610.0,
       "privateCallBeans": 350.0,
-      "matchCallBeans": 23708.0,
+      "matchCallBeans": 24628.0,
       "giftBeans": 2082.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 903,
+      "billCount": 928,
       "plannedBeans": 23680,
       "online": false,
       "plans": {
@@ -16772,13 +16772,13 @@
           "billCount": 70
         },
         "2026-05-26": {
-          "totalBeans": 12021.0,
+          "totalBeans": 12941.0,
           "privateCallBeans": 350.0,
-          "matchCallBeans": 10952.0,
+          "matchCallBeans": 11872.0,
           "giftBeans": 719.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 477
+          "billCount": 502
         }
       }
     },
@@ -16786,13 +16786,13 @@
       "id": "acct-805605",
       "displayName": "la negra",
       "countryIso": "CO",
-      "totalBeans": 23326.0,
+      "totalBeans": 25195.0,
       "privateCallBeans": 0.0,
-      "matchCallBeans": 22716.0,
-      "giftBeans": 60.0,
+      "matchCallBeans": 24560.0,
+      "giftBeans": 85.0,
       "messageBeans": 0.0,
       "otherBeans": 550.0,
-      "billCount": 908,
+      "billCount": 1012,
       "plannedBeans": 27300,
       "online": true,
       "plans": {
@@ -16952,13 +16952,13 @@
           "billCount": 355
         },
         "2026-05-26": {
-          "totalBeans": 440.0,
+          "totalBeans": 2309.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 440.0,
-          "giftBeans": 0.0,
+          "matchCallBeans": 2284.0,
+          "giftBeans": 25.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 25
+          "billCount": 129
         }
       }
     },
@@ -16966,13 +16966,13 @@
       "id": "acct-152224",
       "displayName": "loly",
       "countryIso": "BR",
-      "totalBeans": 22492.0,
+      "totalBeans": 23768.0,
       "privateCallBeans": 290.0,
-      "matchCallBeans": 20652.0,
+      "matchCallBeans": 21928.0,
       "giftBeans": 0.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 1068,
+      "billCount": 1115,
       "plannedBeans": 33670,
       "online": false,
       "plans": {
@@ -17114,13 +17114,13 @@
           "billCount": 62
         },
         "2026-05-26": {
-          "totalBeans": 6026.0,
+          "totalBeans": 7302.0,
           "privateCallBeans": 130.0,
-          "matchCallBeans": 5896.0,
+          "matchCallBeans": 7172.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 333
+          "billCount": 380
         }
       }
     },
@@ -17128,13 +17128,13 @@
       "id": "acct-228224",
       "displayName": "candice（85h）",
       "countryIso": "BR",
-      "totalBeans": 19498.0,
-      "privateCallBeans": 1075.0,
-      "matchCallBeans": 16828.0,
-      "giftBeans": 45.0,
+      "totalBeans": 22347.0,
+      "privateCallBeans": 1335.0,
+      "matchCallBeans": 19372.0,
+      "giftBeans": 90.0,
       "messageBeans": 0.0,
       "otherBeans": 1550.0,
-      "billCount": 810,
+      "billCount": 907,
       "plannedBeans": 21270,
       "online": false,
       "plans": {
@@ -17222,13 +17222,229 @@
           "billCount": 139
         },
         "2026-05-26": {
-          "totalBeans": 2244.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 2244.0,
+          "totalBeans": 5093.0,
+          "privateCallBeans": 260.0,
+          "matchCallBeans": 4788.0,
+          "giftBeans": 45.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 220
+        }
+      }
+    },
+    {
+      "id": "acct-648439",
+      "displayName": "Crush queen（86h）",
+      "countryIso": "BR",
+      "totalBeans": 21415.0,
+      "privateCallBeans": 230.0,
+      "matchCallBeans": 19152.0,
+      "giftBeans": 483.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1550.0,
+      "billCount": 606,
+      "plannedBeans": 23280,
+      "online": false,
+      "plans": {
+        "2026-05-24": {
+          "planId": "default",
+          "dateKey": "2026-05-24",
+          "recordId": "reg-1779466854648439",
+          "uid": "14946071",
+          "email": "ZhvsyyQxmtsn1727@outlook.com",
+          "nickname": "Crush queen",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 5.12,
+          "targetBeans": 5120,
+          "dailyIncomeLimitOverride": 5120,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-24T01:36:33.655396Z"
+        },
+        "2026-05-25": {
+          "planId": "default",
+          "dateKey": "2026-05-25",
+          "recordId": "reg-1779466854648439",
+          "uid": "14946071",
+          "email": "ZhvsyyQxmtsn1727@outlook.com",
+          "nickname": "Crush queen",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 9.08,
+          "targetBeans": 9080,
+          "dailyIncomeLimitOverride": 9080,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-25T04:21:36.850Z"
+        },
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779466854648439",
+          "uid": "14946071",
+          "email": "ZhvsyyQxmtsn1727@outlook.com",
+          "nickname": "Crush queen",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 9.08,
+          "targetBeans": 9080,
+          "dailyIncomeLimitOverride": 9080,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-23": {
+          "totalBeans": 9371.0,
+          "privateCallBeans": 170.0,
+          "matchCallBeans": 7168.0,
+          "giftBeans": 483.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1550.0,
+          "billCount": 202
+        },
+        "2026-05-24": {
+          "totalBeans": 1952.0,
+          "privateCallBeans": 60.0,
+          "matchCallBeans": 1892.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 123
+          "billCount": 65
+        },
+        "2026-05-25": {
+          "totalBeans": 2336.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2336.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 67
+        },
+        "2026-05-26": {
+          "totalBeans": 7756.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 7756.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 272
+        }
+      }
+    },
+    {
+      "id": "acct-286678",
+      "displayName": "flor 🌷🌹（84h）",
+      "countryIso": "BR",
+      "totalBeans": 21036.0,
+      "privateCallBeans": 1590.0,
+      "matchCallBeans": 17272.0,
+      "giftBeans": 624.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1550.0,
+      "billCount": 601,
+      "plannedBeans": 24790,
+      "online": false,
+      "plans": {
+        "2026-05-24": {
+          "planId": "default",
+          "dateKey": "2026-05-24",
+          "recordId": "reg-1779466471286678",
+          "uid": "14945840",
+          "email": "EuzkfrVpocb4649@outlook.com",
+          "nickname": "flor 🌷🌹",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 5.23,
+          "targetBeans": 5230,
+          "dailyIncomeLimitOverride": 5230,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-24T01:36:33.655396Z"
+        },
+        "2026-05-25": {
+          "planId": "default",
+          "dateKey": "2026-05-25",
+          "recordId": "reg-1779466471286678",
+          "uid": "14945840",
+          "email": "EuzkfrVpocb4649@outlook.com",
+          "nickname": "flor 🌷🌹",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 9.78,
+          "targetBeans": 9780,
+          "dailyIncomeLimitOverride": 9780,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-25T04:21:36.850Z"
+        },
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779466471286678",
+          "uid": "14945840",
+          "email": "EuzkfrVpocb4649@outlook.com",
+          "nickname": "flor 🌷🌹",
+          "countryIso": "BR",
+          "tier": "C",
+          "targetUsd": 9.78,
+          "targetBeans": 9780,
+          "dailyIncomeLimitOverride": 9780,
+          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
+          "ownerMachineLabel": "GuanghedeMac-mini.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-23": {
+          "totalBeans": 9402.0,
+          "privateCallBeans": 1200.0,
+          "matchCallBeans": 6204.0,
+          "giftBeans": 448.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1550.0,
+          "billCount": 269
+        },
+        "2026-05-24": {
+          "totalBeans": 684.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 684.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 18
+        },
+        "2026-05-25": {
+          "totalBeans": 3367.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3284.0,
+          "giftBeans": 83.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 75
+        },
+        "2026-05-26": {
+          "totalBeans": 7583.0,
+          "privateCallBeans": 390.0,
+          "matchCallBeans": 7100.0,
+          "giftBeans": 93.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 239
         }
       }
     },
@@ -17535,222 +17751,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-286678",
-      "displayName": "flor 🌷🌹（84h）",
-      "countryIso": "BR",
-      "totalBeans": 18722.0,
-      "privateCallBeans": 1200.0,
-      "matchCallBeans": 15368.0,
-      "giftBeans": 604.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1550.0,
-      "billCount": 540,
-      "plannedBeans": 24790,
-      "online": false,
-      "plans": {
-        "2026-05-24": {
-          "planId": "default",
-          "dateKey": "2026-05-24",
-          "recordId": "reg-1779466471286678",
-          "uid": "14945840",
-          "email": "EuzkfrVpocb4649@outlook.com",
-          "nickname": "flor 🌷🌹",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 5.23,
-          "targetBeans": 5230,
-          "dailyIncomeLimitOverride": 5230,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-24T01:36:33.655396Z"
-        },
-        "2026-05-25": {
-          "planId": "default",
-          "dateKey": "2026-05-25",
-          "recordId": "reg-1779466471286678",
-          "uid": "14945840",
-          "email": "EuzkfrVpocb4649@outlook.com",
-          "nickname": "flor 🌷🌹",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 9.78,
-          "targetBeans": 9780,
-          "dailyIncomeLimitOverride": 9780,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-25T04:21:36.850Z"
-        },
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779466471286678",
-          "uid": "14945840",
-          "email": "EuzkfrVpocb4649@outlook.com",
-          "nickname": "flor 🌷🌹",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 9.78,
-          "targetBeans": 9780,
-          "dailyIncomeLimitOverride": 9780,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-23": {
-          "totalBeans": 9402.0,
-          "privateCallBeans": 1200.0,
-          "matchCallBeans": 6204.0,
-          "giftBeans": 448.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1550.0,
-          "billCount": 269
-        },
-        "2026-05-24": {
-          "totalBeans": 684.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 684.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 18
-        },
-        "2026-05-25": {
-          "totalBeans": 3367.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 3284.0,
-          "giftBeans": 83.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 75
-        },
-        "2026-05-26": {
-          "totalBeans": 5269.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 5196.0,
-          "giftBeans": 73.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 178
-        }
-      }
-    },
-    {
-      "id": "acct-648439",
-      "displayName": "Crush queen（86h）",
-      "countryIso": "BR",
-      "totalBeans": 17271.0,
-      "privateCallBeans": 230.0,
-      "matchCallBeans": 15008.0,
-      "giftBeans": 483.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1550.0,
-      "billCount": 478,
-      "plannedBeans": 23280,
-      "online": false,
-      "plans": {
-        "2026-05-24": {
-          "planId": "default",
-          "dateKey": "2026-05-24",
-          "recordId": "reg-1779466854648439",
-          "uid": "14946071",
-          "email": "ZhvsyyQxmtsn1727@outlook.com",
-          "nickname": "Crush queen",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 5.12,
-          "targetBeans": 5120,
-          "dailyIncomeLimitOverride": 5120,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-24T01:36:33.655396Z"
-        },
-        "2026-05-25": {
-          "planId": "default",
-          "dateKey": "2026-05-25",
-          "recordId": "reg-1779466854648439",
-          "uid": "14946071",
-          "email": "ZhvsyyQxmtsn1727@outlook.com",
-          "nickname": "Crush queen",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 9.08,
-          "targetBeans": 9080,
-          "dailyIncomeLimitOverride": 9080,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-25T04:21:36.850Z"
-        },
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779466854648439",
-          "uid": "14946071",
-          "email": "ZhvsyyQxmtsn1727@outlook.com",
-          "nickname": "Crush queen",
-          "countryIso": "BR",
-          "tier": "C",
-          "targetUsd": 9.08,
-          "targetBeans": 9080,
-          "dailyIncomeLimitOverride": 9080,
-          "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
-          "ownerMachineLabel": "GuanghedeMac-mini.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-23": {
-          "totalBeans": 9371.0,
-          "privateCallBeans": 170.0,
-          "matchCallBeans": 7168.0,
-          "giftBeans": 483.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1550.0,
-          "billCount": 202
-        },
-        "2026-05-24": {
-          "totalBeans": 1952.0,
-          "privateCallBeans": 60.0,
-          "matchCallBeans": 1892.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 65
-        },
-        "2026-05-25": {
-          "totalBeans": 2336.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 2336.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 67
-        },
-        "2026-05-26": {
-          "totalBeans": 3612.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 3612.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 144
         }
       }
     },
@@ -18697,6 +18697,51 @@
       }
     },
     {
+      "id": "acct-267969",
+      "displayName": "La morenita rodrigue（88h）",
+      "countryIso": "CO",
+      "totalBeans": 7706.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 6192.0,
+      "giftBeans": 874.0,
+      "messageBeans": 0.0,
+      "otherBeans": 640.0,
+      "billCount": 160,
+      "plannedBeans": 6000,
+      "online": false,
+      "plans": {
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779793551267969",
+          "uid": "15127800",
+          "email": "JajmtCkdakv051766@outlook.com",
+          "nickname": "La morenita rodrigue",
+          "countryIso": "CO",
+          "tier": "D",
+          "targetUsd": 6.0,
+          "targetBeans": 6000,
+          "dailyIncomeLimitOverride": 6000,
+          "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
+          "ownerMachineLabel": "StelladeMacBook-Pro.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-26": {
+          "totalBeans": 7706.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6192.0,
+          "giftBeans": 874.0,
+          "messageBeans": 0.0,
+          "otherBeans": 640.0,
+          "billCount": 160
+        }
+      }
+    },
+    {
       "id": "acct-467163",
       "displayName": "Erika（49）",
       "countryIso": "PH",
@@ -19039,16 +19084,106 @@
       }
     },
     {
+      "id": "acct-251391",
+      "displayName": "Esmeralda（89h）",
+      "countryIso": "CO",
+      "totalBeans": 5838.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 5828.0,
+      "giftBeans": 10.0,
+      "messageBeans": 0.0,
+      "otherBeans": 0.0,
+      "billCount": 197,
+      "plannedBeans": 6000,
+      "online": false,
+      "plans": {
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779793759251391",
+          "uid": "15127933",
+          "email": "ParypIuthj897410@outlook.com",
+          "nickname": "Esmeralda",
+          "countryIso": "CO",
+          "tier": "D",
+          "targetUsd": 6.0,
+          "targetBeans": 6000,
+          "dailyIncomeLimitOverride": 6000,
+          "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
+          "ownerMachineLabel": "StelladeMacBook-Pro.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-26": {
+          "totalBeans": 5838.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 5828.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 197
+        }
+      }
+    },
+    {
+      "id": "acct-807812",
+      "displayName": "Fer🔥（90h）",
+      "countryIso": "BR",
+      "totalBeans": 5720.0,
+      "privateCallBeans": 100.0,
+      "matchCallBeans": 5300.0,
+      "giftBeans": 70.0,
+      "messageBeans": 0.0,
+      "otherBeans": 250.0,
+      "billCount": 184,
+      "plannedBeans": 6000,
+      "online": false,
+      "plans": {
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779793994807812",
+          "uid": "15127994",
+          "email": "PlisjDpncqc5313@outlook.com",
+          "nickname": "Fer🔥",
+          "countryIso": "BR",
+          "tier": "D",
+          "targetUsd": 6.0,
+          "targetBeans": 6000,
+          "dailyIncomeLimitOverride": 6000,
+          "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
+          "ownerMachineLabel": "StelladeMacBook-Pro.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-26": {
+          "totalBeans": 5720.0,
+          "privateCallBeans": 100.0,
+          "matchCallBeans": 5300.0,
+          "giftBeans": 70.0,
+          "messageBeans": 0.0,
+          "otherBeans": 250.0,
+          "billCount": 184
+        }
+      }
+    },
+    {
       "id": "acct-645685",
       "displayName": "Isabela Rico（37）",
       "countryIso": "VE",
-      "totalBeans": 5190.0,
+      "totalBeans": 5272.0,
       "privateCallBeans": 1442.0,
-      "matchCallBeans": 3188.0,
+      "matchCallBeans": 3220.0,
       "giftBeans": 10.0,
       "messageBeans": 0.0,
-      "otherBeans": 550.0,
-      "billCount": 233,
+      "otherBeans": 600.0,
+      "billCount": 238,
       "plannedBeans": 21060,
       "online": false,
       "plans": {
@@ -19370,58 +19505,13 @@
           "billCount": 2
         },
         "2026-05-26": {
-          "totalBeans": 260.0,
+          "totalBeans": 342.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 260.0,
+          "matchCallBeans": 292.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 25
-        }
-      }
-    },
-    {
-      "id": "acct-267969",
-      "displayName": "La morenita rodrigue（88h）",
-      "countryIso": "CO",
-      "totalBeans": 4863.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 4044.0,
-      "giftBeans": 819.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 96,
-      "plannedBeans": 6000,
-      "online": false,
-      "plans": {
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779793551267969",
-          "uid": "15127800",
-          "email": "JajmtCkdakv051766@outlook.com",
-          "nickname": "La morenita rodrigue",
-          "countryIso": "CO",
-          "tier": "D",
-          "targetUsd": 6.0,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
-          "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
-          "ownerMachineLabel": "StelladeMacBook-Pro.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-26": {
-          "totalBeans": 4863.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 4044.0,
-          "giftBeans": 819.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 96
+          "otherBeans": 50.0,
+          "billCount": 30
         }
       }
     },
@@ -20019,61 +20109,16 @@
       }
     },
     {
-      "id": "acct-251391",
-      "displayName": "Esmeralda（89h）",
-      "countryIso": "CO",
-      "totalBeans": 3616.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 3616.0,
-      "giftBeans": 0.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 137,
-      "plannedBeans": 6000,
-      "online": false,
-      "plans": {
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779793759251391",
-          "uid": "15127933",
-          "email": "ParypIuthj897410@outlook.com",
-          "nickname": "Esmeralda",
-          "countryIso": "CO",
-          "tier": "D",
-          "targetUsd": 6.0,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
-          "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
-          "ownerMachineLabel": "StelladeMacBook-Pro.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-26": {
-          "totalBeans": 3616.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 3616.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 137
-        }
-      }
-    },
-    {
       "id": "acct-739742",
       "displayName": "Pao mor..😍💘（87h）",
       "countryIso": "VE",
-      "totalBeans": 3121.0,
+      "totalBeans": 3471.0,
       "privateCallBeans": 0.0,
       "matchCallBeans": 3096.0,
       "giftBeans": 25.0,
       "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 118,
+      "otherBeans": 350.0,
+      "billCount": 123,
       "plannedBeans": 6000,
       "online": false,
       "plans": {
@@ -20098,13 +20143,13 @@
       },
       "days": {
         "2026-05-26": {
-          "totalBeans": 3121.0,
+          "totalBeans": 3471.0,
           "privateCallBeans": 0.0,
           "matchCallBeans": 3096.0,
           "giftBeans": 25.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 118
+          "otherBeans": 350.0,
+          "billCount": 123
         }
       }
     },
@@ -20667,51 +20712,6 @@
       }
     },
     {
-      "id": "acct-807812",
-      "displayName": "Fer🔥（90h）",
-      "countryIso": "BR",
-      "totalBeans": 1012.0,
-      "privateCallBeans": 100.0,
-      "matchCallBeans": 912.0,
-      "giftBeans": 0.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 25,
-      "plannedBeans": 6000,
-      "online": false,
-      "plans": {
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779793994807812",
-          "uid": "15127994",
-          "email": "PlisjDpncqc5313@outlook.com",
-          "nickname": "Fer🔥",
-          "countryIso": "BR",
-          "tier": "D",
-          "targetUsd": 6.0,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
-          "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
-          "ownerMachineLabel": "StelladeMacBook-Pro.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-26": {
-          "totalBeans": 1012.0,
-          "privateCallBeans": 100.0,
-          "matchCallBeans": 912.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 25
-        }
-      }
-    },
-    {
       "id": "acct-962250",
       "displayName": "Fabiana",
       "countryIso": "PH",
@@ -20989,78 +20989,6 @@
           "billCount": 0
         },
         "2026-05-20": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-440666",
-      "displayName": "Camila la reina（82h）",
-      "countryIso": "BR",
-      "totalBeans": 0.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 0.0,
-      "giftBeans": 0.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 0,
-      "plannedBeans": 6000,
-      "online": false,
-      "plans": {
-        "2026-05-26": {
-          "planId": "default",
-          "dateKey": "2026-05-26",
-          "recordId": "reg-1779466125440666",
-          "uid": "14945636",
-          "email": "AcieKxtsgb009291@outlook.com",
-          "nickname": "Camila la reina",
-          "countryIso": "BR",
-          "tier": "D",
-          "targetUsd": 6.0,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
-          "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
-          "ownerMachineLabel": "StelladeMacBook-Pro.local",
-          "matchMediaBackend": "localAgora",
-          "duoplusImageId": "",
-          "updatedAt": "2026-05-26T15:27:10.163Z"
-        }
-      },
-      "days": {
-        "2026-05-23": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-24": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-25": {
-          "totalBeans": 0.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 0.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 0
-        },
-        "2026-05-26": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
           "matchCallBeans": 0.0,
@@ -21688,6 +21616,78 @@
         }
       },
       "days": {
+        "2026-05-26": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-440666",
+      "displayName": "Camila la reina（82h）",
+      "countryIso": "BR",
+      "totalBeans": 0.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 0.0,
+      "giftBeans": 0.0,
+      "messageBeans": 0.0,
+      "otherBeans": 0.0,
+      "billCount": 0,
+      "plannedBeans": 6000,
+      "online": false,
+      "plans": {
+        "2026-05-26": {
+          "planId": "default",
+          "dateKey": "2026-05-26",
+          "recordId": "reg-1779466125440666",
+          "uid": "14945636",
+          "email": "AcieKxtsgb009291@outlook.com",
+          "nickname": "Camila la reina",
+          "countryIso": "BR",
+          "tier": "D",
+          "targetUsd": 6.0,
+          "targetBeans": 6000,
+          "dailyIncomeLimitOverride": 6000,
+          "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
+          "ownerMachineLabel": "StelladeMacBook-Pro.local",
+          "matchMediaBackend": "localAgora",
+          "duoplusImageId": "",
+          "updatedAt": "2026-05-26T15:27:10.163Z"
+        }
+      },
+      "days": {
+        "2026-05-23": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-24": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
+        "2026-05-25": {
+          "totalBeans": 0.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 0.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
+        },
         "2026-05-26": {
           "totalBeans": 0.0,
           "privateCallBeans": 0.0,
