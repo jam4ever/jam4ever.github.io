@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-05",
-  "generatedAtIso": "2026-05-29T10:38:11.870Z",
+  "generatedAtIso": "2026-05-29T13:30:05.992Z",
   "summary": {
     "totalBeans": 3856093,
     "privateCallBeans": 126499,
@@ -15,7 +15,7 @@
     "withdrawnCents": 0,
     "billCount": 100184,
     "accountCount": 73,
-    "plannedBeans": 867429
+    "plannedBeans": 884762
   },
   "dailyTotals": [
     {
@@ -257,7 +257,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 867429
+      "plannedBeans": 884762
     }
   ],
   "countryTotals": [
@@ -10655,7 +10655,7 @@
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -10695,7 +10695,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "xndMN",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -10716,7 +10716,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 6937,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -10728,14 +10728,14 @@
           "nickname": "Victoria",
           "countryIso": "VE",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 6.94,
+          "targetBeans": 6937,
+          "dailyIncomeLimitOverride": 6937,
           "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -10775,7 +10775,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -10815,7 +10815,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -10855,7 +10855,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -10895,7 +10895,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -10935,7 +10935,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -10975,7 +10975,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11015,7 +11015,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11036,7 +11036,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 6473,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -11048,14 +11048,14 @@
           "nickname": "MI Agencia",
           "countryIso": "BR",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 6.47,
+          "targetBeans": 6473,
+          "dailyIncomeLimitOverride": 6473,
           "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11095,7 +11095,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11135,7 +11135,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11175,7 +11175,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "TA6iM",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11215,7 +11215,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11255,7 +11255,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "euuEC",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11295,7 +11295,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11335,7 +11335,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "A0CYK",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11375,7 +11375,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "73Jd0",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11415,7 +11415,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11455,7 +11455,7 @@
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "lyxrG",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11495,7 +11495,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "ONuSl",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11535,7 +11535,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "dEXc9",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11575,7 +11575,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "c9z0n",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11615,7 +11615,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "9HPff",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11655,7 +11655,7 @@
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11695,7 +11695,7 @@
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11735,7 +11735,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "c9z0n",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11775,7 +11775,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "cloudAdb",
           "duoplusImageId": "Sxsbo",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11815,7 +11815,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "veMyh",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11836,7 +11836,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7851,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -11848,14 +11848,14 @@
           "nickname": "Anacosta",
           "countryIso": "BR",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7.85,
+          "targetBeans": 7851,
+          "dailyIncomeLimitOverride": 7851,
           "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11895,7 +11895,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "TA6iM",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11935,7 +11935,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11956,7 +11956,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 6121,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -11968,14 +11968,14 @@
           "nickname": "Alexia rodriguez",
           "countryIso": "BR",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 6.12,
+          "targetBeans": 6121,
+          "dailyIncomeLimitOverride": 6121,
           "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -11996,7 +11996,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7302,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -12008,14 +12008,14 @@
           "nickname": "Fabiana",
           "countryIso": "PH",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7.3,
+          "targetBeans": 7302,
+          "dailyIncomeLimitOverride": 7302,
           "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12055,7 +12055,7 @@
           "ownerMachineLabel": "cicideMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12095,7 +12095,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "ONuSl",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12135,7 +12135,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "ONuSl",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12175,7 +12175,7 @@
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "73Jd0",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12196,7 +12196,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7044,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -12208,14 +12208,14 @@
           "nickname": "yelixis fernandez",
           "countryIso": "BR",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7.04,
+          "targetBeans": 7044,
+          "dailyIncomeLimitOverride": 7044,
           "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "73Jd0",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12255,7 +12255,7 @@
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "c9z0n",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12295,7 +12295,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12335,7 +12335,7 @@
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12375,7 +12375,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12415,7 +12415,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12455,7 +12455,7 @@
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12476,7 +12476,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7765,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -12488,14 +12488,14 @@
           "nickname": "Pedro AG",
           "countryIso": "BR",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7.76,
+          "targetBeans": 7765,
+          "dailyIncomeLimitOverride": 7765,
           "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
           "ownerMachineLabel": "pengjizongdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12535,7 +12535,7 @@
           "ownerMachineLabel": "",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12556,7 +12556,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 6692,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -12568,14 +12568,14 @@
           "nickname": "Camila la reina",
           "countryIso": "BR",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 6.69,
+          "targetBeans": 6692,
+          "dailyIncomeLimitOverride": 6692,
           "ownerMachineId": "",
           "ownerMachineLabel": "",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12615,7 +12615,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12655,7 +12655,7 @@
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12695,7 +12695,7 @@
           "ownerMachineLabel": "GuanghedeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12735,7 +12735,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12775,7 +12775,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12796,7 +12796,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7960,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -12808,14 +12808,14 @@
           "nickname": "Wild Horny",
           "countryIso": "VE",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7.96,
+          "targetBeans": 7960,
+          "dailyIncomeLimitOverride": 7960,
           "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12855,7 +12855,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12895,7 +12895,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12935,7 +12935,7 @@
           "ownerMachineLabel": "StelladeMacBook-Pro.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12956,7 +12956,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7008,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -12968,14 +12968,14 @@
           "nickname": "ريتال",
           "countryIso": "SY",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7.01,
+          "targetBeans": 7008,
+          "dailyIncomeLimitOverride": 7008,
           "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
           "ownerMachineLabel": "pccdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -12996,7 +12996,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7001,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -13008,14 +13008,14 @@
           "nickname": "mai",
           "countryIso": "VE",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7,
+          "targetBeans": 7001,
+          "dailyIncomeLimitOverride": 7001,
           "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
           "ownerMachineLabel": "pccdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -13036,7 +13036,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 6893,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -13048,14 +13048,14 @@
           "nickname": "hot sadia",
           "countryIso": "VE",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 6.89,
+          "targetBeans": 6893,
+          "dailyIncomeLimitOverride": 6893,
           "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
           "ownerMachineLabel": "pccdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -13076,7 +13076,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7100,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -13088,14 +13088,14 @@
           "nickname": "Sofía",
           "countryIso": "CO",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7.1,
+          "targetBeans": 7100,
+          "dailyIncomeLimitOverride": 7100,
           "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
           "ownerMachineLabel": "pccdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -13116,7 +13116,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7478,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -13128,14 +13128,14 @@
           "nickname": "ألماسه........",
           "countryIso": "SY",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7.48,
+          "targetBeans": 7478,
+          "dailyIncomeLimitOverride": 7478,
           "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
           "ownerMachineLabel": "pccdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -13156,7 +13156,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 7032,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -13168,14 +13168,14 @@
           "nickname": "Katerine",
           "countryIso": "CO",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 7.03,
+          "targetBeans": 7032,
+          "dailyIncomeLimitOverride": 7032,
           "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
           "ownerMachineLabel": "pccdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -13196,7 +13196,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 6059,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -13208,14 +13208,14 @@
           "nickname": "Jenn💋",
           "countryIso": "VE",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 6.06,
+          "targetBeans": 6059,
+          "dailyIncomeLimitOverride": 6059,
           "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
           "ownerMachineLabel": "pccdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -13236,7 +13236,7 @@
       "messageBeans": 0,
       "otherBeans": 0,
       "billCount": 0,
-      "plannedBeans": 6000,
+      "plannedBeans": 6617,
       "online": false,
       "plans": {
         "2026-05-29": {
@@ -13248,14 +13248,14 @@
           "nickname": "Linda milena",
           "countryIso": "VE",
           "tier": "",
-          "targetUsd": 6,
-          "targetBeans": 6000,
-          "dailyIncomeLimitOverride": 6000,
+          "targetUsd": 6.62,
+          "targetBeans": 6617,
+          "dailyIncomeLimitOverride": 6617,
           "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
           "ownerMachineLabel": "pccdeMac-mini.local",
           "matchMediaBackend": "localAgora",
           "duoplusImageId": "",
-          "updatedAt": "2026-05-29T10:38:11.870Z"
+          "updatedAt": "2026-05-29T13:30:05.992Z"
         }
       },
       "days": {}
@@ -13280,7 +13280,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "xndMN",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13298,7 +13298,7 @@
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13316,7 +13316,7 @@
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "lyxrG",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13334,7 +13334,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "lyxrG",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13352,7 +13352,7 @@
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13363,14 +13363,14 @@
         "nickname": "Anacosta",
         "countryIso": "BR",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7.85,
+        "targetBeans": 7851,
+        "dailyIncomeLimitOverride": 7851,
         "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13388,7 +13388,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "TA6iM",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13406,7 +13406,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "ONuSl",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13424,7 +13424,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13442,7 +13442,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "c9z0n",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13460,7 +13460,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "veMyh",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13478,7 +13478,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "euuEC",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13496,7 +13496,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "A0CYK",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13514,7 +13514,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13532,7 +13532,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13550,7 +13550,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13561,14 +13561,14 @@
         "nickname": "Alexia rodriguez",
         "countryIso": "BR",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 6.12,
+        "targetBeans": 6121,
+        "dailyIncomeLimitOverride": 6121,
         "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13586,7 +13586,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13604,7 +13604,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13622,7 +13622,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13640,7 +13640,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "73Jd0",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13658,7 +13658,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13676,7 +13676,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13694,7 +13694,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13712,7 +13712,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13730,7 +13730,7 @@
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13741,14 +13741,14 @@
         "nickname": "MI Agencia",
         "countryIso": "BR",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 6.47,
+        "targetBeans": 6473,
+        "dailyIncomeLimitOverride": 6473,
         "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13759,14 +13759,14 @@
         "nickname": "Victoria",
         "countryIso": "VE",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 6.94,
+        "targetBeans": 6937,
+        "dailyIncomeLimitOverride": 6937,
         "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13777,14 +13777,14 @@
         "nickname": "Fabiana",
         "countryIso": "PH",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7.3,
+        "targetBeans": 7302,
+        "dailyIncomeLimitOverride": 7302,
         "ownerMachineId": "cicidemac-mini.local-yqpznyks9t5t",
         "ownerMachineLabel": "cicideMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13802,7 +13802,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "c9z0n",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13820,7 +13820,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "9HPff",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13838,7 +13838,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "lyxrG",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13856,7 +13856,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "dEXc9",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13874,7 +13874,7 @@
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13892,7 +13892,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "TA6iM",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13910,7 +13910,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "cloudAdb",
         "duoplusImageId": "Sxsbo",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13928,7 +13928,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "ONuSl",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13946,7 +13946,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "ONuSl",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13964,7 +13964,7 @@
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "73Jd0",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -13975,14 +13975,14 @@
         "nickname": "yelixis fernandez",
         "countryIso": "BR",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7.04,
+        "targetBeans": 7044,
+        "dailyIncomeLimitOverride": 7044,
         "ownerMachineId": "guanghedemac-mini.local-z0f3ylo0lnmw",
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "73Jd0",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14000,7 +14000,7 @@
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "c9z0n",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14018,7 +14018,7 @@
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14036,7 +14036,7 @@
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14054,7 +14054,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14072,7 +14072,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14090,7 +14090,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14101,14 +14101,14 @@
         "nickname": "Camila la reina",
         "countryIso": "BR",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 6.69,
+        "targetBeans": 6692,
+        "dailyIncomeLimitOverride": 6692,
         "ownerMachineId": "",
         "ownerMachineLabel": "",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14126,7 +14126,7 @@
         "ownerMachineLabel": "",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14144,7 +14144,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14162,7 +14162,7 @@
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14180,7 +14180,7 @@
         "ownerMachineLabel": "GuanghedeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14191,14 +14191,14 @@
         "nickname": "Pedro AG",
         "countryIso": "BR",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7.76,
+        "targetBeans": 7765,
+        "dailyIncomeLimitOverride": 7765,
         "ownerMachineId": "pengjizongdemac-mini.local-svy2qlw3xsa3",
         "ownerMachineLabel": "pengjizongdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14216,7 +14216,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14234,7 +14234,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14252,7 +14252,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14270,7 +14270,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14281,14 +14281,14 @@
         "nickname": "Wild Horny",
         "countryIso": "VE",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7.96,
+        "targetBeans": 7960,
+        "dailyIncomeLimitOverride": 7960,
         "ownerMachineId": "stellademacbook-pro.local-imkqamrrsx83",
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14306,7 +14306,7 @@
         "ownerMachineLabel": "StelladeMacBook-Pro.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14317,14 +14317,14 @@
         "nickname": "Jenn💋",
         "countryIso": "VE",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 6.06,
+        "targetBeans": 6059,
+        "dailyIncomeLimitOverride": 6059,
         "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
         "ownerMachineLabel": "pccdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14335,14 +14335,14 @@
         "nickname": "mai",
         "countryIso": "VE",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7,
+        "targetBeans": 7001,
+        "dailyIncomeLimitOverride": 7001,
         "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
         "ownerMachineLabel": "pccdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14353,14 +14353,14 @@
         "nickname": "ألماسه........",
         "countryIso": "SY",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7.48,
+        "targetBeans": 7478,
+        "dailyIncomeLimitOverride": 7478,
         "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
         "ownerMachineLabel": "pccdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14371,14 +14371,14 @@
         "nickname": "Katerine",
         "countryIso": "CO",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7.03,
+        "targetBeans": 7032,
+        "dailyIncomeLimitOverride": 7032,
         "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
         "ownerMachineLabel": "pccdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14389,14 +14389,14 @@
         "nickname": "ريتال",
         "countryIso": "SY",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7.01,
+        "targetBeans": 7008,
+        "dailyIncomeLimitOverride": 7008,
         "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
         "ownerMachineLabel": "pccdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14407,14 +14407,14 @@
         "nickname": "Linda milena",
         "countryIso": "VE",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 6.62,
+        "targetBeans": 6617,
+        "dailyIncomeLimitOverride": 6617,
         "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
         "ownerMachineLabel": "pccdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14425,14 +14425,14 @@
         "nickname": "Sofía",
         "countryIso": "CO",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 7.1,
+        "targetBeans": 7100,
+        "dailyIncomeLimitOverride": 7100,
         "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
         "ownerMachineLabel": "pccdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       },
       {
         "planId": "default",
@@ -14443,14 +14443,14 @@
         "nickname": "hot sadia",
         "countryIso": "VE",
         "tier": "",
-        "targetUsd": 6,
-        "targetBeans": 6000,
-        "dailyIncomeLimitOverride": 6000,
+        "targetUsd": 6.89,
+        "targetBeans": 6893,
+        "dailyIncomeLimitOverride": 6893,
         "ownerMachineId": "pccdemac-mini.local-je9zbjzcki7a",
         "ownerMachineLabel": "pccdeMac-mini.local",
         "matchMediaBackend": "localAgora",
         "duoplusImageId": "",
-        "updatedAt": "2026-05-29T10:38:11.870Z"
+        "updatedAt": "2026-05-29T13:30:05.992Z"
       }
     ]
   }
