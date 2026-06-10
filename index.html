@@ -83,9 +83,13 @@
       const summary = data.summary || {};
       const historicalTotal = Number(summary.totalBeans || accounts.reduce((s,a) => s + Number(a.totalBeans || 0), 0));
       const plannedTotal = accounts.reduce((s,a) => s + Object.values(a.plans || {}).reduce((p,v) => p + Number(v.targetBeans || 0), 0), 0);
-      const monthStart = new Date().toISOString().slice(0,7) + '-08';
-      const monthlyTotal = (data.dailyTotals || []).filter(d => d.date >= monthStart).reduce((s,d) => s + Number(d.totalBeans || 0), 0);
-      const monthlyAfterTax = Math.round(monthlyTotal * 0.85);
+      const monthPrefix = new Date().toISOString().slice(0,7);
+      const taxCutoff = monthPrefix + '-08';
+      const monthlyTotal = (data.dailyTotals || []).filter(d => d.date.startsWith(monthPrefix)).reduce((s,d) => {
+        const beans = Number(d.totalBeans || 0);
+        return s + (d.date >= taxCutoff ? beans * 0.85 : beans);
+      }, 0);
+      const monthlyAfterTax = Math.round(monthlyTotal);
       app.innerHTML = `<header class="hero"><div class="wrap top"><div class="logo">↗</div><div><h1>${data.title || '历史收益看板'}</h1><div class="sub">${data.monthKey || ''} / 更新 ${String(data.generatedAtIso || '').slice(0,16).replace('T',' ')}</div></div></div></header>
       <main><section class="grid">${card('本月收益', money(monthlyAfterTax))}${card('计划收益', money(plannedTotal))}${card('未提现', balanceMoney(summary))}${card('账号数', Number(summary.accountCount || accounts.length).toLocaleString())}</section>
       <section class="panel"><h2>每日走势</h2><div class="bars">${bars(data, accounts)}</div></section>
