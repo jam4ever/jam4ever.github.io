@@ -83,8 +83,11 @@
       const summary = data.summary || {};
       const historicalTotal = Number(summary.totalBeans || accounts.reduce((s,a) => s + Number(a.totalBeans || 0), 0));
       const plannedTotal = accounts.reduce((s,a) => s + Object.values(a.plans || {}).reduce((p,v) => p + Number(v.targetBeans || 0), 0), 0);
+      const monthStart = new Date().toISOString().slice(0,7) + '-08';
+      const monthlyTotal = (data.dailyTotals || []).filter(d => d.date >= monthStart).reduce((s,d) => s + Number(d.totalBeans || 0), 0);
+      const monthlyAfterTax = Math.round(monthlyTotal * 0.85);
       app.innerHTML = `<header class="hero"><div class="wrap top"><div class="logo">↗</div><div><h1>${data.title || '历史收益看板'}</h1><div class="sub">${data.monthKey || ''} / 更新 ${String(data.generatedAtIso || '').slice(0,16).replace('T',' ')}</div></div></div></header>
-      <main><section class="grid">${card('总收益', money(historicalTotal))}${card('计划收益', money(plannedTotal))}${card('未提现', balanceMoney(summary))}${card('账号数', Number(summary.accountCount || accounts.length).toLocaleString())}</section>
+      <main><section class="grid">${card('本月收益', money(monthlyAfterTax))}${card('计划收益', money(plannedTotal))}${card('未提现', balanceMoney(summary))}${card('账号数', Number(summary.accountCount || accounts.length).toLocaleString())}</section>
       <section class="panel"><h2>每日走势</h2><div class="bars">${bars(data, accounts)}</div></section>
       <div class="split"><section class="panel"><h2>地区合计</h2>${(data.countryTotals || []).map(c => `<div class="row"><span class="pill">${c.countryIso}</span><b>${money(c.totalBeans)}</b><span>${c.billCount || 0} 笔</span></div>`).join('')}</section>
       <section class="panel"><h2>主播排行</h2>${accounts.slice(0,8).map((a,i)=>`<div class="row"><span class="pill">#${i+1}</span><b>${a.displayName}</b><span class="money">${money(a.totalBeans)}</span></div>`).join('')}</section></div>
