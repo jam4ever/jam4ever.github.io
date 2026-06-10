@@ -33,20 +33,7 @@
     .tooltip span { display:flex; justify-content:space-between; gap:14px; color:#d8eeeb; }
     .barbox:hover .tooltip,.barbox:focus .tooltip,.barbox.is-active .tooltip { opacity:1; transform:translateX(-50%) translateY(0); }
     .day { font-size:11px; color:var(--muted); }
-    .fitlist { display:grid; gap:14px; }
-    .fitcard { padding:14px; border:1px solid #e1e7e4; border-radius:8px; background:#fbfdfb; }
-    .fithead { display:flex; flex-wrap:wrap; align-items:center; gap:8px 10px; margin-bottom:10px; }
-    .fitdate { font-size:15px; font-weight:800; margin-right:2px; }
-    .fitpill { display:inline-flex; gap:5px; align-items:baseline; padding:5px 9px; border:1px solid #e1e7e4; border-radius:8px; background:white; color:#657475; font-size:12px; }
-    .fitpill b { color:#20372f; }
-    .negative { color:#b42318 !important; }
-    .positive { color:#0f766e !important; }
-    .fitbar { height:10px; border-radius:5px; overflow:hidden; background:#e9efea; }
-    .fitfill { height:100%; background:#0f766e; }
-    .fitfill.under { background:#e9a23b; }
-    .fitaccounts { display:grid; gap:7px; margin-top:12px; }
-    .fitaccount { display:grid; grid-template-columns:minmax(180px,1fr) auto 76px; gap:10px; align-items:center; font-size:12px; color:#657475; }
-    .fitname { color:#20372f; font-weight:700; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+
     .split { display:grid; grid-template-columns:4fr 6fr; gap:18px; }
     .row { display:grid; grid-template-columns:56px 1fr 92px; gap:10px; align-items:center; padding:9px 0; border-top:1px solid #edf2f1; }
     .pill { display:inline-flex; justify-content:center; border-radius:999px; padding:4px 8px; background:#eaf8f4; color:#246b60; font-size:12px; font-weight:800; }
@@ -99,7 +86,6 @@
       app.innerHTML = `<header class="hero"><div class="wrap top"><div class="logo">↗</div><div><h1>${data.title || '历史收益看板'}</h1><div class="sub">${data.monthKey || ''} / 更新 ${String(data.generatedAtIso || '').slice(0,16).replace('T',' ')}</div></div></div></header>
       <main><section class="grid">${card('总收益', money(historicalTotal))}${card('计划收益', money(plannedTotal))}${card('未提现', balanceMoney(summary))}${card('账号数', Number(summary.accountCount || accounts.length).toLocaleString())}</section>
       <section class="panel"><h2>每日走势</h2><div class="bars">${bars(data, accounts)}</div></section>
-      <section class="panel"><h2>计划拟合差异</h2>${planFit(accounts)}</section>
       <div class="split"><section class="panel"><h2>地区合计</h2>${(data.countryTotals || []).map(c => `<div class="row"><span class="pill">${c.countryIso}</span><b>${money(c.totalBeans)}</b><span>${c.billCount || 0} 笔</span></div>`).join('')}</section>
       <section class="panel"><h2>主播排行</h2>${accounts.slice(0,8).map((a,i)=>`<div class="row"><span class="pill">#${i+1}</span><b>${a.displayName}</b><span class="money">${money(a.totalBeans)}</span></div>`).join('')}</section></div>
       <section class="panel"><h2>历史收益明细</h2><div class="tablewrap"><table><thead><tr><th>主播</th><th>地区</th><th>合计</th><th>点播</th><th>匹配</th><th>笔数</th>${days.map(d=>`<th>${Number(d.slice(8,10)) || d}</th>`).join('')}</tr></thead><tbody>${accounts.map(a => row(a, days)).join('')}</tbody></table></div></section></main>`;
@@ -134,45 +120,7 @@
         bar.addEventListener('blur', () => bar.classList.remove('is-active'));
       }
     }
-    function planFit(accounts) {
-      const days = [...new Set(accounts.flatMap(a => [...Object.keys(a.days || {}), ...Object.keys(a.plans || {})]))].sort();
-      const rows = days.map(date => {
-        let actual = 0, planned = 0;
-        const accountRows = [];
-        for (const account of accounts) {
-          const day = dayVal((account.days || {})[date]);
-          const accountActual = Number(day.totalBeans || 0);
-          const accountPlanned = Number(((account.plans || {})[date] || {}).targetBeans || 0);
-          actual += accountActual;
-          planned += accountPlanned;
-          if (accountActual > 0 || accountPlanned > 0) {
-            accountRows.push({ name: account.displayName || '-', country: account.countryIso || '-', actual: accountActual, planned: accountPlanned });
-          }
-        }
-        accountRows.sort((a,b) => Math.abs((b.actual - b.planned)) - Math.abs((a.actual - a.planned)));
-        return { date, actual, planned, accounts: accountRows };
-      }).filter(row => row.actual > 0 || row.planned > 0).slice(-7).reverse();
-      if (!rows.length) return '<div class="small">暂无计划对比数据</div>';
-      return `<div class="fitlist">${rows.map(fitCard).join('')}</div>`;
-    }
-    function fitCard(row) {
-      const diff = row.actual - row.planned;
-      const ratio = row.planned > 0 ? row.actual / row.planned : (row.actual > 0 ? 1 : 0);
-      const fill = Math.max(0, Math.min(100, ratio * 100));
-      const diffClass = diff >= 0 ? 'positive' : 'negative';
-      return `<div class="fitcard"><div class="fithead"><span class="fitdate">${row.date}</span>${fitPill('预估', money(row.planned))}${fitPill('实际', money(row.actual))}${fitPill('差额', signedMoney(diff), diffClass)}${fitPill('拟合', (ratio * 100).toFixed(1) + '%')}</div><div class="fitbar"><div class="fitfill ${diff < 0 ? 'under' : ''}" style="width:${fill}%"></div></div>${row.accounts.length ? `<div class="fitaccounts">${row.accounts.slice(0,8).map(accountLine).join('')}</div>` : ''}</div>`;
-    }
-    function fitPill(label, value, valueClass = '') {
-      return `<span class="fitpill">${label} <b class="${valueClass}">${value}</b></span>`;
-    }
-    function accountLine(account) {
-      const diff = account.actual - account.planned;
-      return `<div class="fitaccount"><span class="fitname">${account.name} · ${account.country}</span><span>${money(account.actual)} / ${money(account.planned)}</span><b class="${diff >= 0 ? 'positive' : 'negative'}">${signedMoney(diff)}</b></div>`;
-    }
-    function signedMoney(beans) {
-      const sign = beans > 0 ? '+' : beans < 0 ? '-' : '';
-      return sign + money(Math.abs(beans));
-    }
+
     function row(a, days) { return `<tr><td><b>${a.displayName}</b></td><td>${a.countryIso || '-'}</td><td class="money">${money(a.totalBeans)}</td><td>${money(a.privateCallBeans)}</td><td>${money(a.matchCallBeans)}</td><td>${a.billCount || 0}</td>${days.map(d => { const v = dayVal((a.days || {})[d]); const plan = (a.plans || {})[d] || {}; const total = Number(v.totalBeans || 0); const planned = Number(plan.targetBeans || 0); return `<td class="${planned > 0 ? 'planned' : ''}" title="${d} 实际 ${money(total)} 计划 ${money(planned)} 差异 ${money(total - planned)} 点播 ${money(v.privateCallBeans)} 匹配 ${money(v.matchCallBeans)}">${planned > 0 ? `<span class="plantext">计 ${money(planned)}</span>` : ''}<span class="money">${total > 0 ? money(total) : '-'}</span>${total > 0 ? `<span class="small">点${compact(v.privateCallBeans)} / 匹${compact(v.matchCallBeans)}</span>` : ''}</td>`; }).join('')}</tr>`; }
     gate();
   </script>
