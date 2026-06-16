@@ -84,10 +84,11 @@
       const historicalTotal = Number(summary.totalBeans || accounts.reduce((s,a) => s + Number(a.totalBeans || 0), 0));
       const plannedTotal = accounts.reduce((s,a) => s + Object.values(a.plans || {}).reduce((p,v) => p + Number(v.targetBeans || 0), 0), 0);
       const monthPrefix = new Date().toISOString().slice(0,7);
-      const taxCutoff = monthPrefix + '-08';
+      const taxStart = '2026-06-08';
+      const taxEnd = '2026-06-15';
       const monthlyTotal = (data.dailyTotals || []).filter(d => d.date.startsWith(monthPrefix)).reduce((s,d) => {
         const beans = Number(d.totalBeans || 0);
-        return s + (d.date >= taxCutoff ? beans * 0.85 : beans);
+        return s + (d.date >= taxStart && d.date < taxEnd ? beans * 0.85 : beans);
       }, 0);
       const monthlyAfterTax = Math.round(monthlyTotal);
       app.innerHTML = `<header class="hero"><div class="wrap top"><div class="logo">↗</div><div><h1>${data.title || '历史收益看板'}</h1><div class="sub">${data.monthKey || ''} / 更新 ${String(data.generatedAtIso || '').slice(0,16).replace('T',' ')}</div></div></div></header>
