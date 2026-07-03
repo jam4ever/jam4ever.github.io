@@ -2,15 +2,15 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-07",
-  "generatedAtIso": "2026-07-03T10:51:40.275864",
+  "generatedAtIso": "2026-07-03T15:39:57.458761",
   "summary": {
-    "totalBeans": 5453767.0,
-    "privateCallBeans": 124435.0,
-    "matchCallBeans": 5089712.0,
-    "giftBeans": 141838.0,
+    "totalBeans": 5776609.0,
+    "privateCallBeans": 130570.0,
+    "matchCallBeans": 5370856.0,
+    "giftBeans": 136875.0,
     "messageBeans": 0.0,
-    "otherBeans": 97782.0,
-    "unpaidBeans": 5049721.0,
+    "otherBeans": 138308.0,
+    "unpaidBeans": 5398122.0,
     "unpaidCents": 47648.0,
     "withdrawnCents": 279823.0,
     "billCount": 180483,
@@ -31,23 +31,23 @@
     },
     {
       "date": "2026-07-02",
-      "totalBeans": 2718782.0,
+      "totalBeans": 2726010.0,
       "privateCallBeans": 58995.0,
-      "matchCallBeans": 2567168.0,
-      "giftBeans": 62471.0,
+      "matchCallBeans": 2568896.0,
+      "giftBeans": 57508.0,
       "messageBeans": 0.0,
-      "otherBeans": 30148.0,
+      "otherBeans": 40611.0,
       "billCount": 91090,
       "plannedBeans": 0
     },
     {
       "date": "2026-07-03",
-      "totalBeans": 84425.0,
-      "privateCallBeans": 585.0,
-      "matchCallBeans": 82000.0,
+      "totalBeans": 400039.0,
+      "privateCallBeans": 6720.0,
+      "matchCallBeans": 361416.0,
       "giftBeans": 0.0,
       "messageBeans": 0.0,
-      "otherBeans": 1840.0,
+      "otherBeans": 31903.0,
       "billCount": 0,
       "plannedBeans": 0
     }
@@ -55,67 +55,67 @@
   "countryTotals": [
     {
       "countryIso": "BR",
-      "totalBeans": 2068619.0,
-      "privateCallBeans": 66375.0,
-      "matchCallBeans": 1909976.0,
+      "totalBeans": 2193201.0,
+      "privateCallBeans": 68995.0,
+      "matchCallBeans": 2022136.0,
       "giftBeans": 51651.0,
       "messageBeans": 0.0,
-      "otherBeans": 40617.0,
+      "otherBeans": 50419.0,
       "billCount": 69736,
       "accountCount": 53
     },
     {
       "countryIso": "VE",
-      "totalBeans": 1257535.0,
-      "privateCallBeans": 11555.0,
-      "matchCallBeans": 1189508.0,
-      "giftBeans": 37923.0,
+      "totalBeans": 1325864.0,
+      "privateCallBeans": 12395.0,
+      "matchCallBeans": 1247576.0,
+      "giftBeans": 37888.0,
       "messageBeans": 0.0,
-      "otherBeans": 18549.0,
+      "otherBeans": 28005.0,
       "billCount": 43702,
       "accountCount": 35
     },
     {
       "countryIso": "SY",
-      "totalBeans": 1046981.0,
-      "privateCallBeans": 29585.0,
-      "matchCallBeans": 976748.0,
+      "totalBeans": 1120065.0,
+      "privateCallBeans": 32195.0,
+      "matchCallBeans": 1039476.0,
       "giftBeans": 24964.0,
       "messageBeans": 0.0,
-      "otherBeans": 15684.0,
+      "otherBeans": 23430.0,
       "billCount": 31579,
       "accountCount": 24
     },
     {
       "countryIso": "CO",
-      "totalBeans": 824346.0,
+      "totalBeans": 848214.0,
       "privateCallBeans": 12940.0,
-      "matchCallBeans": 773016.0,
-      "giftBeans": 19684.0,
+      "matchCallBeans": 790428.0,
+      "giftBeans": 14756.0,
       "messageBeans": 0.0,
-      "otherBeans": 18706.0,
+      "otherBeans": 30090.0,
       "billCount": 27522,
       "accountCount": 22
     },
     {
       "countryIso": "EG",
-      "totalBeans": 143305.0,
-      "privateCallBeans": 3250.0,
-      "matchCallBeans": 133000.0,
+      "totalBeans": 158955.0,
+      "privateCallBeans": 3315.0,
+      "matchCallBeans": 147492.0,
       "giftBeans": 4747.0,
       "messageBeans": 0.0,
-      "otherBeans": 2308.0,
+      "otherBeans": 3401.0,
       "billCount": 3659,
       "accountCount": 4
     },
     {
       "countryIso": "PH",
-      "totalBeans": 112981.0,
+      "totalBeans": 130310.0,
       "privateCallBeans": 730.0,
-      "matchCallBeans": 107464.0,
+      "matchCallBeans": 123748.0,
       "giftBeans": 2869.0,
       "messageBeans": 0.0,
-      "otherBeans": 1918.0,
+      "otherBeans": 2963.0,
       "billCount": 4285,
       "accountCount": 3
     }
@@ -125,6 +125,50 @@
     "plans": []
   },
   "accounts": [
+    {
+      "id": "acct-447836",
+      "displayName": "Flor da（9h_win）",
+      "countryIso": "BR",
+      "totalBeans": 89049.0,
+      "privateCallBeans": 595.0,
+      "matchCallBeans": 84340.0,
+      "giftBeans": 1970.0,
+      "messageBeans": 0.0,
+      "otherBeans": 2144.0,
+      "billCount": 1372,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 31588.0,
+          "privateCallBeans": 255.0,
+          "matchCallBeans": 29064.0,
+          "giftBeans": 1459.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 750
+        },
+        "2026-07-02": {
+          "totalBeans": 25021.0,
+          "privateCallBeans": 170.0,
+          "matchCallBeans": 24340.0,
+          "giftBeans": 511.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 622
+        },
+        "2026-07-03": {
+          "totalBeans": 32440.0,
+          "privateCallBeans": 170.0,
+          "matchCallBeans": 30936.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1334.0,
+          "billCount": 0
+        }
+      }
+    },
     {
       "id": "acct-436997",
       "displayName": "فراولة🍓🍓（145）",
@@ -252,9 +296,9 @@
       "id": "acct-828763",
       "displayName": "Desire 🍒🌾（3h_win）",
       "countryIso": "BR",
-      "totalBeans": 64188.0,
+      "totalBeans": 65208.0,
       "privateCallBeans": 1870.0,
-      "matchCallBeans": 57860.0,
+      "matchCallBeans": 58880.0,
       "giftBeans": 3558.0,
       "messageBeans": 0.0,
       "otherBeans": 900.0,
@@ -280,6 +324,15 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 676
+        },
+        "2026-07-03": {
+          "totalBeans": 1020.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1020.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -354,6 +407,94 @@
       }
     },
     {
+      "id": "acct-117504",
+      "displayName": "لولو🌜🌜（150）",
+      "countryIso": "SY",
+      "totalBeans": 62837.0,
+      "privateCallBeans": 2080.0,
+      "matchCallBeans": 57044.0,
+      "giftBeans": 2315.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1398.0,
+      "billCount": 1078,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 27685.0,
+          "privateCallBeans": 1040.0,
+          "matchCallBeans": 24156.0,
+          "giftBeans": 1989.0,
+          "messageBeans": 0.0,
+          "otherBeans": 500.0,
+          "billCount": 502
+        },
+        "2026-07-02": {
+          "totalBeans": 29200.0,
+          "privateCallBeans": 650.0,
+          "matchCallBeans": 28224.0,
+          "giftBeans": 326.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 576
+        },
+        "2026-07-03": {
+          "totalBeans": 5952.0,
+          "privateCallBeans": 390.0,
+          "matchCallBeans": 4664.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 898.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-506293",
+      "displayName": "Fabi torres（149）",
+      "countryIso": "VE",
+      "totalBeans": 62684.0,
+      "privateCallBeans": 1400.0,
+      "matchCallBeans": 55492.0,
+      "giftBeans": 4312.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1480.0,
+      "billCount": 1254,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 28905.0,
+          "privateCallBeans": 840.0,
+          "matchCallBeans": 24776.0,
+          "giftBeans": 2389.0,
+          "messageBeans": 0.0,
+          "otherBeans": 900.0,
+          "billCount": 646
+        },
+        "2026-07-02": {
+          "totalBeans": 26363.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 24440.0,
+          "giftBeans": 1923.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 608
+        },
+        "2026-07-03": {
+          "totalBeans": 7416.0,
+          "privateCallBeans": 560.0,
+          "matchCallBeans": 6276.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 580.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
       "id": "acct-080816",
       "displayName": "Camila🦩💖（67h_win）",
       "countryIso": "BR",
@@ -424,6 +565,50 @@
       }
     },
     {
+      "id": "acct-449085",
+      "displayName": "Letícia（228）",
+      "countryIso": "BR",
+      "totalBeans": 61197.0,
+      "privateCallBeans": 4160.0,
+      "matchCallBeans": 54480.0,
+      "giftBeans": 1407.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1150.0,
+      "billCount": 1462,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 28877.0,
+          "privateCallBeans": 2160.0,
+          "matchCallBeans": 24908.0,
+          "giftBeans": 909.0,
+          "messageBeans": 0.0,
+          "otherBeans": 900.0,
+          "billCount": 754
+        },
+        "2026-07-02": {
+          "totalBeans": 27906.0,
+          "privateCallBeans": 1680.0,
+          "matchCallBeans": 25728.0,
+          "giftBeans": 498.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 708
+        },
+        "2026-07-03": {
+          "totalBeans": 4414.0,
+          "privateCallBeans": 320.0,
+          "matchCallBeans": 3844.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 250.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
       "id": "acct-554338",
       "displayName": "Camila Ugarte（50）",
       "countryIso": "BR",
@@ -455,6 +640,50 @@
           "messageBeans": 0.0,
           "otherBeans": 740.0,
           "billCount": 622
+        }
+      }
+    },
+    {
+      "id": "acct-996851",
+      "displayName": "Linda milena（100h）",
+      "countryIso": "VE",
+      "totalBeans": 60556.0,
+      "privateCallBeans": 375.0,
+      "matchCallBeans": 52196.0,
+      "giftBeans": 4881.0,
+      "messageBeans": 0.0,
+      "otherBeans": 3104.0,
+      "billCount": 972,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 29027.0,
+          "privateCallBeans": 375.0,
+          "matchCallBeans": 25544.0,
+          "giftBeans": 2208.0,
+          "messageBeans": 0.0,
+          "otherBeans": 900.0,
+          "billCount": 495
+        },
+        "2026-07-02": {
+          "totalBeans": 28109.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 25436.0,
+          "giftBeans": 2673.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 477
+        },
+        "2026-07-03": {
+          "totalBeans": 3420.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1216.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 2204.0,
+          "billCount": 0
         }
       }
     },
@@ -529,6 +758,50 @@
       }
     },
     {
+      "id": "acct-013381",
+      "displayName": "mai（96h）",
+      "countryIso": "VE",
+      "totalBeans": 57795.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 53276.0,
+      "giftBeans": 3196.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1323.0,
+      "billCount": 1162,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 23073.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 20300.0,
+          "giftBeans": 2073.0,
+          "messageBeans": 0.0,
+          "otherBeans": 700.0,
+          "billCount": 492
+        },
+        "2026-07-02": {
+          "totalBeans": 27867.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 26744.0,
+          "giftBeans": 1123.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 670
+        },
+        "2026-07-03": {
+          "totalBeans": 6855.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6232.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 623.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
       "id": "acct-139769",
       "displayName": "ميرو（135）",
       "countryIso": "SY",
@@ -573,142 +846,46 @@
       }
     },
     {
-      "id": "acct-996851",
-      "displayName": "Linda milena（100h）",
-      "countryIso": "VE",
-      "totalBeans": 57136.0,
-      "privateCallBeans": 375.0,
-      "matchCallBeans": 50980.0,
-      "giftBeans": 4881.0,
-      "messageBeans": 0.0,
-      "otherBeans": 900.0,
-      "billCount": 972,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 29027.0,
-          "privateCallBeans": 375.0,
-          "matchCallBeans": 25544.0,
-          "giftBeans": 2208.0,
-          "messageBeans": 0.0,
-          "otherBeans": 900.0,
-          "billCount": 495
-        },
-        "2026-07-02": {
-          "totalBeans": 28109.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 25436.0,
-          "giftBeans": 2673.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 477
-        }
-      }
-    },
-    {
-      "id": "acct-117504",
-      "displayName": "لولو🌜🌜（150）",
+      "id": "acct-362603",
+      "displayName": "ميرا（110h）",
       "countryIso": "SY",
-      "totalBeans": 56885.0,
-      "privateCallBeans": 1690.0,
-      "matchCallBeans": 52380.0,
-      "giftBeans": 2315.0,
+      "totalBeans": 57650.0,
+      "privateCallBeans": 1170.0,
+      "matchCallBeans": 54020.0,
+      "giftBeans": 1260.0,
       "messageBeans": 0.0,
-      "otherBeans": 500.0,
-      "billCount": 1078,
+      "otherBeans": 1200.0,
+      "billCount": 1439,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 27685.0,
-          "privateCallBeans": 1040.0,
-          "matchCallBeans": 24156.0,
-          "giftBeans": 1989.0,
+          "totalBeans": 23689.0,
+          "privateCallBeans": 390.0,
+          "matchCallBeans": 22268.0,
+          "giftBeans": 531.0,
           "messageBeans": 0.0,
           "otherBeans": 500.0,
-          "billCount": 502
-        },
-        "2026-07-02": {
-          "totalBeans": 29200.0,
-          "privateCallBeans": 650.0,
-          "matchCallBeans": 28224.0,
-          "giftBeans": 326.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 576
-        }
-      }
-    },
-    {
-      "id": "acct-449085",
-      "displayName": "Letícia（228）",
-      "countryIso": "BR",
-      "totalBeans": 56783.0,
-      "privateCallBeans": 3840.0,
-      "matchCallBeans": 50636.0,
-      "giftBeans": 1407.0,
-      "messageBeans": 0.0,
-      "otherBeans": 900.0,
-      "billCount": 1462,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 28877.0,
-          "privateCallBeans": 2160.0,
-          "matchCallBeans": 24908.0,
-          "giftBeans": 909.0,
-          "messageBeans": 0.0,
-          "otherBeans": 900.0,
-          "billCount": 754
-        },
-        "2026-07-02": {
-          "totalBeans": 27906.0,
-          "privateCallBeans": 1680.0,
-          "matchCallBeans": 25728.0,
-          "giftBeans": 498.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
           "billCount": 708
-        }
-      }
-    },
-    {
-      "id": "acct-447836",
-      "displayName": "Flor da（9h_win）",
-      "countryIso": "BR",
-      "totalBeans": 56609.0,
-      "privateCallBeans": 425.0,
-      "matchCallBeans": 53404.0,
-      "giftBeans": 1970.0,
-      "messageBeans": 0.0,
-      "otherBeans": 810.0,
-      "billCount": 1372,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 31588.0,
-          "privateCallBeans": 255.0,
-          "matchCallBeans": 29064.0,
-          "giftBeans": 1459.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 750
         },
         "2026-07-02": {
-          "totalBeans": 25021.0,
-          "privateCallBeans": 170.0,
-          "matchCallBeans": 24340.0,
-          "giftBeans": 511.0,
+          "totalBeans": 25497.0,
+          "privateCallBeans": 780.0,
+          "matchCallBeans": 23988.0,
+          "giftBeans": 729.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 622
+          "billCount": 731
+        },
+        "2026-07-03": {
+          "totalBeans": 8464.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 7764.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 700.0,
+          "billCount": 0
         }
       }
     },
@@ -716,12 +893,12 @@
       "id": "acct-513991",
       "displayName": "Garota 🌼（237）",
       "countryIso": "CO",
-      "totalBeans": 56370.0,
+      "totalBeans": 57270.0,
       "privateCallBeans": 910.0,
       "matchCallBeans": 51688.0,
-      "giftBeans": 3772.0,
+      "giftBeans": 1356.0,
       "messageBeans": 0.0,
-      "otherBeans": 0.0,
+      "otherBeans": 3316.0,
       "billCount": 1091,
       "plannedBeans": 0,
       "online": false,
@@ -737,12 +914,12 @@
           "billCount": 566
         },
         "2026-07-02": {
-          "totalBeans": 28446.0,
+          "totalBeans": 29346.0,
           "privateCallBeans": 490.0,
           "matchCallBeans": 25540.0,
-          "giftBeans": 2416.0,
+          "giftBeans": 0.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
+          "otherBeans": 3316.0,
           "billCount": 525
         }
       }
@@ -853,41 +1030,6 @@
       }
     },
     {
-      "id": "acct-506293",
-      "displayName": "Fabi torres（149）",
-      "countryIso": "VE",
-      "totalBeans": 55268.0,
-      "privateCallBeans": 840.0,
-      "matchCallBeans": 49216.0,
-      "giftBeans": 4312.0,
-      "messageBeans": 0.0,
-      "otherBeans": 900.0,
-      "billCount": 1254,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 28905.0,
-          "privateCallBeans": 840.0,
-          "matchCallBeans": 24776.0,
-          "giftBeans": 2389.0,
-          "messageBeans": 0.0,
-          "otherBeans": 900.0,
-          "billCount": 646
-        },
-        "2026-07-02": {
-          "totalBeans": 26363.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 24440.0,
-          "giftBeans": 1923.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 608
-        }
-      }
-    },
-    {
       "id": "acct-034176",
       "displayName": "Carina（224）",
       "countryIso": "BR",
@@ -958,6 +1100,94 @@
       }
     },
     {
+      "id": "acct-347783",
+      "displayName": "ريتال（98h）",
+      "countryIso": "SY",
+      "totalBeans": 54415.0,
+      "privateCallBeans": 455.0,
+      "matchCallBeans": 51092.0,
+      "giftBeans": 1372.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1496.0,
+      "billCount": 1366,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 21680.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 21068.0,
+          "giftBeans": 612.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 681
+        },
+        "2026-07-02": {
+          "totalBeans": 23935.0,
+          "privateCallBeans": 455.0,
+          "matchCallBeans": 22020.0,
+          "giftBeans": 760.0,
+          "messageBeans": 0.0,
+          "otherBeans": 700.0,
+          "billCount": 685
+        },
+        "2026-07-03": {
+          "totalBeans": 8800.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 8004.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 796.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-285486",
+      "displayName": "QueennotKwen",
+      "countryIso": "BR",
+      "totalBeans": 54410.0,
+      "privateCallBeans": 320.0,
+      "matchCallBeans": 52064.0,
+      "giftBeans": 1343.0,
+      "messageBeans": 0.0,
+      "otherBeans": 683.0,
+      "billCount": 1469,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 22602.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 22276.0,
+          "giftBeans": 326.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 731
+        },
+        "2026-07-02": {
+          "totalBeans": 23053.0,
+          "privateCallBeans": 320.0,
+          "matchCallBeans": 21716.0,
+          "giftBeans": 1017.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 738
+        },
+        "2026-07-03": {
+          "totalBeans": 8755.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 8072.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 683.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
       "id": "acct-815334",
       "displayName": "لولي💋（119）",
       "countryIso": "SY",
@@ -989,6 +1219,138 @@
           "messageBeans": 0.0,
           "otherBeans": 700.0,
           "billCount": 571
+        }
+      }
+    },
+    {
+      "id": "acct-165195",
+      "displayName": "Juna Maglinte（46）",
+      "countryIso": "BR",
+      "totalBeans": 53925.0,
+      "privateCallBeans": 1040.0,
+      "matchCallBeans": 51332.0,
+      "giftBeans": 283.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1270.0,
+      "billCount": 1359,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 20490.0,
+          "privateCallBeans": 1040.0,
+          "matchCallBeans": 19380.0,
+          "giftBeans": 70.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 681
+        },
+        "2026-07-02": {
+          "totalBeans": 23273.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 22600.0,
+          "giftBeans": 213.0,
+          "messageBeans": 0.0,
+          "otherBeans": 460.0,
+          "billCount": 678
+        },
+        "2026-07-03": {
+          "totalBeans": 10162.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9352.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-326182",
+      "displayName": "Anna（绑定 051908 云）",
+      "countryIso": "PH",
+      "totalBeans": 53752.0,
+      "privateCallBeans": 120.0,
+      "matchCallBeans": 49620.0,
+      "giftBeans": 2387.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1625.0,
+      "billCount": 1452,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 16216.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 14628.0,
+          "giftBeans": 1588.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 715
+        },
+        "2026-07-02": {
+          "totalBeans": 20207.0,
+          "privateCallBeans": 120.0,
+          "matchCallBeans": 18708.0,
+          "giftBeans": 799.0,
+          "messageBeans": 0.0,
+          "otherBeans": 580.0,
+          "billCount": 737
+        },
+        "2026-07-03": {
+          "totalBeans": 17329.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 16284.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1045.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-354937",
+      "displayName": "thammy（250）",
+      "countryIso": "VE",
+      "totalBeans": 53492.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 50664.0,
+      "giftBeans": 2368.0,
+      "messageBeans": 0.0,
+      "otherBeans": 460.0,
+      "billCount": 1144,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 25555.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 23508.0,
+          "giftBeans": 2047.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 603
+        },
+        "2026-07-02": {
+          "totalBeans": 26585.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 26264.0,
+          "giftBeans": 321.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 541
+        },
+        "2026-07-03": {
+          "totalBeans": 1352.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 892.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 460.0,
+          "billCount": 0
         }
       }
     },
@@ -1028,37 +1390,46 @@
       }
     },
     {
-      "id": "acct-354937",
-      "displayName": "thammy（250）",
-      "countryIso": "VE",
-      "totalBeans": 52140.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 49772.0,
-      "giftBeans": 2368.0,
+      "id": "acct-029863",
+      "displayName": "شموسة 🤍（122）",
+      "countryIso": "SY",
+      "totalBeans": 52205.0,
+      "privateCallBeans": 520.0,
+      "matchCallBeans": 48800.0,
+      "giftBeans": 417.0,
       "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 1144,
+      "otherBeans": 2468.0,
+      "billCount": 1386,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 25555.0,
+          "totalBeans": 21046.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 23508.0,
-          "giftBeans": 2047.0,
+          "matchCallBeans": 20052.0,
+          "giftBeans": 294.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 603
+          "otherBeans": 700.0,
+          "billCount": 692
         },
         "2026-07-02": {
-          "totalBeans": 26585.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 26264.0,
-          "giftBeans": 321.0,
+          "totalBeans": 22121.0,
+          "privateCallBeans": 390.0,
+          "matchCallBeans": 21608.0,
+          "giftBeans": 123.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 541
+          "billCount": 694
+        },
+        "2026-07-03": {
+          "totalBeans": 9038.0,
+          "privateCallBeans": 130.0,
+          "matchCallBeans": 7140.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1768.0,
+          "billCount": 0
         }
       }
     },
@@ -1098,72 +1469,345 @@
       }
     },
     {
-      "id": "acct-013381",
-      "displayName": "mai（96h）",
-      "countryIso": "VE",
-      "totalBeans": 50940.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 47044.0,
-      "giftBeans": 3196.0,
+      "id": "acct-337574",
+      "displayName": "rayane（204）",
+      "countryIso": "BR",
+      "totalBeans": 51039.0,
+      "privateCallBeans": 2800.0,
+      "matchCallBeans": 46572.0,
+      "giftBeans": 587.0,
       "messageBeans": 0.0,
-      "otherBeans": 700.0,
-      "billCount": 1162,
+      "otherBeans": 1080.0,
+      "billCount": 1504,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 23073.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 20300.0,
-          "giftBeans": 2073.0,
+          "totalBeans": 20917.0,
+          "privateCallBeans": 1200.0,
+          "matchCallBeans": 18468.0,
+          "giftBeans": 429.0,
           "messageBeans": 0.0,
-          "otherBeans": 700.0,
-          "billCount": 492
+          "otherBeans": 820.0,
+          "billCount": 753
         },
         "2026-07-02": {
-          "totalBeans": 27867.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 26744.0,
-          "giftBeans": 1123.0,
+          "totalBeans": 24486.0,
+          "privateCallBeans": 480.0,
+          "matchCallBeans": 23848.0,
+          "giftBeans": 158.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 670
+          "billCount": 751
+        },
+        "2026-07-03": {
+          "totalBeans": 5636.0,
+          "privateCallBeans": 1120.0,
+          "matchCallBeans": 4256.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 260.0,
+          "billCount": 0
         }
       }
     },
     {
-      "id": "acct-362603",
-      "displayName": "ميرا（110h）",
-      "countryIso": "SY",
-      "totalBeans": 49186.0,
-      "privateCallBeans": 1170.0,
-      "matchCallBeans": 46256.0,
-      "giftBeans": 1260.0,
+      "id": "acct-695767",
+      "displayName": "Babyjessi（207）",
+      "countryIso": "BR",
+      "totalBeans": 51037.0,
+      "privateCallBeans": 800.0,
+      "matchCallBeans": 49356.0,
+      "giftBeans": 361.0,
       "messageBeans": 0.0,
-      "otherBeans": 500.0,
-      "billCount": 1439,
+      "otherBeans": 520.0,
+      "billCount": 1346,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 23689.0,
-          "privateCallBeans": 390.0,
-          "matchCallBeans": 22268.0,
-          "giftBeans": 531.0,
-          "messageBeans": 0.0,
-          "otherBeans": 500.0,
-          "billCount": 708
-        },
-        "2026-07-02": {
-          "totalBeans": 25497.0,
-          "privateCallBeans": 780.0,
-          "matchCallBeans": 23988.0,
-          "giftBeans": 729.0,
+          "totalBeans": 19014.0,
+          "privateCallBeans": 160.0,
+          "matchCallBeans": 18844.0,
+          "giftBeans": 10.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 731
+          "billCount": 673
+        },
+        "2026-07-02": {
+          "totalBeans": 25487.0,
+          "privateCallBeans": 640.0,
+          "matchCallBeans": 24496.0,
+          "giftBeans": 351.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 673
+        },
+        "2026-07-03": {
+          "totalBeans": 6536.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6016.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 520.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-361289",
+      "displayName": "Alex🤎（72号 051909）",
+      "countryIso": "BR",
+      "totalBeans": 51032.0,
+      "privateCallBeans": 1440.0,
+      "matchCallBeans": 43892.0,
+      "giftBeans": 4675.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1025.0,
+      "billCount": 1499,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 25496.0,
+          "privateCallBeans": 960.0,
+          "matchCallBeans": 20304.0,
+          "giftBeans": 3332.0,
+          "messageBeans": 0.0,
+          "otherBeans": 900.0,
+          "billCount": 750
+        },
+        "2026-07-02": {
+          "totalBeans": 22107.0,
+          "privateCallBeans": 480.0,
+          "matchCallBeans": 20284.0,
+          "giftBeans": 1343.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 749
+        },
+        "2026-07-03": {
+          "totalBeans": 3429.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3304.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 125.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-545503",
+      "displayName": "قمر（114）",
+      "countryIso": "SY",
+      "totalBeans": 50569.0,
+      "privateCallBeans": 715.0,
+      "matchCallBeans": 46836.0,
+      "giftBeans": 1343.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1675.0,
+      "billCount": 1381,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 22005.0,
+          "privateCallBeans": 325.0,
+          "matchCallBeans": 20676.0,
+          "giftBeans": 304.0,
+          "messageBeans": 0.0,
+          "otherBeans": 700.0,
+          "billCount": 691
+        },
+        "2026-07-02": {
+          "totalBeans": 21013.0,
+          "privateCallBeans": 390.0,
+          "matchCallBeans": 19584.0,
+          "giftBeans": 1039.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 690
+        },
+        "2026-07-03": {
+          "totalBeans": 7551.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6576.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 975.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-411022",
+      "displayName": "Isabela（绑定 051901 云）",
+      "countryIso": "CO",
+      "totalBeans": 50353.0,
+      "privateCallBeans": 840.0,
+      "matchCallBeans": 46776.0,
+      "giftBeans": 1352.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1385.0,
+      "billCount": 1008,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 17642.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 16652.0,
+          "giftBeans": 80.0,
+          "messageBeans": 0.0,
+          "otherBeans": 910.0,
+          "billCount": 447
+        },
+        "2026-07-02": {
+          "totalBeans": 26852.0,
+          "privateCallBeans": 840.0,
+          "matchCallBeans": 24740.0,
+          "giftBeans": 1272.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 561
+        },
+        "2026-07-03": {
+          "totalBeans": 5859.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 5384.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 475.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-509974",
+      "displayName": "ساندي💋💋（105h）",
+      "countryIso": "SY",
+      "totalBeans": 50130.0,
+      "privateCallBeans": 2730.0,
+      "matchCallBeans": 44524.0,
+      "giftBeans": 1646.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1230.0,
+      "billCount": 1357,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 22177.0,
+          "privateCallBeans": 1560.0,
+          "matchCallBeans": 18800.0,
+          "giftBeans": 1117.0,
+          "messageBeans": 0.0,
+          "otherBeans": 700.0,
+          "billCount": 680
+        },
+        "2026-07-02": {
+          "totalBeans": 20449.0,
+          "privateCallBeans": 520.0,
+          "matchCallBeans": 19400.0,
+          "giftBeans": 529.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 677
+        },
+        "2026-07-03": {
+          "totalBeans": 7504.0,
+          "privateCallBeans": 650.0,
+          "matchCallBeans": 6324.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 530.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-473095",
+      "displayName": "MeL（138）",
+      "countryIso": "BR",
+      "totalBeans": 49689.0,
+      "privateCallBeans": 480.0,
+      "matchCallBeans": 46396.0,
+      "giftBeans": 1893.0,
+      "messageBeans": 0.0,
+      "otherBeans": 920.0,
+      "billCount": 1304,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 23949.0,
+          "privateCallBeans": 400.0,
+          "matchCallBeans": 22300.0,
+          "giftBeans": 429.0,
+          "messageBeans": 0.0,
+          "otherBeans": 820.0,
+          "billCount": 653
+        },
+        "2026-07-02": {
+          "totalBeans": 23908.0,
+          "privateCallBeans": 80.0,
+          "matchCallBeans": 22364.0,
+          "giftBeans": 1464.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 651
+        },
+        "2026-07-03": {
+          "totalBeans": 1832.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1732.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 100.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-994510",
+      "displayName": "la flaca😍（217）",
+      "countryIso": "CO",
+      "totalBeans": 49584.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 46684.0,
+      "giftBeans": 589.0,
+      "messageBeans": 0.0,
+      "otherBeans": 2311.0,
+      "billCount": 1314,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 22157.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 20728.0,
+          "giftBeans": 589.0,
+          "messageBeans": 0.0,
+          "otherBeans": 840.0,
+          "billCount": 633
+        },
+        "2026-07-02": {
+          "totalBeans": 27427.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 25956.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1471.0,
+          "billCount": 681
         }
       }
     },
@@ -1203,37 +1847,90 @@
       }
     },
     {
-      "id": "acct-994510",
-      "displayName": "la flaca😍（217）",
-      "countryIso": "CO",
-      "totalBeans": 48684.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 46684.0,
-      "giftBeans": 1160.0,
+      "id": "acct-110334",
+      "displayName": "Zoe Valentina 💋🍒（201）",
+      "countryIso": "VE",
+      "totalBeans": 49058.0,
+      "privateCallBeans": 420.0,
+      "matchCallBeans": 45048.0,
+      "giftBeans": 2640.0,
       "messageBeans": 0.0,
-      "otherBeans": 840.0,
-      "billCount": 1314,
+      "otherBeans": 950.0,
+      "billCount": 1423,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 22157.0,
+          "totalBeans": 25094.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 20728.0,
-          "giftBeans": 589.0,
+          "matchCallBeans": 22140.0,
+          "giftBeans": 2254.0,
           "messageBeans": 0.0,
-          "otherBeans": 840.0,
-          "billCount": 633
+          "otherBeans": 700.0,
+          "billCount": 710
         },
         "2026-07-02": {
-          "totalBeans": 26527.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 25956.0,
-          "giftBeans": 571.0,
+          "totalBeans": 21042.0,
+          "privateCallBeans": 420.0,
+          "matchCallBeans": 20236.0,
+          "giftBeans": 386.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 681
+          "billCount": 713
+        },
+        "2026-07-03": {
+          "totalBeans": 2922.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2672.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 250.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-203900",
+      "displayName": "Michelly（256）",
+      "countryIso": "VE",
+      "totalBeans": 48842.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 47036.0,
+      "giftBeans": 1256.0,
+      "messageBeans": 0.0,
+      "otherBeans": 550.0,
+      "billCount": 1029,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 15548.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 15200.0,
+          "giftBeans": 348.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 366
+        },
+        "2026-07-02": {
+          "totalBeans": 26432.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 25524.0,
+          "giftBeans": 908.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 663
+        },
+        "2026-07-03": {
+          "totalBeans": 6862.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6312.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 0
         }
       }
     },
@@ -1317,72 +2014,222 @@
       }
     },
     {
-      "id": "acct-473095",
-      "displayName": "MeL（138）",
-      "countryIso": "BR",
-      "totalBeans": 47857.0,
-      "privateCallBeans": 480.0,
-      "matchCallBeans": 44664.0,
-      "giftBeans": 1893.0,
+      "id": "acct-632637",
+      "displayName": "Aranda（262）",
+      "countryIso": "CO",
+      "totalBeans": 48465.0,
+      "privateCallBeans": 565.0,
+      "matchCallBeans": 46168.0,
+      "giftBeans": 912.0,
       "messageBeans": 0.0,
       "otherBeans": 820.0,
-      "billCount": 1304,
+      "billCount": 1196,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 23949.0,
-          "privateCallBeans": 400.0,
-          "matchCallBeans": 22300.0,
-          "giftBeans": 429.0,
+          "totalBeans": 19405.0,
+          "privateCallBeans": 180.0,
+          "matchCallBeans": 18360.0,
+          "giftBeans": 245.0,
           "messageBeans": 0.0,
-          "otherBeans": 820.0,
-          "billCount": 653
+          "otherBeans": 620.0,
+          "billCount": 507
         },
         "2026-07-02": {
-          "totalBeans": 23908.0,
-          "privateCallBeans": 80.0,
-          "matchCallBeans": 22364.0,
-          "giftBeans": 1464.0,
+          "totalBeans": 26516.0,
+          "privateCallBeans": 385.0,
+          "matchCallBeans": 25464.0,
+          "giftBeans": 667.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 651
+          "billCount": 689
+        },
+        "2026-07-03": {
+          "totalBeans": 2544.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2344.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 200.0,
+          "billCount": 0
         }
       }
     },
     {
-      "id": "acct-361289",
-      "displayName": "Alex🤎（72号 051909）",
-      "countryIso": "BR",
-      "totalBeans": 47603.0,
-      "privateCallBeans": 1440.0,
-      "matchCallBeans": 40588.0,
-      "giftBeans": 4675.0,
+      "id": "acct-115090",
+      "displayName": "ريتا（109h）",
+      "countryIso": "SY",
+      "totalBeans": 48441.0,
+      "privateCallBeans": 1300.0,
+      "matchCallBeans": 44948.0,
+      "giftBeans": 672.0,
       "messageBeans": 0.0,
-      "otherBeans": 900.0,
-      "billCount": 1499,
+      "otherBeans": 1521.0,
+      "billCount": 1507,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 25496.0,
-          "privateCallBeans": 960.0,
-          "matchCallBeans": 20304.0,
-          "giftBeans": 3332.0,
+          "totalBeans": 20540.0,
+          "privateCallBeans": 130.0,
+          "matchCallBeans": 19128.0,
+          "giftBeans": 582.0,
           "messageBeans": 0.0,
-          "otherBeans": 900.0,
-          "billCount": 750
+          "otherBeans": 700.0,
+          "billCount": 751
         },
         "2026-07-02": {
-          "totalBeans": 22107.0,
-          "privateCallBeans": 480.0,
-          "matchCallBeans": 20284.0,
-          "giftBeans": 1343.0,
+          "totalBeans": 20880.0,
+          "privateCallBeans": 1170.0,
+          "matchCallBeans": 19620.0,
+          "giftBeans": 90.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 749
+          "billCount": 756
+        },
+        "2026-07-03": {
+          "totalBeans": 7021.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6200.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 821.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-204933",
+      "displayName": "livia/livinha",
+      "countryIso": "BR",
+      "totalBeans": 48242.0,
+      "privateCallBeans": 2480.0,
+      "matchCallBeans": 41392.0,
+      "giftBeans": 2647.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1723.0,
+      "billCount": 1409,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 21794.0,
+          "privateCallBeans": 1440.0,
+          "matchCallBeans": 18252.0,
+          "giftBeans": 1202.0,
+          "messageBeans": 0.0,
+          "otherBeans": 900.0,
+          "billCount": 705
+        },
+        "2026-07-02": {
+          "totalBeans": 21649.0,
+          "privateCallBeans": 560.0,
+          "matchCallBeans": 19644.0,
+          "giftBeans": 1445.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 704
+        },
+        "2026-07-03": {
+          "totalBeans": 4799.0,
+          "privateCallBeans": 480.0,
+          "matchCallBeans": 3496.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 823.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-188939",
+      "displayName": "Elvis Guerrero（116）",
+      "countryIso": "VE",
+      "totalBeans": 48173.0,
+      "privateCallBeans": 560.0,
+      "matchCallBeans": 45800.0,
+      "giftBeans": 803.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1010.0,
+      "billCount": 1405,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 21921.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 20776.0,
+          "giftBeans": 55.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 703
+        },
+        "2026-07-02": {
+          "totalBeans": 23844.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 23096.0,
+          "giftBeans": 748.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 702
+        },
+        "2026-07-03": {
+          "totalBeans": 2408.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 1928.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 200.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-567971",
+      "displayName": "مجنناهم（133）",
+      "countryIso": "EG",
+      "totalBeans": 47234.0,
+      "privateCallBeans": 1300.0,
+      "matchCallBeans": 43420.0,
+      "giftBeans": 1231.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1283.0,
+      "billCount": 1000,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 27790.0,
+          "privateCallBeans": 325.0,
+          "matchCallBeans": 25544.0,
+          "giftBeans": 1221.0,
+          "messageBeans": 0.0,
+          "otherBeans": 700.0,
+          "billCount": 726
+        },
+        "2026-07-02": {
+          "totalBeans": 11729.0,
+          "privateCallBeans": 975.0,
+          "matchCallBeans": 10744.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 274
+        },
+        "2026-07-03": {
+          "totalBeans": 7715.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 7132.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 583.0,
+          "billCount": 0
         }
       }
     },
@@ -1422,6 +2269,138 @@
       }
     },
     {
+      "id": "acct-286678",
+      "displayName": "flor 🌷🌹（84h）",
+      "countryIso": "BR",
+      "totalBeans": 47070.0,
+      "privateCallBeans": 1200.0,
+      "matchCallBeans": 41500.0,
+      "giftBeans": 3060.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1310.0,
+      "billCount": 1426,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 20536.0,
+          "privateCallBeans": 1120.0,
+          "matchCallBeans": 18152.0,
+          "giftBeans": 414.0,
+          "messageBeans": 0.0,
+          "otherBeans": 850.0,
+          "billCount": 715
+        },
+        "2026-07-02": {
+          "totalBeans": 21234.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 18588.0,
+          "giftBeans": 2646.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 711
+        },
+        "2026-07-03": {
+          "totalBeans": 5300.0,
+          "privateCallBeans": 80.0,
+          "matchCallBeans": 4760.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 460.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-766146",
+      "displayName": "Nash 🍒（222）",
+      "countryIso": "VE",
+      "totalBeans": 46821.0,
+      "privateCallBeans": 210.0,
+      "matchCallBeans": 44364.0,
+      "giftBeans": 1294.0,
+      "messageBeans": 0.0,
+      "otherBeans": 953.0,
+      "billCount": 1306,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 21319.0,
+          "privateCallBeans": 210.0,
+          "matchCallBeans": 19940.0,
+          "giftBeans": 349.0,
+          "messageBeans": 0.0,
+          "otherBeans": 820.0,
+          "billCount": 654
+        },
+        "2026-07-02": {
+          "totalBeans": 22633.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 21688.0,
+          "giftBeans": 945.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 652
+        },
+        "2026-07-03": {
+          "totalBeans": 2869.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2736.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 133.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-253378",
+      "displayName": "Maricela（71h_win）",
+      "countryIso": "CO",
+      "totalBeans": 46392.0,
+      "privateCallBeans": 140.0,
+      "matchCallBeans": 42804.0,
+      "giftBeans": 2005.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1443.0,
+      "billCount": 1381,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 22065.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 20428.0,
+          "giftBeans": 637.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1000.0,
+          "billCount": 673
+        },
+        "2026-07-02": {
+          "totalBeans": 21376.0,
+          "privateCallBeans": 140.0,
+          "matchCallBeans": 19868.0,
+          "giftBeans": 1368.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 708
+        },
+        "2026-07-03": {
+          "totalBeans": 2951.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2508.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 443.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
       "id": "acct-762884",
       "displayName": "Rosal（35h_win）",
       "countryIso": "BR",
@@ -1457,72 +2436,46 @@
       }
     },
     {
-      "id": "acct-110334",
-      "displayName": "Zoe Valentina 💋🍒（201）",
+      "id": "acct-755957",
+      "displayName": "Laaaila（260）",
       "countryIso": "VE",
-      "totalBeans": 46136.0,
-      "privateCallBeans": 420.0,
-      "matchCallBeans": 42376.0,
-      "giftBeans": 2640.0,
+      "totalBeans": 45943.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 43984.0,
+      "giftBeans": 1336.0,
       "messageBeans": 0.0,
-      "otherBeans": 700.0,
-      "billCount": 1423,
+      "otherBeans": 623.0,
+      "billCount": 1284,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 25094.0,
+          "totalBeans": 19014.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 22140.0,
-          "giftBeans": 2254.0,
-          "messageBeans": 0.0,
-          "otherBeans": 700.0,
-          "billCount": 710
-        },
-        "2026-07-02": {
-          "totalBeans": 21042.0,
-          "privateCallBeans": 420.0,
-          "matchCallBeans": 20236.0,
-          "giftBeans": 386.0,
+          "matchCallBeans": 18192.0,
+          "giftBeans": 822.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 713
-        }
-      }
-    },
-    {
-      "id": "acct-632637",
-      "displayName": "Aranda（262）",
-      "countryIso": "CO",
-      "totalBeans": 45921.0,
-      "privateCallBeans": 565.0,
-      "matchCallBeans": 43824.0,
-      "giftBeans": 912.0,
-      "messageBeans": 0.0,
-      "otherBeans": 620.0,
-      "billCount": 1196,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 19405.0,
-          "privateCallBeans": 180.0,
-          "matchCallBeans": 18360.0,
-          "giftBeans": 245.0,
-          "messageBeans": 0.0,
-          "otherBeans": 620.0,
-          "billCount": 507
+          "billCount": 584
         },
         "2026-07-02": {
-          "totalBeans": 26516.0,
-          "privateCallBeans": 385.0,
-          "matchCallBeans": 25464.0,
-          "giftBeans": 667.0,
+          "totalBeans": 21526.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 21012.0,
+          "giftBeans": 514.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 689
+          "billCount": 700
+        },
+        "2026-07-03": {
+          "totalBeans": 5403.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 4780.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 623.0,
+          "billCount": 0
         }
       }
     },
@@ -1558,146 +2511,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 661
-        }
-      }
-    },
-    {
-      "id": "acct-188939",
-      "displayName": "Elvis Guerrero（116）",
-      "countryIso": "VE",
-      "totalBeans": 45765.0,
-      "privateCallBeans": 280.0,
-      "matchCallBeans": 43872.0,
-      "giftBeans": 803.0,
-      "messageBeans": 0.0,
-      "otherBeans": 810.0,
-      "billCount": 1405,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 21921.0,
-          "privateCallBeans": 280.0,
-          "matchCallBeans": 20776.0,
-          "giftBeans": 55.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 703
-        },
-        "2026-07-02": {
-          "totalBeans": 23844.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 23096.0,
-          "giftBeans": 748.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 702
-        }
-      }
-    },
-    {
-      "id": "acct-285486",
-      "displayName": "QueennotKwen",
-      "countryIso": "BR",
-      "totalBeans": 45655.0,
-      "privateCallBeans": 320.0,
-      "matchCallBeans": 43992.0,
-      "giftBeans": 1343.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 1469,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 22602.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 22276.0,
-          "giftBeans": 326.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 731
-        },
-        "2026-07-02": {
-          "totalBeans": 23053.0,
-          "privateCallBeans": 320.0,
-          "matchCallBeans": 21716.0,
-          "giftBeans": 1017.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 738
-        }
-      }
-    },
-    {
-      "id": "acct-347783",
-      "displayName": "ريتال（98h）",
-      "countryIso": "SY",
-      "totalBeans": 45615.0,
-      "privateCallBeans": 455.0,
-      "matchCallBeans": 43088.0,
-      "giftBeans": 1372.0,
-      "messageBeans": 0.0,
-      "otherBeans": 700.0,
-      "billCount": 1366,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 21680.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 21068.0,
-          "giftBeans": 612.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 681
-        },
-        "2026-07-02": {
-          "totalBeans": 23935.0,
-          "privateCallBeans": 455.0,
-          "matchCallBeans": 22020.0,
-          "giftBeans": 760.0,
-          "messageBeans": 0.0,
-          "otherBeans": 700.0,
-          "billCount": 685
-        }
-      }
-    },
-    {
-      "id": "acct-337574",
-      "displayName": "rayane（204）",
-      "countryIso": "BR",
-      "totalBeans": 45403.0,
-      "privateCallBeans": 1680.0,
-      "matchCallBeans": 42316.0,
-      "giftBeans": 587.0,
-      "messageBeans": 0.0,
-      "otherBeans": 820.0,
-      "billCount": 1504,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 20917.0,
-          "privateCallBeans": 1200.0,
-          "matchCallBeans": 18468.0,
-          "giftBeans": 429.0,
-          "messageBeans": 0.0,
-          "otherBeans": 820.0,
-          "billCount": 753
-        },
-        "2026-07-02": {
-          "totalBeans": 24486.0,
-          "privateCallBeans": 480.0,
-          "matchCallBeans": 23848.0,
-          "giftBeans": 158.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 751
         }
       }
     },
@@ -1807,72 +2620,46 @@
       }
     },
     {
-      "id": "acct-695767",
-      "displayName": "Babyjessi（207）",
+      "id": "acct-449623",
+      "displayName": "Lety 😋（255）",
       "countryIso": "BR",
-      "totalBeans": 44501.0,
-      "privateCallBeans": 800.0,
-      "matchCallBeans": 43340.0,
-      "giftBeans": 361.0,
+      "totalBeans": 44622.0,
+      "privateCallBeans": 180.0,
+      "matchCallBeans": 41256.0,
+      "giftBeans": 447.0,
       "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 1346,
+      "otherBeans": 2739.0,
+      "billCount": 1031,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 19014.0,
-          "privateCallBeans": 160.0,
-          "matchCallBeans": 18844.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 673
-        },
-        "2026-07-02": {
-          "totalBeans": 25487.0,
-          "privateCallBeans": 640.0,
-          "matchCallBeans": 24496.0,
-          "giftBeans": 351.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 673
-        }
-      }
-    },
-    {
-      "id": "acct-411022",
-      "displayName": "Isabela（绑定 051901 云）",
-      "countryIso": "CO",
-      "totalBeans": 44494.0,
-      "privateCallBeans": 840.0,
-      "matchCallBeans": 41392.0,
-      "giftBeans": 1352.0,
-      "messageBeans": 0.0,
-      "otherBeans": 910.0,
-      "billCount": 1008,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 17642.0,
+          "totalBeans": 11091.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 16652.0,
-          "giftBeans": 80.0,
+          "matchCallBeans": 10056.0,
+          "giftBeans": 35.0,
           "messageBeans": 0.0,
-          "otherBeans": 910.0,
-          "billCount": 447
+          "otherBeans": 1000.0,
+          "billCount": 319
         },
         "2026-07-02": {
-          "totalBeans": 26852.0,
-          "privateCallBeans": 840.0,
-          "matchCallBeans": 24740.0,
-          "giftBeans": 1272.0,
+          "totalBeans": 23156.0,
+          "privateCallBeans": 180.0,
+          "matchCallBeans": 22564.0,
+          "giftBeans": 412.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 561
+          "billCount": 712
+        },
+        "2026-07-03": {
+          "totalBeans": 10375.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 8636.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1739.0,
+          "billCount": 0
         }
       }
     },
@@ -1905,41 +2692,6 @@
           "privateCallBeans": 510.0,
           "matchCallBeans": 20392.0,
           "giftBeans": 35.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 652
-        }
-      }
-    },
-    {
-      "id": "acct-766146",
-      "displayName": "Nash 🍒（222）",
-      "countryIso": "VE",
-      "totalBeans": 43952.0,
-      "privateCallBeans": 210.0,
-      "matchCallBeans": 41628.0,
-      "giftBeans": 1294.0,
-      "messageBeans": 0.0,
-      "otherBeans": 820.0,
-      "billCount": 1306,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 21319.0,
-          "privateCallBeans": 210.0,
-          "matchCallBeans": 19940.0,
-          "giftBeans": 349.0,
-          "messageBeans": 0.0,
-          "otherBeans": 820.0,
-          "billCount": 654
-        },
-        "2026-07-02": {
-          "totalBeans": 22633.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 21688.0,
-          "giftBeans": 945.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 652
@@ -1982,6 +2734,50 @@
       }
     },
     {
+      "id": "acct-947300",
+      "displayName": "Yerlimar Salas（148）",
+      "countryIso": "CO",
+      "totalBeans": 43790.0,
+      "privateCallBeans": 1330.0,
+      "matchCallBeans": 40280.0,
+      "giftBeans": 472.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1708.0,
+      "billCount": 1321,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 18220.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 16588.0,
+          "giftBeans": 402.0,
+          "messageBeans": 0.0,
+          "otherBeans": 950.0,
+          "billCount": 607
+        },
+        "2026-07-02": {
+          "totalBeans": 21660.0,
+          "privateCallBeans": 1050.0,
+          "matchCallBeans": 20540.0,
+          "giftBeans": 70.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 714
+        },
+        "2026-07-03": {
+          "totalBeans": 3910.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3152.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 758.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
       "id": "acct-080750",
       "displayName": "Kristin（64_win）",
       "countryIso": "BR",
@@ -2013,41 +2809,6 @@
           "messageBeans": 0.0,
           "otherBeans": 406.0,
           "billCount": 715
-        }
-      }
-    },
-    {
-      "id": "acct-165195",
-      "displayName": "Juna Maglinte（46）",
-      "countryIso": "BR",
-      "totalBeans": 43763.0,
-      "privateCallBeans": 1040.0,
-      "matchCallBeans": 41980.0,
-      "giftBeans": 283.0,
-      "messageBeans": 0.0,
-      "otherBeans": 460.0,
-      "billCount": 1359,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 20490.0,
-          "privateCallBeans": 1040.0,
-          "matchCallBeans": 19380.0,
-          "giftBeans": 70.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 681
-        },
-        "2026-07-02": {
-          "totalBeans": 23273.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 22600.0,
-          "giftBeans": 213.0,
-          "messageBeans": 0.0,
-          "otherBeans": 460.0,
-          "billCount": 678
         }
       }
     },
@@ -2092,146 +2853,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 0
-        }
-      }
-    },
-    {
-      "id": "acct-204933",
-      "displayName": "livia/livinha",
-      "countryIso": "BR",
-      "totalBeans": 43443.0,
-      "privateCallBeans": 2000.0,
-      "matchCallBeans": 37896.0,
-      "giftBeans": 2647.0,
-      "messageBeans": 0.0,
-      "otherBeans": 900.0,
-      "billCount": 1409,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 21794.0,
-          "privateCallBeans": 1440.0,
-          "matchCallBeans": 18252.0,
-          "giftBeans": 1202.0,
-          "messageBeans": 0.0,
-          "otherBeans": 900.0,
-          "billCount": 705
-        },
-        "2026-07-02": {
-          "totalBeans": 21649.0,
-          "privateCallBeans": 560.0,
-          "matchCallBeans": 19644.0,
-          "giftBeans": 1445.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 704
-        }
-      }
-    },
-    {
-      "id": "acct-253378",
-      "displayName": "Maricela（71h_win）",
-      "countryIso": "CO",
-      "totalBeans": 43441.0,
-      "privateCallBeans": 140.0,
-      "matchCallBeans": 40296.0,
-      "giftBeans": 2005.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1000.0,
-      "billCount": 1381,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 22065.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 20428.0,
-          "giftBeans": 637.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1000.0,
-          "billCount": 673
-        },
-        "2026-07-02": {
-          "totalBeans": 21376.0,
-          "privateCallBeans": 140.0,
-          "matchCallBeans": 19868.0,
-          "giftBeans": 1368.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 708
-        }
-      }
-    },
-    {
-      "id": "acct-029863",
-      "displayName": "شموسة 🤍（122）",
-      "countryIso": "SY",
-      "totalBeans": 43167.0,
-      "privateCallBeans": 390.0,
-      "matchCallBeans": 41660.0,
-      "giftBeans": 417.0,
-      "messageBeans": 0.0,
-      "otherBeans": 700.0,
-      "billCount": 1386,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 21046.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 20052.0,
-          "giftBeans": 294.0,
-          "messageBeans": 0.0,
-          "otherBeans": 700.0,
-          "billCount": 692
-        },
-        "2026-07-02": {
-          "totalBeans": 22121.0,
-          "privateCallBeans": 390.0,
-          "matchCallBeans": 21608.0,
-          "giftBeans": 123.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 694
-        }
-      }
-    },
-    {
-      "id": "acct-545503",
-      "displayName": "قمر（114）",
-      "countryIso": "SY",
-      "totalBeans": 43018.0,
-      "privateCallBeans": 715.0,
-      "matchCallBeans": 40260.0,
-      "giftBeans": 1343.0,
-      "messageBeans": 0.0,
-      "otherBeans": 700.0,
-      "billCount": 1381,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 22005.0,
-          "privateCallBeans": 325.0,
-          "matchCallBeans": 20676.0,
-          "giftBeans": 304.0,
-          "messageBeans": 0.0,
-          "otherBeans": 700.0,
-          "billCount": 691
-        },
-        "2026-07-02": {
-          "totalBeans": 21013.0,
-          "privateCallBeans": 390.0,
-          "matchCallBeans": 19584.0,
-          "giftBeans": 1039.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 690
         }
       }
     },
@@ -2315,41 +2936,6 @@
       }
     },
     {
-      "id": "acct-509974",
-      "displayName": "ساندي💋💋（105h）",
-      "countryIso": "SY",
-      "totalBeans": 42626.0,
-      "privateCallBeans": 2080.0,
-      "matchCallBeans": 38200.0,
-      "giftBeans": 1646.0,
-      "messageBeans": 0.0,
-      "otherBeans": 700.0,
-      "billCount": 1357,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 22177.0,
-          "privateCallBeans": 1560.0,
-          "matchCallBeans": 18800.0,
-          "giftBeans": 1117.0,
-          "messageBeans": 0.0,
-          "otherBeans": 700.0,
-          "billCount": 680
-        },
-        "2026-07-02": {
-          "totalBeans": 20449.0,
-          "privateCallBeans": 520.0,
-          "matchCallBeans": 19400.0,
-          "giftBeans": 529.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 677
-        }
-      }
-    },
-    {
       "id": "acct-202279",
       "displayName": "Madumelohh（103h）",
       "countryIso": "CO",
@@ -2385,120 +2971,15 @@
       }
     },
     {
-      "id": "acct-203900",
-      "displayName": "Michelly（256）",
-      "countryIso": "VE",
-      "totalBeans": 41980.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 40724.0,
-      "giftBeans": 1256.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 1029,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 15548.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 15200.0,
-          "giftBeans": 348.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 366
-        },
-        "2026-07-02": {
-          "totalBeans": 26432.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 25524.0,
-          "giftBeans": 908.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 663
-        }
-      }
-    },
-    {
-      "id": "acct-286678",
-      "displayName": "flor 🌷🌹（84h）",
-      "countryIso": "BR",
-      "totalBeans": 41770.0,
-      "privateCallBeans": 1120.0,
-      "matchCallBeans": 36740.0,
-      "giftBeans": 3060.0,
-      "messageBeans": 0.0,
-      "otherBeans": 850.0,
-      "billCount": 1426,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 20536.0,
-          "privateCallBeans": 1120.0,
-          "matchCallBeans": 18152.0,
-          "giftBeans": 414.0,
-          "messageBeans": 0.0,
-          "otherBeans": 850.0,
-          "billCount": 715
-        },
-        "2026-07-02": {
-          "totalBeans": 21234.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 18588.0,
-          "giftBeans": 2646.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 711
-        }
-      }
-    },
-    {
-      "id": "acct-115090",
-      "displayName": "ريتا（109h）",
-      "countryIso": "SY",
-      "totalBeans": 41420.0,
-      "privateCallBeans": 1300.0,
-      "matchCallBeans": 38748.0,
-      "giftBeans": 672.0,
-      "messageBeans": 0.0,
-      "otherBeans": 700.0,
-      "billCount": 1507,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 20540.0,
-          "privateCallBeans": 130.0,
-          "matchCallBeans": 19128.0,
-          "giftBeans": 582.0,
-          "messageBeans": 0.0,
-          "otherBeans": 700.0,
-          "billCount": 751
-        },
-        "2026-07-02": {
-          "totalBeans": 20880.0,
-          "privateCallBeans": 1170.0,
-          "matchCallBeans": 19620.0,
-          "giftBeans": 90.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 756
-        }
-      }
-    },
-    {
       "id": "acct-116664",
       "displayName": "Sofía（101h）",
       "countryIso": "CO",
-      "totalBeans": 41311.0,
+      "totalBeans": 42131.0,
       "privateCallBeans": 210.0,
       "matchCallBeans": 39556.0,
-      "giftBeans": 625.0,
+      "giftBeans": 251.0,
       "messageBeans": 0.0,
-      "otherBeans": 920.0,
+      "otherBeans": 2114.0,
       "billCount": 1484,
       "plannedBeans": 0,
       "online": false,
@@ -2514,13 +2995,57 @@
           "billCount": 742
         },
         "2026-07-02": {
-          "totalBeans": 21128.0,
+          "totalBeans": 21948.0,
           "privateCallBeans": 70.0,
           "matchCallBeans": 20684.0,
-          "giftBeans": 374.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1194.0,
+          "billCount": 742
+        }
+      }
+    },
+    {
+      "id": "acct-346431",
+      "displayName": "tatiana（134）",
+      "countryIso": "CO",
+      "totalBeans": 41589.0,
+      "privateCallBeans": 1260.0,
+      "matchCallBeans": 37632.0,
+      "giftBeans": 1327.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1370.0,
+      "billCount": 1335,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 17100.0,
+          "privateCallBeans": 700.0,
+          "matchCallBeans": 15324.0,
+          "giftBeans": 156.0,
+          "messageBeans": 0.0,
+          "otherBeans": 920.0,
+          "billCount": 599
+        },
+        "2026-07-02": {
+          "totalBeans": 20623.0,
+          "privateCallBeans": 560.0,
+          "matchCallBeans": 18892.0,
+          "giftBeans": 1171.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 742
+          "billCount": 736
+        },
+        "2026-07-03": {
+          "totalBeans": 3866.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3416.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 450.0,
+          "billCount": 0
         }
       }
     },
@@ -2591,41 +3116,6 @@
           "messageBeans": 0.0,
           "otherBeans": 830.0,
           "billCount": 599
-        }
-      }
-    },
-    {
-      "id": "acct-755957",
-      "displayName": "Laaaila（260）",
-      "countryIso": "VE",
-      "totalBeans": 40540.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 39204.0,
-      "giftBeans": 1336.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 1284,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 19014.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 18192.0,
-          "giftBeans": 822.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 584
-        },
-        "2026-07-02": {
-          "totalBeans": 21526.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 21012.0,
-          "giftBeans": 514.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 700
         }
       }
     },
@@ -2744,72 +3234,178 @@
       }
     },
     {
-      "id": "acct-947300",
-      "displayName": "Yerlimar Salas（148）",
-      "countryIso": "CO",
-      "totalBeans": 39880.0,
-      "privateCallBeans": 1330.0,
-      "matchCallBeans": 37128.0,
-      "giftBeans": 472.0,
+      "id": "acct-408154",
+      "displayName": "ninfeta😈（259）",
+      "countryIso": "VE",
+      "totalBeans": 39920.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 38780.0,
+      "giftBeans": 270.0,
       "messageBeans": 0.0,
-      "otherBeans": 950.0,
+      "otherBeans": 870.0,
+      "billCount": 1400,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 19976.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 19056.0,
+          "giftBeans": 200.0,
+          "messageBeans": 0.0,
+          "otherBeans": 720.0,
+          "billCount": 695
+        },
+        "2026-07-02": {
+          "totalBeans": 17522.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 17452.0,
+          "giftBeans": 70.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 705
+        },
+        "2026-07-03": {
+          "totalBeans": 2422.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2272.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 150.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-074989",
+      "displayName": "Gina Gruz（261）",
+      "countryIso": "BR",
+      "totalBeans": 39593.0,
+      "privateCallBeans": 260.0,
+      "matchCallBeans": 38148.0,
+      "giftBeans": 315.0,
+      "messageBeans": 0.0,
+      "otherBeans": 870.0,
       "billCount": 1321,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 18220.0,
-          "privateCallBeans": 280.0,
-          "matchCallBeans": 16588.0,
-          "giftBeans": 402.0,
-          "messageBeans": 0.0,
-          "otherBeans": 950.0,
-          "billCount": 607
-        },
-        "2026-07-02": {
-          "totalBeans": 21660.0,
-          "privateCallBeans": 1050.0,
-          "matchCallBeans": 20540.0,
-          "giftBeans": 70.0,
+          "totalBeans": 13901.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 13656.0,
+          "giftBeans": 245.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 714
+          "billCount": 616
+        },
+        "2026-07-02": {
+          "totalBeans": 18052.0,
+          "privateCallBeans": 260.0,
+          "matchCallBeans": 17672.0,
+          "giftBeans": 70.0,
+          "messageBeans": 0.0,
+          "otherBeans": 50.0,
+          "billCount": 705
+        },
+        "2026-07-03": {
+          "totalBeans": 7640.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 6820.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 820.0,
+          "billCount": 0
         }
       }
     },
     {
-      "id": "acct-567971",
-      "displayName": "مجنناهم（133）",
-      "countryIso": "EG",
-      "totalBeans": 39519.0,
-      "privateCallBeans": 1300.0,
-      "matchCallBeans": 36288.0,
-      "giftBeans": 1231.0,
+      "id": "acct-132826",
+      "displayName": "Elvis Guerrero（绑定 051904 云）",
+      "countryIso": "VE",
+      "totalBeans": 39542.0,
+      "privateCallBeans": 1120.0,
+      "matchCallBeans": 35932.0,
+      "giftBeans": 1460.0,
       "messageBeans": 0.0,
-      "otherBeans": 700.0,
-      "billCount": 1000,
+      "otherBeans": 1030.0,
+      "billCount": 1368,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 27790.0,
-          "privateCallBeans": 325.0,
-          "matchCallBeans": 25544.0,
-          "giftBeans": 1221.0,
+          "totalBeans": 19481.0,
+          "privateCallBeans": 420.0,
+          "matchCallBeans": 16864.0,
+          "giftBeans": 1297.0,
           "messageBeans": 0.0,
-          "otherBeans": 700.0,
-          "billCount": 726
+          "otherBeans": 900.0,
+          "billCount": 683
         },
         "2026-07-02": {
-          "totalBeans": 11729.0,
-          "privateCallBeans": 975.0,
-          "matchCallBeans": 10744.0,
-          "giftBeans": 10.0,
+          "totalBeans": 18211.0,
+          "privateCallBeans": 700.0,
+          "matchCallBeans": 17348.0,
+          "giftBeans": 163.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 274
+          "billCount": 685
+        },
+        "2026-07-03": {
+          "totalBeans": 1850.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1720.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 130.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-149901",
+      "displayName": "شطة نار（129）",
+      "countryIso": "SY",
+      "totalBeans": 39274.0,
+      "privateCallBeans": 4200.0,
+      "matchCallBeans": 32400.0,
+      "giftBeans": 1276.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1398.0,
+      "billCount": 1429,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 14799.0,
+          "privateCallBeans": 480.0,
+          "matchCallBeans": 12576.0,
+          "giftBeans": 1043.0,
+          "messageBeans": 0.0,
+          "otherBeans": 700.0,
+          "billCount": 711
+        },
+        "2026-07-02": {
+          "totalBeans": 17917.0,
+          "privateCallBeans": 2640.0,
+          "matchCallBeans": 15044.0,
+          "giftBeans": 233.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 718
+        },
+        "2026-07-03": {
+          "totalBeans": 6558.0,
+          "privateCallBeans": 1080.0,
+          "matchCallBeans": 4780.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 698.0,
+          "billCount": 0
         }
       }
     },
@@ -2884,142 +3480,398 @@
       }
     },
     {
-      "id": "acct-346431",
-      "displayName": "tatiana（134）",
-      "countryIso": "CO",
-      "totalBeans": 37723.0,
-      "privateCallBeans": 1260.0,
-      "matchCallBeans": 34216.0,
-      "giftBeans": 1327.0,
-      "messageBeans": 0.0,
-      "otherBeans": 920.0,
-      "billCount": 1335,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 17100.0,
-          "privateCallBeans": 700.0,
-          "matchCallBeans": 15324.0,
-          "giftBeans": 156.0,
-          "messageBeans": 0.0,
-          "otherBeans": 920.0,
-          "billCount": 599
-        },
-        "2026-07-02": {
-          "totalBeans": 20623.0,
-          "privateCallBeans": 560.0,
-          "matchCallBeans": 18892.0,
-          "giftBeans": 1171.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 736
-        }
-      }
-    },
-    {
-      "id": "acct-132826",
-      "displayName": "Elvis Guerrero（绑定 051904 云）",
+      "id": "acct-460605",
+      "displayName": "Tammi（31）",
       "countryIso": "VE",
-      "totalBeans": 37692.0,
-      "privateCallBeans": 1120.0,
-      "matchCallBeans": 34212.0,
-      "giftBeans": 1460.0,
-      "messageBeans": 0.0,
-      "otherBeans": 900.0,
-      "billCount": 1368,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 19481.0,
-          "privateCallBeans": 420.0,
-          "matchCallBeans": 16864.0,
-          "giftBeans": 1297.0,
-          "messageBeans": 0.0,
-          "otherBeans": 900.0,
-          "billCount": 683
-        },
-        "2026-07-02": {
-          "totalBeans": 18211.0,
-          "privateCallBeans": 700.0,
-          "matchCallBeans": 17348.0,
-          "giftBeans": 163.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 685
-        }
-      }
-    },
-    {
-      "id": "acct-408154",
-      "displayName": "ninfeta😈（259）",
-      "countryIso": "VE",
-      "totalBeans": 37498.0,
+      "totalBeans": 37664.0,
       "privateCallBeans": 0.0,
-      "matchCallBeans": 36508.0,
-      "giftBeans": 270.0,
+      "matchCallBeans": 35796.0,
+      "giftBeans": 248.0,
       "messageBeans": 0.0,
-      "otherBeans": 720.0,
-      "billCount": 1400,
+      "otherBeans": 1620.0,
+      "billCount": 1009,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 19976.0,
+          "totalBeans": 10681.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 19056.0,
-          "giftBeans": 200.0,
+          "matchCallBeans": 9788.0,
+          "giftBeans": 83.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 315
+        },
+        "2026-07-02": {
+          "totalBeans": 21153.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 20988.0,
+          "giftBeans": 165.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 694
+        },
+        "2026-07-03": {
+          "totalBeans": 5830.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 5020.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-740709",
+      "displayName": "Fernandinha❤️‍🔥（257）",
+      "countryIso": "VE",
+      "totalBeans": 37328.0,
+      "privateCallBeans": 530.0,
+      "matchCallBeans": 35296.0,
+      "giftBeans": 374.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1128.0,
+      "billCount": 1193,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 14046.0,
+          "privateCallBeans": 90.0,
+          "matchCallBeans": 12980.0,
+          "giftBeans": 256.0,
           "messageBeans": 0.0,
           "otherBeans": 720.0,
-          "billCount": 695
+          "billCount": 481
         },
         "2026-07-02": {
-          "totalBeans": 17522.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 17452.0,
-          "giftBeans": 70.0,
+          "totalBeans": 19542.0,
+          "privateCallBeans": 440.0,
+          "matchCallBeans": 18984.0,
+          "giftBeans": 118.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 705
+          "billCount": 712
+        },
+        "2026-07-03": {
+          "totalBeans": 3740.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3332.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 408.0,
+          "billCount": 0
         }
       }
     },
     {
-      "id": "acct-326182",
-      "displayName": "Anna（绑定 051908 云）",
-      "countryIso": "PH",
-      "totalBeans": 36423.0,
-      "privateCallBeans": 120.0,
-      "matchCallBeans": 33336.0,
-      "giftBeans": 2387.0,
+      "id": "acct-518604",
+      "displayName": "Carolina（120）",
+      "countryIso": "BR",
+      "totalBeans": 37305.0,
+      "privateCallBeans": 1120.0,
+      "matchCallBeans": 34836.0,
+      "giftBeans": 266.0,
       "messageBeans": 0.0,
-      "otherBeans": 580.0,
-      "billCount": 1452,
+      "otherBeans": 1083.0,
+      "billCount": 1472,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 16216.0,
+          "totalBeans": 16765.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 14628.0,
-          "giftBeans": 1588.0,
+          "matchCallBeans": 15832.0,
+          "giftBeans": 123.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 715
+          "otherBeans": 810.0,
+          "billCount": 734
         },
         "2026-07-02": {
-          "totalBeans": 20207.0,
-          "privateCallBeans": 120.0,
-          "matchCallBeans": 18708.0,
-          "giftBeans": 799.0,
+          "totalBeans": 17339.0,
+          "privateCallBeans": 800.0,
+          "matchCallBeans": 16396.0,
+          "giftBeans": 143.0,
           "messageBeans": 0.0,
-          "otherBeans": 580.0,
-          "billCount": 737
+          "otherBeans": 0.0,
+          "billCount": 738
+        },
+        "2026-07-03": {
+          "totalBeans": 3201.0,
+          "privateCallBeans": 320.0,
+          "matchCallBeans": 2608.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 273.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-122105",
+      "displayName": "Sofia verenzuela",
+      "countryIso": "BR",
+      "totalBeans": 37141.0,
+      "privateCallBeans": 2240.0,
+      "matchCallBeans": 32424.0,
+      "giftBeans": 1522.0,
+      "messageBeans": 0.0,
+      "otherBeans": 955.0,
+      "billCount": 1392,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 16148.0,
+          "privateCallBeans": 640.0,
+          "matchCallBeans": 14300.0,
+          "giftBeans": 598.0,
+          "messageBeans": 0.0,
+          "otherBeans": 610.0,
+          "billCount": 696
+        },
+        "2026-07-02": {
+          "totalBeans": 16144.0,
+          "privateCallBeans": 1600.0,
+          "matchCallBeans": 13620.0,
+          "giftBeans": 924.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 696
+        },
+        "2026-07-03": {
+          "totalBeans": 4849.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 4504.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 345.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-212837",
+      "displayName": "Carolina Arango（118）",
+      "countryIso": "VE",
+      "totalBeans": 36668.0,
+      "privateCallBeans": 140.0,
+      "matchCallBeans": 35488.0,
+      "giftBeans": 170.0,
+      "messageBeans": 0.0,
+      "otherBeans": 870.0,
+      "billCount": 1411,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 16452.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 15712.0,
+          "giftBeans": 120.0,
+          "messageBeans": 0.0,
+          "otherBeans": 620.0,
+          "billCount": 705
+        },
+        "2026-07-02": {
+          "totalBeans": 16222.0,
+          "privateCallBeans": 140.0,
+          "matchCallBeans": 16032.0,
+          "giftBeans": 50.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 706
+        },
+        "2026-07-03": {
+          "totalBeans": 3994.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3744.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 250.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-656700",
+      "displayName": "jourbis（221）",
+      "countryIso": "VE",
+      "totalBeans": 36305.0,
+      "privateCallBeans": 650.0,
+      "matchCallBeans": 34192.0,
+      "giftBeans": 193.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1270.0,
+      "billCount": 1454,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 16156.0,
+          "privateCallBeans": 260.0,
+          "matchCallBeans": 15036.0,
+          "giftBeans": 50.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 726
+        },
+        "2026-07-02": {
+          "totalBeans": 16773.0,
+          "privateCallBeans": 390.0,
+          "matchCallBeans": 16240.0,
+          "giftBeans": 143.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 728
+        },
+        "2026-07-03": {
+          "totalBeans": 3376.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2916.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 460.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-288697",
+      "displayName": "دلوعة（232）",
+      "countryIso": "EG",
+      "totalBeans": 35923.0,
+      "privateCallBeans": 585.0,
+      "matchCallBeans": 33548.0,
+      "giftBeans": 780.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1010.0,
+      "billCount": 657,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 15645.0,
+          "privateCallBeans": 520.0,
+          "matchCallBeans": 14224.0,
+          "giftBeans": 401.0,
+          "messageBeans": 0.0,
+          "otherBeans": 500.0,
+          "billCount": 391
+        },
+        "2026-07-02": {
+          "totalBeans": 12343.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 11964.0,
+          "giftBeans": 379.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 266
+        },
+        "2026-07-03": {
+          "totalBeans": 7935.0,
+          "privateCallBeans": 65.0,
+          "matchCallBeans": 7360.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 510.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-504380",
+      "displayName": "Jenn💋（95h）",
+      "countryIso": "VE",
+      "totalBeans": 35250.0,
+      "privateCallBeans": 1960.0,
+      "matchCallBeans": 31764.0,
+      "giftBeans": 616.0,
+      "messageBeans": 0.0,
+      "otherBeans": 910.0,
+      "billCount": 1347,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 17371.0,
+          "privateCallBeans": 1960.0,
+          "matchCallBeans": 14576.0,
+          "giftBeans": 25.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 675
+        },
+        "2026-07-02": {
+          "totalBeans": 15475.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 14884.0,
+          "giftBeans": 591.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 672
+        },
+        "2026-07-03": {
+          "totalBeans": 2404.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2304.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 100.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-395746",
+      "displayName": "Morena（258）",
+      "countryIso": "BR",
+      "totalBeans": 35238.0,
+      "privateCallBeans": 2585.0,
+      "matchCallBeans": 30812.0,
+      "giftBeans": 291.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1550.0,
+      "billCount": 1062,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 10908.0,
+          "privateCallBeans": 500.0,
+          "matchCallBeans": 9408.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1000.0,
+          "billCount": 353
+        },
+        "2026-07-02": {
+          "totalBeans": 18014.0,
+          "privateCallBeans": 1955.0,
+          "matchCallBeans": 15768.0,
+          "giftBeans": 291.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 709
+        },
+        "2026-07-03": {
+          "totalBeans": 6316.0,
+          "privateCallBeans": 130.0,
+          "matchCallBeans": 5636.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 550.0,
+          "billCount": 0
         }
       }
     },
@@ -3055,6 +3907,50 @@
           "messageBeans": 0.0,
           "otherBeans": 350.0,
           "billCount": 711
+        }
+      }
+    },
+    {
+      "id": "acct-355586",
+      "displayName": "La bebecita😘🤤😈（203）",
+      "countryIso": "VE",
+      "totalBeans": 34710.0,
+      "privateCallBeans": 210.0,
+      "matchCallBeans": 33204.0,
+      "giftBeans": 466.0,
+      "messageBeans": 0.0,
+      "otherBeans": 830.0,
+      "billCount": 1326,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 17748.0,
+          "privateCallBeans": 140.0,
+          "matchCallBeans": 16332.0,
+          "giftBeans": 466.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 663
+        },
+        "2026-07-02": {
+          "totalBeans": 15834.0,
+          "privateCallBeans": 70.0,
+          "matchCallBeans": 15764.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 663
+        },
+        "2026-07-03": {
+          "totalBeans": 1128.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 1108.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 20.0,
+          "billCount": 0
         }
       }
     },
@@ -3129,41 +4025,6 @@
       }
     },
     {
-      "id": "acct-449623",
-      "displayName": "Lety 😋（255）",
-      "countryIso": "BR",
-      "totalBeans": 34247.0,
-      "privateCallBeans": 180.0,
-      "matchCallBeans": 32620.0,
-      "giftBeans": 447.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1000.0,
-      "billCount": 1031,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 11091.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 10056.0,
-          "giftBeans": 35.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1000.0,
-          "billCount": 319
-        },
-        "2026-07-02": {
-          "totalBeans": 23156.0,
-          "privateCallBeans": 180.0,
-          "matchCallBeans": 22564.0,
-          "giftBeans": 412.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 712
-        }
-      }
-    },
-    {
       "id": "acct-493441",
       "displayName": "سيسي🫠（140）",
       "countryIso": "SY",
@@ -3199,41 +4060,6 @@
       }
     },
     {
-      "id": "acct-518604",
-      "displayName": "Carolina（120）",
-      "countryIso": "BR",
-      "totalBeans": 34104.0,
-      "privateCallBeans": 800.0,
-      "matchCallBeans": 32228.0,
-      "giftBeans": 266.0,
-      "messageBeans": 0.0,
-      "otherBeans": 810.0,
-      "billCount": 1472,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 16765.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 15832.0,
-          "giftBeans": 123.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 734
-        },
-        "2026-07-02": {
-          "totalBeans": 17339.0,
-          "privateCallBeans": 800.0,
-          "matchCallBeans": 16396.0,
-          "giftBeans": 143.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 738
-        }
-      }
-    },
-    {
       "id": "acct-078008",
       "displayName": "Mari🥰（247）",
       "countryIso": "BR",
@@ -3265,6 +4091,50 @@
           "messageBeans": 0.0,
           "otherBeans": 431.0,
           "billCount": 661
+        }
+      }
+    },
+    {
+      "id": "acct-530153",
+      "displayName": "Eloh❤️（223）",
+      "countryIso": "CO",
+      "totalBeans": 33989.0,
+      "privateCallBeans": 1050.0,
+      "matchCallBeans": 31788.0,
+      "giftBeans": 341.0,
+      "messageBeans": 0.0,
+      "otherBeans": 810.0,
+      "billCount": 1339,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 16775.0,
+          "privateCallBeans": 770.0,
+          "matchCallBeans": 14952.0,
+          "giftBeans": 243.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 671
+        },
+        "2026-07-02": {
+          "totalBeans": 16606.0,
+          "privateCallBeans": 280.0,
+          "matchCallBeans": 16228.0,
+          "giftBeans": 98.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 668
+        },
+        "2026-07-03": {
+          "totalBeans": 608.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 608.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -3339,76 +4209,6 @@
       }
     },
     {
-      "id": "acct-740709",
-      "displayName": "Fernandinha❤️‍🔥（257）",
-      "countryIso": "VE",
-      "totalBeans": 33588.0,
-      "privateCallBeans": 530.0,
-      "matchCallBeans": 31964.0,
-      "giftBeans": 374.0,
-      "messageBeans": 0.0,
-      "otherBeans": 720.0,
-      "billCount": 1193,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 14046.0,
-          "privateCallBeans": 90.0,
-          "matchCallBeans": 12980.0,
-          "giftBeans": 256.0,
-          "messageBeans": 0.0,
-          "otherBeans": 720.0,
-          "billCount": 481
-        },
-        "2026-07-02": {
-          "totalBeans": 19542.0,
-          "privateCallBeans": 440.0,
-          "matchCallBeans": 18984.0,
-          "giftBeans": 118.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 712
-        }
-      }
-    },
-    {
-      "id": "acct-355586",
-      "displayName": "La bebecita😘🤤😈（203）",
-      "countryIso": "VE",
-      "totalBeans": 33582.0,
-      "privateCallBeans": 210.0,
-      "matchCallBeans": 32096.0,
-      "giftBeans": 466.0,
-      "messageBeans": 0.0,
-      "otherBeans": 810.0,
-      "billCount": 1326,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 17748.0,
-          "privateCallBeans": 140.0,
-          "matchCallBeans": 16332.0,
-          "giftBeans": 466.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 663
-        },
-        "2026-07-02": {
-          "totalBeans": 15834.0,
-          "privateCallBeans": 70.0,
-          "matchCallBeans": 15764.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 663
-        }
-      }
-    },
-    {
       "id": "acct-947828",
       "displayName": "دلع 🌶️（131）",
       "countryIso": "SY",
@@ -3440,41 +4240,6 @@
           "messageBeans": 0.0,
           "otherBeans": 350.0,
           "billCount": 675
-        }
-      }
-    },
-    {
-      "id": "acct-530153",
-      "displayName": "Eloh❤️（223）",
-      "countryIso": "CO",
-      "totalBeans": 33381.0,
-      "privateCallBeans": 1050.0,
-      "matchCallBeans": 31180.0,
-      "giftBeans": 341.0,
-      "messageBeans": 0.0,
-      "otherBeans": 810.0,
-      "billCount": 1339,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 16775.0,
-          "privateCallBeans": 770.0,
-          "matchCallBeans": 14952.0,
-          "giftBeans": 243.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 671
-        },
-        "2026-07-02": {
-          "totalBeans": 16606.0,
-          "privateCallBeans": 280.0,
-          "matchCallBeans": 16228.0,
-          "giftBeans": 98.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 668
         }
       }
     },
@@ -3523,76 +4288,6 @@
       }
     },
     {
-      "id": "acct-656700",
-      "displayName": "jourbis（221）",
-      "countryIso": "VE",
-      "totalBeans": 32929.0,
-      "privateCallBeans": 650.0,
-      "matchCallBeans": 31276.0,
-      "giftBeans": 193.0,
-      "messageBeans": 0.0,
-      "otherBeans": 810.0,
-      "billCount": 1454,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 16156.0,
-          "privateCallBeans": 260.0,
-          "matchCallBeans": 15036.0,
-          "giftBeans": 50.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 726
-        },
-        "2026-07-02": {
-          "totalBeans": 16773.0,
-          "privateCallBeans": 390.0,
-          "matchCallBeans": 16240.0,
-          "giftBeans": 143.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 728
-        }
-      }
-    },
-    {
-      "id": "acct-504380",
-      "displayName": "Jenn💋（95h）",
-      "countryIso": "VE",
-      "totalBeans": 32846.0,
-      "privateCallBeans": 1960.0,
-      "matchCallBeans": 29460.0,
-      "giftBeans": 616.0,
-      "messageBeans": 0.0,
-      "otherBeans": 810.0,
-      "billCount": 1347,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 17371.0,
-          "privateCallBeans": 1960.0,
-          "matchCallBeans": 14576.0,
-          "giftBeans": 25.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 675
-        },
-        "2026-07-02": {
-          "totalBeans": 15475.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 14884.0,
-          "giftBeans": 591.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 672
-        }
-      }
-    },
-    {
       "id": "acct-337918",
       "displayName": "honey（242）",
       "countryIso": "VE",
@@ -3624,76 +4319,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 748
-        }
-      }
-    },
-    {
-      "id": "acct-149901",
-      "displayName": "شطة نار（129）",
-      "countryIso": "SY",
-      "totalBeans": 32716.0,
-      "privateCallBeans": 3120.0,
-      "matchCallBeans": 27620.0,
-      "giftBeans": 1276.0,
-      "messageBeans": 0.0,
-      "otherBeans": 700.0,
-      "billCount": 1429,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 14799.0,
-          "privateCallBeans": 480.0,
-          "matchCallBeans": 12576.0,
-          "giftBeans": 1043.0,
-          "messageBeans": 0.0,
-          "otherBeans": 700.0,
-          "billCount": 711
-        },
-        "2026-07-02": {
-          "totalBeans": 17917.0,
-          "privateCallBeans": 2640.0,
-          "matchCallBeans": 15044.0,
-          "giftBeans": 233.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 718
-        }
-      }
-    },
-    {
-      "id": "acct-212837",
-      "displayName": "Carolina Arango（118）",
-      "countryIso": "VE",
-      "totalBeans": 32674.0,
-      "privateCallBeans": 140.0,
-      "matchCallBeans": 31744.0,
-      "giftBeans": 170.0,
-      "messageBeans": 0.0,
-      "otherBeans": 620.0,
-      "billCount": 1411,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 16452.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 15712.0,
-          "giftBeans": 120.0,
-          "messageBeans": 0.0,
-          "otherBeans": 620.0,
-          "billCount": 705
-        },
-        "2026-07-02": {
-          "totalBeans": 16222.0,
-          "privateCallBeans": 140.0,
-          "matchCallBeans": 16032.0,
-          "giftBeans": 50.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 706
         }
       }
     },
@@ -3733,107 +4358,46 @@
       }
     },
     {
-      "id": "acct-122105",
-      "displayName": "Sofia verenzuela",
+      "id": "acct-228224",
+      "displayName": "candice（85h）",
       "countryIso": "BR",
-      "totalBeans": 32292.0,
-      "privateCallBeans": 2240.0,
-      "matchCallBeans": 27920.0,
-      "giftBeans": 1522.0,
-      "messageBeans": 0.0,
-      "otherBeans": 610.0,
-      "billCount": 1392,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 16148.0,
-          "privateCallBeans": 640.0,
-          "matchCallBeans": 14300.0,
-          "giftBeans": 598.0,
-          "messageBeans": 0.0,
-          "otherBeans": 610.0,
-          "billCount": 696
-        },
-        "2026-07-02": {
-          "totalBeans": 16144.0,
-          "privateCallBeans": 1600.0,
-          "matchCallBeans": 13620.0,
-          "giftBeans": 924.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 696
-        }
-      }
-    },
-    {
-      "id": "acct-074989",
-      "displayName": "Gina Gruz（261）",
-      "countryIso": "BR",
-      "totalBeans": 31953.0,
-      "privateCallBeans": 260.0,
-      "matchCallBeans": 31328.0,
-      "giftBeans": 315.0,
-      "messageBeans": 0.0,
-      "otherBeans": 50.0,
-      "billCount": 1321,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 13901.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 13656.0,
-          "giftBeans": 245.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 616
-        },
-        "2026-07-02": {
-          "totalBeans": 18052.0,
-          "privateCallBeans": 260.0,
-          "matchCallBeans": 17672.0,
-          "giftBeans": 70.0,
-          "messageBeans": 0.0,
-          "otherBeans": 50.0,
-          "billCount": 705
-        }
-      }
-    },
-    {
-      "id": "acct-460605",
-      "displayName": "Tammi（31）",
-      "countryIso": "VE",
-      "totalBeans": 31834.0,
+      "totalBeans": 31987.0,
       "privateCallBeans": 0.0,
-      "matchCallBeans": 30776.0,
-      "giftBeans": 248.0,
+      "matchCallBeans": 31396.0,
+      "giftBeans": 391.0,
       "messageBeans": 0.0,
-      "otherBeans": 810.0,
-      "billCount": 1009,
+      "otherBeans": 200.0,
+      "billCount": 1302,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 10681.0,
+          "totalBeans": 12553.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 9788.0,
-          "giftBeans": 83.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 315
-        },
-        "2026-07-02": {
-          "totalBeans": 21153.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 20988.0,
-          "giftBeans": 165.0,
+          "matchCallBeans": 12480.0,
+          "giftBeans": 73.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
-          "billCount": 694
+          "billCount": 651
+        },
+        "2026-07-02": {
+          "totalBeans": 16406.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 16088.0,
+          "giftBeans": 318.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 651
+        },
+        "2026-07-03": {
+          "totalBeans": 3028.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 2828.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 200.0,
+          "billCount": 0
         }
       }
     },
@@ -3882,6 +4446,41 @@
       }
     },
     {
+      "id": "acct-513486",
+      "displayName": "María eamos（202）",
+      "countryIso": "CO",
+      "totalBeans": 30251.0,
+      "privateCallBeans": 260.0,
+      "matchCallBeans": 27012.0,
+      "giftBeans": 0.0,
+      "messageBeans": 0.0,
+      "otherBeans": 2979.0,
+      "billCount": 1433,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 13534.0,
+          "privateCallBeans": 260.0,
+          "matchCallBeans": 12156.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1118.0,
+          "billCount": 717
+        },
+        "2026-07-02": {
+          "totalBeans": 16717.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 14856.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 1861.0,
+          "billCount": 716
+        }
+      }
+    },
+    {
       "id": "acct-657589",
       "displayName": "نبض（143）",
       "countryIso": "SY",
@@ -3926,6 +4525,50 @@
       }
     },
     {
+      "id": "acct-553220",
+      "displayName": "روبي 💕（157）",
+      "countryIso": "SY",
+      "totalBeans": 29777.0,
+      "privateCallBeans": 120.0,
+      "matchCallBeans": 29252.0,
+      "giftBeans": 95.0,
+      "messageBeans": 0.0,
+      "otherBeans": 310.0,
+      "billCount": 1305,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 11914.0,
+          "privateCallBeans": 60.0,
+          "matchCallBeans": 11844.0,
+          "giftBeans": 10.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 652
+        },
+        "2026-07-02": {
+          "totalBeans": 12363.0,
+          "privateCallBeans": 60.0,
+          "matchCallBeans": 11968.0,
+          "giftBeans": 85.0,
+          "messageBeans": 0.0,
+          "otherBeans": 250.0,
+          "billCount": 653
+        },
+        "2026-07-03": {
+          "totalBeans": 5500.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 5440.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 60.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
       "id": "acct-830070",
       "displayName": "vic（104h）",
       "countryIso": "CO",
@@ -3961,107 +4604,116 @@
       }
     },
     {
-      "id": "acct-513486",
-      "displayName": "María eamos（202）",
-      "countryIso": "CO",
-      "totalBeans": 29351.0,
-      "privateCallBeans": 260.0,
-      "matchCallBeans": 27012.0,
-      "giftBeans": 961.0,
-      "messageBeans": 0.0,
-      "otherBeans": 1118.0,
-      "billCount": 1433,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 13534.0,
-          "privateCallBeans": 260.0,
-          "matchCallBeans": 12156.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 1118.0,
-          "billCount": 717
-        },
-        "2026-07-02": {
-          "totalBeans": 15817.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 14856.0,
-          "giftBeans": 961.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 716
-        }
-      }
-    },
-    {
-      "id": "acct-228224",
-      "displayName": "candice（85h）",
-      "countryIso": "BR",
-      "totalBeans": 28959.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 28568.0,
-      "giftBeans": 391.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 1302,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 12553.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 12480.0,
-          "giftBeans": 73.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 651
-        },
-        "2026-07-02": {
-          "totalBeans": 16406.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 16088.0,
-          "giftBeans": 318.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 651
-        }
-      }
-    },
-    {
-      "id": "acct-395746",
-      "displayName": "Morena（258）",
-      "countryIso": "BR",
-      "totalBeans": 28922.0,
-      "privateCallBeans": 2455.0,
-      "matchCallBeans": 25176.0,
-      "giftBeans": 291.0,
+      "id": "acct-015291",
+      "displayName": "ليال 💗（142）",
+      "countryIso": "SY",
+      "totalBeans": 29178.0,
+      "privateCallBeans": 480.0,
+      "matchCallBeans": 27628.0,
+      "giftBeans": 70.0,
       "messageBeans": 0.0,
       "otherBeans": 1000.0,
-      "billCount": 1062,
+      "billCount": 1359,
       "plannedBeans": 0,
       "online": false,
       "plans": {},
       "days": {
         "2026-07-01": {
-          "totalBeans": 10908.0,
-          "privateCallBeans": 500.0,
-          "matchCallBeans": 9408.0,
+          "totalBeans": 11264.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 10764.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
-          "otherBeans": 1000.0,
-          "billCount": 353
+          "otherBeans": 500.0,
+          "billCount": 679
         },
         "2026-07-02": {
-          "totalBeans": 18014.0,
-          "privateCallBeans": 1955.0,
-          "matchCallBeans": 15768.0,
-          "giftBeans": 291.0,
+          "totalBeans": 11218.0,
+          "privateCallBeans": 120.0,
+          "matchCallBeans": 11028.0,
+          "giftBeans": 70.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 680
+        },
+        "2026-07-03": {
+          "totalBeans": 6696.0,
+          "privateCallBeans": 360.0,
+          "matchCallBeans": 5836.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 500.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
+      "id": "acct-749914",
+      "displayName": "Wild Horny（91h）",
+      "countryIso": "VE",
+      "totalBeans": 29057.0,
+      "privateCallBeans": 350.0,
+      "matchCallBeans": 27064.0,
+      "giftBeans": 98.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1545.0,
+      "billCount": 1106,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 16528.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 15620.0,
+          "giftBeans": 98.0,
+          "messageBeans": 0.0,
+          "otherBeans": 810.0,
+          "billCount": 658
+        },
+        "2026-07-02": {
+          "totalBeans": 12529.0,
+          "privateCallBeans": 350.0,
+          "matchCallBeans": 11444.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 735.0,
+          "billCount": 448
+        }
+      }
+    },
+    {
+      "id": "acct-048701",
+      "displayName": "Jackie（253）",
+      "countryIso": "CO",
+      "totalBeans": 28865.0,
+      "privateCallBeans": 895.0,
+      "matchCallBeans": 26560.0,
+      "giftBeans": 454.0,
+      "messageBeans": 0.0,
+      "otherBeans": 956.0,
+      "billCount": 1417,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 14133.0,
+          "privateCallBeans": 675.0,
+          "matchCallBeans": 13004.0,
+          "giftBeans": 454.0,
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 709
+        },
+        "2026-07-02": {
+          "totalBeans": 14732.0,
+          "privateCallBeans": 220.0,
+          "matchCallBeans": 13556.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 956.0,
+          "billCount": 708
         }
       }
     },
@@ -4097,41 +4749,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 474
-        }
-      }
-    },
-    {
-      "id": "acct-048701",
-      "displayName": "Jackie（253）",
-      "countryIso": "CO",
-      "totalBeans": 28515.0,
-      "privateCallBeans": 895.0,
-      "matchCallBeans": 26560.0,
-      "giftBeans": 1060.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 1417,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 14133.0,
-          "privateCallBeans": 675.0,
-          "matchCallBeans": 13004.0,
-          "giftBeans": 454.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 709
-        },
-        "2026-07-02": {
-          "totalBeans": 14382.0,
-          "privateCallBeans": 220.0,
-          "matchCallBeans": 13556.0,
-          "giftBeans": 606.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 708
         }
       }
     },
@@ -4211,76 +4828,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 657
-        }
-      }
-    },
-    {
-      "id": "acct-288697",
-      "displayName": "دلوعة（232）",
-      "countryIso": "EG",
-      "totalBeans": 27988.0,
-      "privateCallBeans": 520.0,
-      "matchCallBeans": 26188.0,
-      "giftBeans": 780.0,
-      "messageBeans": 0.0,
-      "otherBeans": 500.0,
-      "billCount": 657,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 15645.0,
-          "privateCallBeans": 520.0,
-          "matchCallBeans": 14224.0,
-          "giftBeans": 401.0,
-          "messageBeans": 0.0,
-          "otherBeans": 500.0,
-          "billCount": 391
-        },
-        "2026-07-02": {
-          "totalBeans": 12343.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 11964.0,
-          "giftBeans": 379.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 266
-        }
-      }
-    },
-    {
-      "id": "acct-749914",
-      "displayName": "Wild Horny（91h）",
-      "countryIso": "VE",
-      "totalBeans": 27275.0,
-      "privateCallBeans": 350.0,
-      "matchCallBeans": 25992.0,
-      "giftBeans": 123.0,
-      "messageBeans": 0.0,
-      "otherBeans": 810.0,
-      "billCount": 1106,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 16528.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 15620.0,
-          "giftBeans": 98.0,
-          "messageBeans": 0.0,
-          "otherBeans": 810.0,
-          "billCount": 658
-        },
-        "2026-07-02": {
-          "totalBeans": 10747.0,
-          "privateCallBeans": 350.0,
-          "matchCallBeans": 10372.0,
-          "giftBeans": 25.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 448
         }
       }
     },
@@ -4390,6 +4937,50 @@
       }
     },
     {
+      "id": "acct-464965",
+      "displayName": "loirinha（127）",
+      "countryIso": "BR",
+      "totalBeans": 25500.0,
+      "privateCallBeans": 0.0,
+      "matchCallBeans": 24892.0,
+      "giftBeans": 98.0,
+      "messageBeans": 0.0,
+      "otherBeans": 510.0,
+      "billCount": 1476,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 9858.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 9760.0,
+          "giftBeans": 98.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 738
+        },
+        "2026-07-02": {
+          "totalBeans": 11200.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 11200.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 738
+        },
+        "2026-07-03": {
+          "totalBeans": 4442.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 3932.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 510.0,
+          "billCount": 0
+        }
+      }
+    },
+    {
       "id": "acct-887747",
       "displayName": "Paola（254）",
       "countryIso": "CO",
@@ -4421,111 +5012,6 @@
           "messageBeans": 0.0,
           "otherBeans": 0.0,
           "billCount": 706
-        }
-      }
-    },
-    {
-      "id": "acct-553220",
-      "displayName": "روبي 💕（157）",
-      "countryIso": "SY",
-      "totalBeans": 24277.0,
-      "privateCallBeans": 120.0,
-      "matchCallBeans": 23812.0,
-      "giftBeans": 95.0,
-      "messageBeans": 0.0,
-      "otherBeans": 250.0,
-      "billCount": 1305,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 11914.0,
-          "privateCallBeans": 60.0,
-          "matchCallBeans": 11844.0,
-          "giftBeans": 10.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 652
-        },
-        "2026-07-02": {
-          "totalBeans": 12363.0,
-          "privateCallBeans": 60.0,
-          "matchCallBeans": 11968.0,
-          "giftBeans": 85.0,
-          "messageBeans": 0.0,
-          "otherBeans": 250.0,
-          "billCount": 653
-        }
-      }
-    },
-    {
-      "id": "acct-015291",
-      "displayName": "ليال 💗（142）",
-      "countryIso": "SY",
-      "totalBeans": 22482.0,
-      "privateCallBeans": 120.0,
-      "matchCallBeans": 21792.0,
-      "giftBeans": 70.0,
-      "messageBeans": 0.0,
-      "otherBeans": 500.0,
-      "billCount": 1359,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 11264.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 10764.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 500.0,
-          "billCount": 679
-        },
-        "2026-07-02": {
-          "totalBeans": 11218.0,
-          "privateCallBeans": 120.0,
-          "matchCallBeans": 11028.0,
-          "giftBeans": 70.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 680
-        }
-      }
-    },
-    {
-      "id": "acct-464965",
-      "displayName": "loirinha（127）",
-      "countryIso": "BR",
-      "totalBeans": 21058.0,
-      "privateCallBeans": 0.0,
-      "matchCallBeans": 20960.0,
-      "giftBeans": 98.0,
-      "messageBeans": 0.0,
-      "otherBeans": 0.0,
-      "billCount": 1476,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 9858.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 9760.0,
-          "giftBeans": 98.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 738
-        },
-        "2026-07-02": {
-          "totalBeans": 11200.0,
-          "privateCallBeans": 0.0,
-          "matchCallBeans": 11200.0,
-          "giftBeans": 0.0,
-          "messageBeans": 0.0,
-          "otherBeans": 0.0,
-          "billCount": 738
         }
       }
     },
@@ -4743,9 +5229,9 @@
       "id": "acct-105009",
       "displayName": "Ruiva（10h_win）",
       "countryIso": "BR",
-      "totalBeans": 16079.0,
+      "totalBeans": 16323.0,
       "privateCallBeans": 675.0,
-      "matchCallBeans": 15044.0,
+      "matchCallBeans": 15288.0,
       "giftBeans": 10.0,
       "messageBeans": 0.0,
       "otherBeans": 350.0,
@@ -4771,6 +5257,15 @@
           "messageBeans": 0.0,
           "otherBeans": 350.0,
           "billCount": 667
+        },
+        "2026-07-03": {
+          "totalBeans": 244.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 244.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -4845,6 +5340,41 @@
       }
     },
     {
+      "id": "acct-422265",
+      "displayName": "❣️ Princesa 👑（153）",
+      "countryIso": "VE",
+      "totalBeans": 12606.0,
+      "privateCallBeans": 300.0,
+      "matchCallBeans": 11032.0,
+      "giftBeans": 254.0,
+      "messageBeans": 0.0,
+      "otherBeans": 1020.0,
+      "billCount": 1176,
+      "plannedBeans": 0,
+      "online": false,
+      "plans": {},
+      "days": {
+        "2026-07-01": {
+          "totalBeans": 6626.0,
+          "privateCallBeans": 300.0,
+          "matchCallBeans": 5772.0,
+          "giftBeans": 254.0,
+          "messageBeans": 0.0,
+          "otherBeans": 300.0,
+          "billCount": 552
+        },
+        "2026-07-02": {
+          "totalBeans": 5980.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 5260.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 720.0,
+          "billCount": 624
+        }
+      }
+    },
+    {
       "id": "acct-412146",
       "displayName": "Monalisa Silva（251）",
       "countryIso": "BR",
@@ -4883,9 +5413,9 @@
       "id": "acct-105419",
       "displayName": "Jackeline（69h_win）",
       "countryIso": "BR",
-      "totalBeans": 11697.0,
+      "totalBeans": 11861.0,
       "privateCallBeans": 675.0,
-      "matchCallBeans": 10792.0,
+      "matchCallBeans": 10956.0,
       "giftBeans": 20.0,
       "messageBeans": 0.0,
       "otherBeans": 210.0,
@@ -4911,41 +5441,15 @@
           "messageBeans": 0.0,
           "otherBeans": 150.0,
           "billCount": 721
-        }
-      }
-    },
-    {
-      "id": "acct-422265",
-      "displayName": "❣️ Princesa 👑（153）",
-      "countryIso": "VE",
-      "totalBeans": 11290.0,
-      "privateCallBeans": 300.0,
-      "matchCallBeans": 10376.0,
-      "giftBeans": 264.0,
-      "messageBeans": 0.0,
-      "otherBeans": 350.0,
-      "billCount": 1176,
-      "plannedBeans": 0,
-      "online": false,
-      "plans": {},
-      "days": {
-        "2026-07-01": {
-          "totalBeans": 6626.0,
-          "privateCallBeans": 300.0,
-          "matchCallBeans": 5772.0,
-          "giftBeans": 254.0,
-          "messageBeans": 0.0,
-          "otherBeans": 300.0,
-          "billCount": 552
         },
-        "2026-07-02": {
-          "totalBeans": 4664.0,
+        "2026-07-03": {
+          "totalBeans": 164.0,
           "privateCallBeans": 0.0,
-          "matchCallBeans": 4604.0,
-          "giftBeans": 10.0,
+          "matchCallBeans": 164.0,
+          "giftBeans": 0.0,
           "messageBeans": 0.0,
-          "otherBeans": 50.0,
-          "billCount": 624
+          "otherBeans": 0.0,
+          "billCount": 0
         }
       }
     },
@@ -4953,12 +5457,12 @@
       "id": "acct-628276",
       "displayName": "Moana ✨（227）",
       "countryIso": "VE",
-      "totalBeans": 10165.0,
+      "totalBeans": 11145.0,
       "privateCallBeans": 65.0,
-      "matchCallBeans": 9900.0,
+      "matchCallBeans": 10780.0,
       "giftBeans": 0.0,
       "messageBeans": 0.0,
-      "otherBeans": 200.0,
+      "otherBeans": 300.0,
       "billCount": 733,
       "plannedBeans": 0,
       "online": false,
@@ -4981,6 +5485,15 @@
           "messageBeans": 0.0,
           "otherBeans": 100.0,
           "billCount": 409
+        },
+        "2026-07-03": {
+          "totalBeans": 980.0,
+          "privateCallBeans": 0.0,
+          "matchCallBeans": 880.0,
+          "giftBeans": 0.0,
+          "messageBeans": 0.0,
+          "otherBeans": 100.0,
+          "billCount": 0
         }
       }
     },
@@ -5058,12 +5571,12 @@
       "id": "acct-805605",
       "displayName": "la negra（68h_win）",
       "countryIso": "CO",
-      "totalBeans": 6394.0,
+      "totalBeans": 6654.0,
       "privateCallBeans": 0.0,
       "matchCallBeans": 6344.0,
       "giftBeans": 0.0,
       "messageBeans": 0.0,
-      "otherBeans": 50.0,
+      "otherBeans": 310.0,
       "billCount": 909,
       "plannedBeans": 0,
       "online": false,
@@ -5079,12 +5592,12 @@
           "billCount": 443
         },
         "2026-07-02": {
-          "totalBeans": 3352.0,
+          "totalBeans": 3612.0,
           "privateCallBeans": 0.0,
           "matchCallBeans": 3352.0,
           "giftBeans": 0.0,
           "messageBeans": 0.0,
-          "otherBeans": 0.0,
+          "otherBeans": 260.0,
           "billCount": 466
         }
       }
