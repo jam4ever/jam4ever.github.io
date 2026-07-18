@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "title": "历史收益看板",
   "monthKey": "2026-07",
-  "generatedAtIso": "2026-07-18T11:21:23.338366",
+  "generatedAtIso": "2026-07-18T11:30:05.059436",
   "summary": {
     "totalBeans": 54805352.0,
     "privateCallBeans": 1175070.0,
@@ -227,7 +227,7 @@
       "messageBeans": 0.0,
       "otherBeans": 504940.0,
       "billCount": 800990,
-      "accountCount": 89
+      "accountCount": 95
     },
     {
       "countryIso": "VE",
@@ -249,7 +249,7 @@
       "messageBeans": 0.0,
       "otherBeans": 213269.0,
       "billCount": 328853,
-      "accountCount": 47
+      "accountCount": 48
     },
     {
       "countryIso": "SY",
